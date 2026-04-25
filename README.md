@@ -7,7 +7,7 @@
 
 | S.No | Electronic | My Notes  | Trailer | Video | Download|  Certificate|
 | :--- | :--- | :--- | --- | --- | --- | --- | 
-| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project⭐](electronics/modeling_a_point_charge_using_ansys_maxwell.md) | [![Watch the video](https://img.youtube.com/vi/0_2FkxPQF0w/default.jpg)](https://youtu.be/0_2FkxPQF0w) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  [completed](https://innovation.ansys.com/badges/badge/bW9kZWxpbmctYS1wb2ludC1jaGFyZ2UtdXNpbmctYW5zeXMtbWF4d2VsbC0xMA==) | 
+| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project⭐]([electronics/modeling_a_point_charge_using_ansys_maxwell.md](https://github.com/engineer-e/Ansys-Electronic-Desktop-Student-2025-R2-Learning/blob/main/electronics/modeling_a_point_charge_using_ansys_maxwell.md)) | [![Watch the video](https://img.youtube.com/vi/0_2FkxPQF0w/default.jpg)](https://youtu.be/0_2FkxPQF0w) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  [completed](https://innovation.ansys.com/badges/badge/bW9kZWxpbmctYS1wb2ludC1jaGFyZ2UtdXNpbmctYW5zeXMtbWF4d2VsbC0xMA==) | 
 
 ## Ansys Zemax 
 
