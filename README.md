@@ -120,7 +120,7 @@ I completed my Higher Secondary Certificate (12th standard) at Don Bosco Matricu
 I completed my Secondary School Leaving Certificate (10th standard) at Don Bosco Matriculation Higher Secondary School, securing 443/500 marks (88.6%). My subject-wise performance includes Tamil (87), English (84), Mathematics (90), Science (92), and Computer Science (90), demonstrating consistent academic strength across core subjects.
 
 | Subject |   Marks obtained for 100 |
-| --- | :---: |
+| --- | ---: |
 | Tamil | 87 | 
 | English | 84 | 
 | Mathematics| 90 |
