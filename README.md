@@ -99,3 +99,18 @@
 | 08 | EC2050 | MOBILE ADHOC NETWORKS | 3 | D | 6 | APR 2016 |
 | 08 | EC2451 | PROJECT WORK | 6 | S | 10 | APR 2016 |
 
+---
+
+# [12th std - Don Bosco Matriculation Higher Secondary School - Erukkanchery](http://dberukkancheryfsm.org/)
+
+| Subject | Theory (150) | Practical (50) | Marks obtained for 200 |
+| --- | :---: | :---: | :---: |
+| Tamil | | | 170 |
+| English | | | 173 |
+| Physics | 118 | 50 | 168 |
+| Chemistry | 76 | 50 | 126 |
+| Computer Science | 134 | 50 | 184 |
+| Mathematics |  |  | 174 |
+| Total Marks (1200) | | | 995 | 
+
+
