@@ -11,8 +11,6 @@
 
 ## Ansys Zemax 
 
-## Ansys Zemax Studio
-
 | S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
 | :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
 | 1 |  [Fundamentals of Optics](https://innovationspace.ansys.com/courses/learning-track/fundamentals-of-optics/) |  |  | | | | [completed](https://innovation.ansys.com/badges/badge/ZnVuZGFtZW50YWxzLW9mLW9wdGljcy0xMA==) |
