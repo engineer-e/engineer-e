@@ -9,6 +9,21 @@
 | :--- | :--- | :--- | --- | --- | --- | --- | 
 | 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project⭐](electronics/modeling_a_point_charge_using_ansys_maxwell.md) | [![Watch the video](https://img.youtube.com/vi/0_2FkxPQF0w/default.jpg)](https://youtu.be/0_2FkxPQF0w) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  [completed](https://innovation.ansys.com/badges/badge/bW9kZWxpbmctYS1wb2ludC1jaGFyZ2UtdXNpbmctYW5zeXMtbWF4d2VsbC0xMA==) | 
 
+## Ansys Zemax 
+
+## Ansys Zemax Studio
+
+| S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
+| :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
+| 1 |  [Fundamentals of Optics](https://innovationspace.ansys.com/courses/learning-track/fundamentals-of-optics/) |  |  | | | | [completed](https://innovation.ansys.com/badges/badge/ZnVuZGFtZW50YWxzLW9mLW9wdGljcy0xMA==) |
+|  |  | [Introduction to Optics](https://innovationspace.ansys.com/product/introduction-to-optics/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/aW50cm9kdWN0aW9uLXRvLW9wdGljcy00OA==) |
+|  |  | [Fundamental Parameters of Optical Systems](https://innovationspace.ansys.com/courses/courses/fundamental-parameters-of-optical-systems)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/ZnVuZGFtZW50YWwtcGFyYW1ldGVycy1vZi1vcHRpY2FsLXN5c3RlbXMtNg==) |
+|  |  | [Understanding Optical Specifications](https://innovationspace.ansys.com/courses/courses/understanding-optical-specifications/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/dW5kZXJzdGFuZGluZy1vcHRpY2FsLXNwZWNpZmljYXRpb25zLTU=) |
+|  |  | [Real-World Performance](https://innovationspace.ansys.com/product/real-world-performance/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/cmVhbC13b3JsZC1wZXJmb3JtYW5jZS0z) |
+|  |  | [Software Design of Optical Systems](https://innovationspace.ansys.com/product/software-design-of-optical-systems/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/c29mdHdhcmUtZGVzaWduLW9mLW9wdGljYWwtc3lzdGVtcy04) |
+|  |  | [Best Practices for Optical Design](https://innovationspace.ansys.com/courses/courses/best-practices-for-optical-design/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/YmVzdC1wcmFjdGljZXMtZm9yLW9wdGljYWwtZGVzaWduLTQ=) |
+
+
 
 # Electronics and Communication Engineering 
 
