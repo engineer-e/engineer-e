@@ -1,6 +1,15 @@
 # Introduction 
 - [About me](https://engineer-work.github.io/Join-Company/), [Education System, What I learn ?](https://engineer-work.github.io/Join-Company/education_system/education_system.html)
 
+# Learning Topics
+
+## Ansys Electronic Desktop
+
+| S.No | Electronic | My Notes  | Trailer | Video | Download|  Certificate|
+| :--- | :--- | :--- | --- | --- | --- | --- | 
+| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project⭐](electronics/modeling_a_point_charge_using_ansys_maxwell.md) | [![Watch the video](https://img.youtube.com/vi/0_2FkxPQF0w/default.jpg)](https://youtu.be/0_2FkxPQF0w) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  [completed](https://innovation.ansys.com/badges/badge/bW9kZWxpbmctYS1wb2ludC1jaGFyZ2UtdXNpbmctYW5zeXMtbWF4d2VsbC0xMA==) | 
+
+
 # Electronics and Communication Engineering 
 
 > I, **Gobal Krishnan V**, have completed a Bachelor of Engineering degree in **Electronics and Communication Engineering** under the Faculty of Information and Communication Engineering from **Anna University**. I successfully fulfilled all academic requirements and was awarded the degree in **November 2017 with a CGPA of 7.55**, securing **Second Class**.
