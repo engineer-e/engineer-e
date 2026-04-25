@@ -1,6 +1,6 @@
 # Electronics and Communication Engineering 
 
-> I, Gobal Krishnan V, have completed a Bachelor of Engineering degree in Electronics and Communication Engineering under the Faculty of Information and Communication Engineering from Anna University. I successfully fulfilled all academic requirements and was awarded the degree in November 2017 with a CGPA of 7.55, securing Second Class.
+> I, **Gobal Krishnan V**, have completed a Bachelor of Engineering degree in **Electronics and Communication Engineering** under the Faculty of Information and Communication Engineering from **Anna University**. I successfully fulfilled all academic requirements and was awarded the degree in **November 2017 with a CGPA of 7.55**, securing **Second Class**.
 
 ![degree certificate](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/degree%20certificate.jpg)
 
@@ -114,5 +114,19 @@ I completed my Higher Secondary Certificate (12th standard) at Don Bosco Matricu
 | Computer Science | 134 | 50 | 184 |
 | Mathematics |  |  | 174 |
 | Total Marks (1200) | | | 995 | 
+
+# [10th std - Don Bosco Matriculation Higher Secondary School - Erukkanchery](http://dberukkancheryfsm.org/)
+
+I completed my Secondary School Leaving Certificate (10th standard) at Don Bosco Matriculation Higher Secondary School, securing 443/500 marks (88.6%). My subject-wise performance includes Tamil (87), English (84), Mathematics (90), Science (92), and Computer Science (90), demonstrating consistent academic strength across core subjects.
+
+| Subject |   Marks obtained for 100 |
+| --- | :---: |
+| Tamil | 87 | 
+| English | 84 | 
+| Mathematics| 90 |
+| Science (Physics, Chemistry, Botany, Zoology) - Theory (176) - 76, Practical (100) | 92 |
+| Computer Science | 90 | 
+| Total Marks (500) | 443 |  
+
 
 
