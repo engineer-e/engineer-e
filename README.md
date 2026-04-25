@@ -3,7 +3,7 @@
 * [About me](https://engineer-work.github.io/Join-Company/), [Education System, What I learn?](https://engineer-work.github.io/Join-Company/education_system/education_system.html)
 * I didn’t have friends in school, college, or the office. I rarely talked to anyone. Sometimes, people used me as time passed.
 * No one knew about my life during those days, and I didn’t know much about theirs either.
-* I had only one goal during that time: to settle in life after engineering, get placed in a company, secure a permanent job, and eventually get married to the person my parents chose.
+* I had only one goal during that time: to settle in life after engineering, get placed in a company, secure a permanent job, and eventually get married to the person my parents chose based on my religion and culture.
 * But this plan was completely disrupted due to arrears and backlogs during my engineering. Even though I got placed in two companies during college, I lost both opportunities because of those arrears. [about my job life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html)  
   
   
