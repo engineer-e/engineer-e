@@ -103,7 +103,7 @@
 
 # [12th std - Don Bosco Matriculation Higher Secondary School - Erukkanchery](http://dberukkancheryfsm.org/)
 
-I completed my Higher Secondary Certificate (12th standard) at Don Bosco Matriculation Higher Secondary School, securing 995/1200 marks (82.92%). My subject scores in Mathematics (174), Physics (168), and Chemistry (126) resulted in a TNEA counselling cut-off of 160.5/200, which was used for engineering admission through the centralized counselling process in Tamil Nadu. I also performed strongly in Computer Science (184), Tamil (170), and English (173).
+I completed my Higher Secondary Certificate (12th standard) at Don Bosco Matriculation Higher Secondary School, **securing 995/1200 marks (82.92%). My subject scores in Mathematics (174), Physics (168), and Chemistry (126) resulted in a TNEA counselling cut-off of 160.5/200, which was used for engineering admission through the centralized counselling process in Tamil Nadu**. I also performed strongly in Computer Science (184), Tamil (170), and English (173).
 
 | Subject | Theory (150) | Practical (50) | Marks obtained for 200 |
 | --- | :---: | :---: | :---: |
