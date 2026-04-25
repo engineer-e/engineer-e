@@ -1,5 +1,6 @@
 # Introduction 
-- [My Personal life](), [Education System, What I learn ?](https://engineer-work.github.io/Join-Company/education_system/education_system.html)
+- [My Personal life](https://engineer-work.github.io/Join-Company/), [Education System, What I learn ?](https://engineer-work.github.io/Join-Company/education_system/education_system.html)
+
 # Electronics and Communication Engineering 
 
 > I, **Gobal Krishnan V**, have completed a Bachelor of Engineering degree in **Electronics and Communication Engineering** under the Faculty of Information and Communication Engineering from **Anna University**. I successfully fulfilled all academic requirements and was awarded the degree in **November 2017 with a CGPA of 7.55**, securing **Second Class**.
