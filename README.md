@@ -80,6 +80,8 @@ It is: do you want temporary experiences, or a meaningful and lasting connection
 
 ❤️ I consider all their sacrifices and help as a valuable investment in my future, and I remain deeply grateful. for this what title?
 
+💡 I understand that GitHub is meant for showcasing skills and projects, not personal shopping history. So I do not include purchases from Amazon 📦, Flipkart 🛒, or local shops 🏪, and instead focus only on tools, resources, and technologies that helped me learn and build my skills 💻.
+
 ----
 
 
