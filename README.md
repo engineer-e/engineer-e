@@ -70,6 +70,8 @@ It is: do you want temporary experiences, or a meaningful and lasting connection
 
 💼 Later, I re-entered the software field and continued working to rebuild my career.
 
+📱 During my early working period, I did not make any major personal purchases. I only bought a [Lenovo K10 tablet](), which became my primary tool for learning, studying technical concepts, and continuing skill development during difficult financial conditions.
+
 🙏 I also sincerely acknowledge the continued support of my mother, Vasugi, and my younger brother, Kishore Kumar, who have supported me during recent difficult times (2025–2026) with food, learning resources, and access to a laptop.
 
 💻 With their support, I am currently learning NVIDIA Isaac Sim and ANSYS in 2026 to build better career opportunities.
