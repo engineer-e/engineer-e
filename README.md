@@ -70,7 +70,7 @@ It is: do you want temporary experiences, or a meaningful and lasting connection
 
 💼 Later, I re-entered the software field and continued working to rebuild my career.
 
-📱 During my early working period, I did not make any major personal purchases. I only bought a [Lenovo K10 tablet](), which became my primary tool for learning, studying technical concepts, and continuing skill development during difficult financial conditions.
+📱 During my early working period, I did not make any major personal purchases. I only bought a [Lenovo K10 tablet](https://www.lenovo.com/in/en/p/tablets/android-tablets/lenovo-tab-series/lenovo-tab-k10/len103l0005?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOorSpA6pxFTUTunhSroVy1uk21Uh7yrOQo6Wr3EwW1oZMNd9uHgM), [Headset](https://www.amazon.in/dp/B09GPKJ2WJ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1), [XENX P3](https://www.amazon.in/XENX-P3-1060B-Graphics-Sensitivity-Battery-Free/dp/B09PQMHGGT?pd_rd_w=L57xL&content-id=amzn1.sym.9421b22b-cc31-4ab3-8613-15b744037b6c&pf_rd_p=9421b22b-cc31-4ab3-8613-15b744037b6c&pf_rd_r=VE44HK5BG2BC6T22K4JV&pd_rd_wg=UxdLD&pd_rd_r=f92ebeeb-6d84-4eca-bc59-5da5a8af8357&pd_rd_i=B09PQMHGGT&ref_=pd_bap_d_grid_rp_0_1_ec_pr_t&th=1), [Mic](https://www.amazon.in/dp/B0BJ8NPHRD?ref=ppx_yo2ov_dt_b_fed_asin_title) which became my primary tool for learning, studying technical concepts, and continuing skill development during difficult financial conditions.
 
 🙏 I also sincerely acknowledge the continued support of my mother, Vasugi, and my younger brother, Kishore Kumar, who have supported me during recent difficult times (2025–2026) with food, learning resources, and access to a laptop.
 
