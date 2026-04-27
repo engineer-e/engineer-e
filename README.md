@@ -6,6 +6,8 @@
 
 ####  you all trying to secure your family and you, likewise I do [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
+###  ❤️ I love Robots [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
 # Introduction 
 
 
