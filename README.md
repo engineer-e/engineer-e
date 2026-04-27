@@ -55,6 +55,32 @@ It is: do you want temporary experiences, or a meaningful and lasting connection
 
 
 ---
+
+# 🙏 Acknowledgement of My Educational Journey and Family Support Beyond Transactions
+
+🙏 I would like to sincerely acknowledge the journey and support behind my education and career. I completed my Electronic and Communication Engineering studies through an education loan from Syndicate Bank (now merged with Canara Bank).
+
+🎓 From the second year of my engineering studies (around 2012 onwards), I depended on the education loan to continue my college education. Half of the college expenses were also supported and paid by my father, Vajravel P.
+
+💼 After graduation (2016), I worked as a Teleport Engineer with a monthly salary of ₹5,000. My salary was mainly used to repay the education loan and manage responsibilities.
+
+🏥 After about one year (2017), I faced health issues and was no longer able to continue regular payments toward the education loan. This created financial difficulties in my career journey.
+
+🏠 During the three-year gap period (2018–2021), I stayed at home without stable income. During that time, I spent my days studying various technical topics, trying to improve my skills, and depended on the food and daily support provided by my mother, Vasugi. Her care helped me continue during a very difficult period.
+
+💼 Later, I re-entered the software field and continued working to rebuild my career.
+
+🙏 I also sincerely acknowledge the continued support of my mother, Vasugi, and my younger brother, Kishore Kumar, who have supported me during recent difficult times (2025–2026) with food, learning resources, and access to a laptop.
+
+💻 With their support, I am currently learning NVIDIA Isaac Sim and ANSYS in 2026 to build better career opportunities.
+
+💼 Once I secure stable employment and begin earning again, I am committed to repaying all support received, clearing responsibilities, and taking care of my family in return.
+
+❤️ I consider all their sacrifices and help as a valuable investment in my future, and I remain deeply grateful. for this what title?
+
+----
+
+
 # Learning Topics
 
 ## Ansys Electronic Desktop
