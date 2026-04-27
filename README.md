@@ -1,3 +1,11 @@
+# Hi, I'm Gobal Krishnan 👋   [💸🤑💰For my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
+#### I am Money minded and Selfish don't try to talk me, don't act to me as friend for money [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
+#### If you try to act to me as friend or love kind of emotions, I ask you Job Role, Salary, properties, movable and immovable assets, net worth of amount in your bank account legal and illegal amount, current status of your family. [💸🤑💰 for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
+####  you all trying to secure you family and you, likewise I do [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
 # Introduction 
 
 
