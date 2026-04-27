@@ -6,7 +6,12 @@
 
 ####  you all trying to secure your family and you, likewise I do [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
-###  ❤️ I love Robots [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+### ❤️🤖 I love Robots ⚙️💸🤑💰 for my life and Work 🚀🔧📡
+
+Since human species 👤🌍 and other species 🐾🧬 in this world 🌏—or in any dimension 🌌, universe 🌠, or any form 👁️‍🗨️ that may not be perceivable 👀 by humans like me 👤 or any other species—the core design 🧠⚙️ in this timeline ⏳ is robots 🤖🤖.
+
+But in the past 🕰️📜, it was humans 👤👥. Human beings 👨‍🦱👩‍🦱 are like robots 🤖⚙️ in ancient timelines 🏺 compared to the current timeline ⏳🚀.
+
 
 # Introduction 
 
