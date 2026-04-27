@@ -41,8 +41,20 @@ It is: do you want temporary experiences, or a meaningful and lasting connection
 
 ---
 
+# Sponsorship
 
-  
+🙏 I would like to sincerely acknowledge the support and sponsorship provided by my mother, **Vasugi**, and my younger brother, **Kishore Kumar**, for the past 9 months during a difficult phase of my career.
+
+💻 As **I currently do not have my own desktop or laptop**, they supported me with access to a laptop, learning resources, food, and other essential needs, which enabled me to continue improving my skills.
+
+📚 With their support, I am currently learning NVIDIA Isaac Sim and ANSYS to build better career opportunities.
+
+💼 I will be able to repay their support once I secure a job and begin earning again.
+
+❤️ I consider their help a valuable investment in my future, and I remain committed to supporting them in return.
+
+
+---
 # Learning Topics
 
 ## Ansys Electronic Desktop
