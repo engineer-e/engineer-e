@@ -1,7 +1,7 @@
 # Introduction 
 
 
-* 🔗 [About Me](https://engineer-work.github.io/Join-Company/) | 🎓 [Education System – What I Learned](https://engineer-work.github.io/Join-Company/education_system/education_system.html) , [Donate 💖](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+* 🔗 [About Me](https://engineer-work.github.io/Join-Company/) | 🎓 [Education System – What I Learned](https://engineer-work.github.io/Join-Company/education_system/education_system.html) , [Donate 🤑](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
 * 🧍‍♂️ I didn’t have friends in school, college, or the office. I rarely talked to anyone. Sometimes, people used me as time passed.
 
