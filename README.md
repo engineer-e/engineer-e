@@ -80,7 +80,13 @@ It is: do you want temporary experiences, or a meaningful and lasting connection
 
 ❤️ I consider all their sacrifices and help as a valuable investment in my future, and I remain deeply grateful. for this what title?
 
-💡 I understand that GitHub is meant for showcasing skills and projects, not personal shopping history. So I do not include purchases from Amazon 📦, Flipkart 🛒, or local shops 🏪, and instead focus only on tools, resources, and technologies that helped me learn and build my skills 💻.
+💡 I do not include personal purchase or order history 📦 from platforms such as Amazon 🛒, Flipkart 🛍️, Swiggy 🍔, Zomato 🍽️, or local shops 🏪 in GitHub 💻, as GitHub is intended for showcasing skills 🧠, projects 🛠️, code repositories 📂, and technical work 📚.
+
+🚫 This platform is not meant for transactional data 💳 or shopping records 🧾, but for learning 📖, development ⚙️, and engineering growth 📈.
+
+⏳ If, in the future, such companies provide official free APIs 🔗 that allow secure integration 🔐 of personal application records or purchase data with GitHub, I may consider using them appropriately at that time 🤝.
+
+🙏 Until then, I focus only on tools 🧰, technologies 💻, and skills 🚀 that help in my learning and career development 🎯.
 
 ----
 
