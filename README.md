@@ -105,6 +105,16 @@ It is: do you want temporary experiences, or a meaningful and lasting connection
 
 ----
 
+# ⚖️ Pain of Caste Judgment & Legal Equality in India 🇮🇳
+
+In India, caste-based judgment caused pain for many people in childhood 👶, school 🏫, college 🎓, office 💼, and society 🌍 through bullying, exclusion, pressure, and unfair bias 😞.
+This pain ranged from low confidence and stress to blocked opportunities, with many experiencing **5/10 to 10/10 hardship** depending on place and situation 🔴.
+India made a historic legal change on **26 January 1950** when the Constitution came into force 🇮🇳📜, strongly shaped by B. R. Ambedkar and other leaders.
+Articles **14, 15, 16, and 17** guaranteed equality ⚖️, banned caste discrimination 🚫, and abolished untouchability ⛓️❌ under law.
+Today, social problems can still exist 😔, but legally no one is “high” or “low” caste—your talent, character, and actions define you 🌱🚀.
+
+
+---
 
 # Learning Topics
 
