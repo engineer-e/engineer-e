@@ -1,6 +1,6 @@
 # Hi, I'm Gobal Krishnan 👋   [💸🤑💰For my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
-### 💍❌ Marriage and Love are fake 💔🚫, I not interested in marriage and love 🙅‍♂️❤️‍🩹. If anyone force me or ask about it 😑👉, I ask your full assets and property 🏠💰📄 register to me. 💸📦 If money or object you want for life 💸📦, I ask to you for my life 🤝💰. I know you all stop think to  talk to me 🤐🚶‍♂️🚪.
+### 💍❌ Marriage and Love are fake 💔🚫, I not interested in marriage and love 🙅‍♂️❤️‍🩹. Only If anyone force me or ask about it 😑👉, I ask your full assets and property 🏠💰📄 register to me. 💸📦 If money or any object you trying to save for you and your family life 💸📦, I ask to you for my life 🤝💰. I know you all stop think to  talk to me 🤐🚶‍♂️🚪.
 
 
 #### I am Money minded and Selfish don't try to talk me, don't act to me as friend for money [💸🤑💰for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
