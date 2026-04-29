@@ -1,7 +1,7 @@
 # Hi, I'm Gobal Krishnan 👋   [💸🤑💰For my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
 
-#### I [only need 💸🤑💰 for my life and work 🚀⚙️🛠️](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)  — to build projects 🧪🤖 that create a **Self-Healing Spaceship** 🛸✨🔧, and to transform my human biological architectural body 🧬👤 into a form that can support space travel 🌌🚀 or different dimensional travel 🌠🌀 with advanced healing systems 💚⚡🔬.
+#### I [only need 💸🤑💰 for my life and work 🚀⚙️🛠️](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)  — to build projects 🧪🤖 that create a **[Self-Healing Spaceship](https://engineer-work.github.io/Join-Company/my_wish_and_goal/spaceship/my_wish.html)** 🛸✨🔧, and to transform my human biological architectural body 🧬👤 into a form that can support space travel 🌌🚀 or different dimensional travel 🌠🌀 with advanced healing systems 💚⚡🔬.
 
 
 ### 💍❌ Marriage and Love are fake 💔🚫, I not interested in marriage and love 🙅‍♂️❤️‍🩹. Only If anyone force me or ask about it 😑👉, I ask your full assets and property 🏠💰📄 register to me. 💸📦 If money or any object you trying to save for you and your family life 💸📦, I ask to you for my life 🤝💰. I know you all stop think to  talk to me 🤐🚶‍♂️🚪.
