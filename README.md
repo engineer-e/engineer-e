@@ -12,7 +12,7 @@ Since human species 👤🌍 and other species 🐾🧬 in this world 🌏—or 
 
 But in the past 🕰️📜, it was humans 👤👥. Human beings 👨‍🦱👩‍🦱 are like robots 🤖⚙️ in ancient timelines 🏺 compared to the current timeline ⏳🚀.
 
-> I only like Remote Job, (Email : dr.bot.engineer@gmail.com, gobalkrishnan.work@gmail.com) . Since, I record all mail based on job. since, if **working for money is so danger**, give me **good job** to **improve knowledge** and **good growth**.
+> I only like Remote Job, (Email : dr.bot.engineer@gmail.com, gobalkrishnan.work@gmail.com) . Since, I record all mail based on job. since, if **working for (money or any kind of desire/destiny/ambitious object or material) is so danger**, give me **good job** to **improve knowledge** and **good growth**.
 
 # Introduction 
 
