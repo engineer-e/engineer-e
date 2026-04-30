@@ -1,6 +1,6 @@
 # Truth of World Behave 
 
-> See this below video, then read my all profile and **understand me**, then **judge** me.
+> Click the below image, to see the video, then read my all profile and **understand me**, then **judge** me.
 
 
 [![Watch the video](https://img.youtube.com/vi/rHwA55wGRrU/maxresdefault.jpg)](https://youtu.be/rHwA55wGRrU?si=JkJpJgcON3WC5ZSt)
