@@ -1,3 +1,11 @@
+# Truth of World Behave 
+
+> See this below video, then read my all profile and **understand me**, then **judge** me.
+
+
+[![Watch the video](https://img.youtube.com/vi/rHwA55wGRrU/maxresdefault.jpg)](https://youtu.be/rHwA55wGRrU?si=JkJpJgcON3WC5ZSt)
+
+
 ![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/Cybory%20Hulk%201.png)
 # Hi, I'm Gobal Krishnan 👋   [💸🤑💰For my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
