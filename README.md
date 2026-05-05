@@ -230,7 +230,13 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 |  |  | [Software Design of Optical Systems](https://innovationspace.ansys.com/product/software-design-of-optical-systems/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/c29mdHdhcmUtZGVzaWduLW9mLW9wdGljYWwtc3lzdGVtcy04) |
 |  |  | [Best Practices for Optical Design](https://innovationspace.ansys.com/courses/courses/best-practices-for-optical-design/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/YmVzdC1wcmFjdGljZXMtZm9yLW9wdGljYWwtZGVzaWduLTQ=) |
 
+# OpenGL in C++
 
+- But want to use Visual Studio  IDE, not done in CMake
+
+| S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
+| :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
+| 1 |  [Computer Graphics with Modern OpenGL and C++](https://www.udemy.com/course/graphics-with-modern-opengl/) |  |  | | | | [completed](https://www.udemy.com/certificate/UC-59008625-ea7a-49b7-b59c-a4289530d262/) |
 
 # Electronics and Communication Engineering 
 
