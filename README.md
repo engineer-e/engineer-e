@@ -1,4 +1,17 @@
-[💸🤑💰  donate](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) *Profile* - [Planner App](https://engineer-work.github.io/planner-app/),  [My Learning Habit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true) , [ORCID](https://orcid.org/0009-0001-3787-2860),   [Free Learning Courses to Make Simulator](https://engineer-work.github.io/Join-Company/free-learning/free-learning.html) , [Desktop computer for Scientific Computing & Simple Simulation](https://engineer-work.github.io/Join-Company/device/current_specification_device.html), [Career Path](https://engineer-work.github.io/Join-Company/startup/issue-happen-to-me-while-working-in-startup.html), [My Job Life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html) , [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
+
+
+[💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+✨ *Profile* –
+📅 [Planner App](https://engineer-work.github.io/planner-app/) 📌,
+📊🔥 [My Learning Habit](https://docs.google.com/spreadsheets/d/e/2PACX-1vTNRg4Puo7QCFcm4ZXVF1dnX4qL6ofzOsO__GwuHJr-yke0QUXZtI51cr9Mt8Ui7QSoKTzOlr_SuB-G/pubhtml?gid=1898283119&single=true) 📈,
+🆔🌐 [ORCID](https://orcid.org/0009-0001-3787-2860)
+🎓📚 [Free Learning Courses to Make Simulator](https://engineer-work.github.io/Join-Company/free-learning/free-learning.html) 🚀
+💻⚙️ [Desktop Computer for Scientific Computing & Simple Simulation](https://engineer-work.github.io/Join-Company/device/current_specification_device.html) 🧠
+🧭🚀 [Career Path](https://engineer-work.github.io/Join-Company/startup/issue-happen-to-me-while-working-in-startup.html)
+💼📈 [My Job Life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html)
+🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
+
+
 
 # Truth of World Behave 
 
