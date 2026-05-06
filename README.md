@@ -11,7 +11,18 @@
 💼📈 [My Job Life](https://engineer-work.github.io/Join-Company/startup/my_career_path.html)
 🎒🏫 [My College Life](https://engineer-work.github.io/Join-Company/college/pain-during-college.html)
 
+---
 
+# 🧠✨ **Medical Symptom Statement (For My Proper Diagnosis & Treatment)**
+
+😖💥 I experience **continuous facial muscle pain and head pressure** (around face and eyes), which affects my concentration and thinking. During episodes, I feel **mentally disconnected and lose my sense of self** (similar to dissociation).
+
+⏳🔄 These episodes are **unpredictable**, lasting from hours to days, weeks, or even a month, and recovery takes a long time. My MRI did not show major issues, but the symptoms are **severe and recurring**, affecting my daily life.
+
+🩺⚠️ I need a **complete medical evaluation** for conditions like chronic migraine or myofascial pain syndrome, and proper treatment to reduce pain, improve mental clarity, and prevent long episodes.
+
+
+---
 
 # Truth of World Behave 
 
@@ -225,16 +236,7 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 ---
 
-# 🧠✨ **Medical Symptom Statement (For My Proper Diagnosis & Treatment)**
 
-😖💥 I experience **continuous facial muscle pain and head pressure** (around face and eyes), which affects my concentration and thinking. During episodes, I feel **mentally disconnected and lose my sense of self** (similar to dissociation).
-
-⏳🔄 These episodes are **unpredictable**, lasting from hours to days, weeks, or even a month, and recovery takes a long time. My MRI did not show major issues, but the symptoms are **severe and recurring**, affecting my daily life.
-
-🩺⚠️ I need a **complete medical evaluation** for conditions like chronic migraine or myofascial pain syndrome, and proper treatment to reduce pain, improve mental clarity, and prevent long episodes.
-
-
----
 
 # Learning Topics
 
