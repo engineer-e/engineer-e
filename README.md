@@ -28,6 +28,10 @@
 
 🩺⚠️ I need a **complete medical evaluation** for conditions like chronic migraine or myofascial pain syndrome, and proper treatment to reduce pain, improve mental clarity, and prevent long episodes.
 
+> I watched lot of superheros movies dream like that, Not think on the subject what taught during school. I only think about comics and superhero. But, I know how to integrate the knowledge I gain from school, college to do like supernatural begins. **But, till now I not done any biological experiment on my human body.**.  
+
+> No one able to find me or Remember for each 10 years, Since my Body and Face Geometrical Structure change. But this common action in human species growth, But, You all able to identify them or Others, when you talk to them in school, college and office, In my case you not able to identify me, since, I totally Changed in Geometrical Structure of human species body.
+
 
 ---
 
@@ -127,9 +131,6 @@ But in the past 🕰️📜, it was humans 👤👥. Human beings 👨‍🦱�
 [![Watch the video](https://img.youtube.com/vi/usoaIVEW5bE/default.jpg)](https://youtu.be/usoaIVEW5bE?si=07fnpMA2_VN2zLH6)
 
 
-> I watched lot of superheros movies dream like that, Not think on the subject what taught during school. I only think about comics and superhero. But, I know how to integrate the knowledge I gain from school, college to do like supernatural begins. **But, till now I not done any biological experiment on my human body.**.  
-
-> No one able to find me or Remember for each 10 years, Since my Body and Face Geometrical Structure change. But this common action in human species growth, But, You all able to identify them, when you talk to them in school, college and office, In my case you not able to identify me, since, I totally Changed in Geometrical Structure of human species body.
 
 
 # Introduction 
