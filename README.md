@@ -13,6 +13,13 @@
 
 ---
 
+# Truth of World Behave 
+
+> Click the below image, to see the video, then read my all profile and **understand me**, then **judge** me.
+
+
+[![Watch the video](https://img.youtube.com/vi/rHwA55wGRrU/maxresdefault.jpg)](https://youtu.be/rHwA55wGRrU?si=JkJpJgcON3WC5ZSt)
+
 # 🧠✨ **Medical Symptom Statement (For My Proper Diagnosis & Treatment)**
 
 😖💥 I experience **continuous facial muscle pain and head pressure** (around face and eyes), which affects my concentration and thinking. During episodes, I feel **mentally disconnected and lose my sense of self** (similar to dissociation).
@@ -23,14 +30,6 @@
 
 
 ---
-
-# Truth of World Behave 
-
-> Click the below image, to see the video, then read my all profile and **understand me**, then **judge** me.
-
-
-[![Watch the video](https://img.youtube.com/vi/rHwA55wGRrU/maxresdefault.jpg)](https://youtu.be/rHwA55wGRrU?si=JkJpJgcON3WC5ZSt)
-
 
 ![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/Cybory%20Hulk%201.png)
 # Hi, I'm Gobal Krishnan 👋   [💸🤑💰For my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
