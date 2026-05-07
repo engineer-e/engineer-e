@@ -20,6 +20,39 @@
 
 [![Watch the video](https://img.youtube.com/vi/rHwA55wGRrU/maxresdefault.jpg)](https://youtu.be/rHwA55wGRrU?si=JkJpJgcON3WC5ZSt)
 
+---
+
+# Escape Story : The People you attack for Competition
+
+My name is Gobal Krishnan V 👨‍💻
+Born on 18-06-1995 🎂
+
+Since childhood, I have been afraid to go to offices, schools, colleges, companies, or even stay near neighbors in towns, cities, villages, apartments, or individual villas 😔🏙️🏡
+
+From my childhood, I have faced many struggles. I often felt that people around me — schoolmates, college mates, office colleagues, or neighbors — unknowingly treated me badly or saw me as competition ⚠️
+
+Because of this, I believe many systems in education and other fields became difficult and stressful for me 📚💔
+
+That is why I prefer remote jobs and peaceful work environments 💻🏡✨
+
+I have experienced many medical and health issues since childhood 🩺😞
+Whenever I stay alone, my health feels better and my mind feels peaceful 🌿🕊️
+
+But when I join groups in schools, colleges, offices, companies, or interact closely with neighbors, my health becomes weak and I struggle a lot 😣⚡
+
+In my past jobs, I mainly worked on documentation, designing, coding, and sketching 📄🎨💻✏️
+
+For me, life becomes very difficult when interacting with people in the physical world 🌍💭
+But I feel comfortable and peaceful in the virtual world 🌐✨
+
+Whenever I start interacting with others, it feels like a competition mode gets triggered unknowingly among people around me ⚔️
+But from my side, I do not want competition. I only want peace and a stable life 🤝🌱
+
+These painful experiences have happened to me in many places across India and even in other parts of the world 🌏😔
+
+
+---
+
 # 🧠✨ **Medical Symptom Statement (For My Proper Diagnosis & Treatment)**
 
 😖💥 I experience **continuous facial muscle pain and head pressure** (around face and eyes), which affects my concentration and thinking. During episodes, I feel **mentally disconnected and lose my sense of self** (similar to dissociation).
