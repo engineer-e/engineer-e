@@ -22,7 +22,7 @@
 
 ---
 
-# Escape Story : The People you attack for Competition
+# 🚨 Escape Story 🚨, 😔 The People Around You Attack You Through Competition, 🔥 This Is the Hell I Have Faced Since Childhood 🔥
 
 My name is Gobal Krishnan V 👨‍💻
 Born on 18-06-1995 🎂
