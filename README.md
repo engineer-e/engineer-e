@@ -35,7 +35,7 @@
 ---
 
 
-# I prefer Remote Work only.
+# 💻🏡 I Prefer Remote Work Only 🌐✨
 
 ## 🚨 Escape Story 🚨, 😔 The People Around You Attack You Through Competition, 🔥 This Is the Hell I Have Faced Since Childhood 🔥
 
