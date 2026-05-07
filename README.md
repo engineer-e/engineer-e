@@ -37,7 +37,7 @@
 
 # 💻🏡 I Prefer Remote Work Only 🌐✨
 
-## 🚨 Escape Story 🚨, 😔 The People Around You, Attacks You Through Competition, 🔥 This Is the Hell I Have Faced Since Childhood 🔥
+## 🚨 Escape Story 🚨, 😔 The People Around You, Attacks You Through Competition, 🔥 This Is the Hell, I Have Faced Since Childhood 🔥
 
 My name is Gobal Krishnan V 👨‍💻
 Born on 18-06-1995 🎂
