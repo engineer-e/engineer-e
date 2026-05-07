@@ -37,7 +37,10 @@
 
 # 💻🏡 I Prefer Remote Work Only 🌐✨
 
+# I do not want competition. I only want peace and a stable life
+
 ## 🚨 Escape Story 🚨, 😔 The People Around You, Attacks You Through Competition, 🔥 This Is the Hell, I Have Faced Since Childhood 🔥
+
 
 My name is Gobal Krishnan V 👨‍💻
 Born on 18-06-1995 🎂
@@ -61,7 +64,7 @@ For me, life becomes very difficult when interacting with people in the physical
 But I feel comfortable and peaceful in the virtual world 🌐✨
 
 Whenever I start interacting with others, it feels like a competition mode gets triggered unknowingly among people around me ⚔️
-But from my side, I do not want competition. I only want peace and a stable life 🤝🌱
+But from my side, **I do not want competition. I only want peace and a stable life** 🤝🌱
 
 These painful experiences have happened to me in many places across India and even in other parts of the world 🌏😔
 
