@@ -22,7 +22,22 @@
 
 ---
 
-# 🚨 Escape Story 🚨, 😔 The People Around You Attack You Through Competition, 🔥 This Is the Hell I Have Faced Since Childhood 🔥
+# 💻🏡 I Prefer Remote Work Only 🌐✨
+
+🕊️ Peaceful environment = Better health
+🌿 Working alone helps me stay calm and focused
+💻 Remote work gives me comfort, stability, and productivity
+🎨📄✏️ I enjoy coding, designing, documentation, and sketching
+🌐 Virtual world feels safer and more peaceful for me
+
+✨ Remote Work = Peace of Mind + Better Life ✨
+
+---
+
+
+# I prefer Remote Work only.
+
+## 🚨 Escape Story 🚨, 😔 The People Around You Attack You Through Competition, 🔥 This Is the Hell I Have Faced Since Childhood 🔥
 
 My name is Gobal Krishnan V 👨‍💻
 Born on 18-06-1995 🎂
