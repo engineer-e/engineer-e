@@ -18,7 +18,7 @@
 
 | Click the below image, to see the video, then read my all profile and **understand me**, then **judge** me. | Need Freedom |
 | ---  | --- |
-| [![Watch the video](https://img.youtube.com/vi/rHwA55wGRrU/maxresdefault.jpg)](https://youtu.be/rHwA55wGRrU?si=JkJpJgcON3WC5ZSt) | ![](images/genini.png) |
+| [![Watch the video](https://img.youtube.com/vi/rHwA55wGRrU/maxresdefault.jpg)](https://youtu.be/rHwA55wGRrU?si=JkJpJgcON3WC5ZSt) | [![Watch the video](images/genini.png)](https://www.youtube.com/watch?si=DMHghP16FTV46Kjb&v=p1XNOpVzCLM&feature=youtu.be) |
 
 ---
 
