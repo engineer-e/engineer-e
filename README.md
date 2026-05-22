@@ -1,5 +1,10 @@
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
+🤔💭 When people ask me questions, sometimes I’m not able to answer immediately 😅 because I don’t keep all the information stored in my brain 🧠📚. I focus on multiple fields at the same time 🌍⚡, so instead of memorizing everything, I learn while working on the task itself 🔍💻.
+
+Before, I used to search through books 📖, articles 📰, and other resources to understand things properly. Now, AI tools 🤖✨ also help me learn, research, and work more efficiently 🚀🔥.
+
+
 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), 
 [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 ✨ *Profile* –
