@@ -528,7 +528,14 @@ If you want it even sharper, I can:
 
 Just tell me 👍
 
+**Note:** This is based on my thought about my family lineage and my own perspective. It is only a probability calculation about human species events and actions on this planet. In physics and educational research discussions at [MIT by Dr. Peter Dourmashkin, Senior Lecturer in Physics at the Massachusetts Institute of Technology (MIT)](https://physics.mit.edu/physics-directory/peter-dourmashkin/?utm_source=chatgpt.com), concepts related to motion, energy, light, electromagnetism, and very small measurable physical effects made me think scientifically about human motion and events.
 
+For example, even the movement of a 6-foot human body can create extremely tiny physical effects such as acceleration, electromagnetic interaction, thermal radiation, reflected visible light, or gravitational influence at microscopic scales. Based on this scientific thinking, I am doing this only as a scientific and philosophical research thought experiment.
+
+No human can properly predict the future with complete certainty. For example, if I say “I am more talented,” and if I die in the next second after saying that, then the situation itself shows how uncertain and probabilistic human life and events are. So please do not believe this as absolute truth, destiny, or future prediction. It is only my personal perspective and a scientific probability calculation thought experiment.
+
+
+[Birth Chart Website ](https://www.prokerala.com/astrology/birth-chart/)
 
 | Rasi | Navamsa | 
 | --- | --- |
