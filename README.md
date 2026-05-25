@@ -536,7 +536,7 @@ Just tell me 👍
 | Rasi | Navamsa | 
 | --- | --- |
 | ![](https://engineer-work.github.io/Join-Company/images/rasi_chart.webp) | ![](https://engineer-work.github.io/Join-Company/images/navamsa_chart.webp)
-| [![Watch the video](https://img.youtube.com/vi/YCH4Cy5_KU4/default.jpg)](https://youtu.be/YCH4Cy5_KU4?si=aHWUYGKcfSzjaMBL) | |
+| [![Watch the video](https://img.youtube.com/vi/YCH4Cy5_KU4/default.jpg)](https://youtu.be/YCH4Cy5_KU4?si=aHWUYGKcfSzjaMBL) [![Watch the video](https://img.youtube.com/vi/OhRpaH1M8Zc/default.jpg)](https://youtu.be/OhRpaH1M8Zc?si=-JennWuJxDrwEqXC) | |
 
 | Version 1 | Version 2 |
 | --- | --- |
