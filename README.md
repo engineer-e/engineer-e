@@ -539,7 +539,7 @@ Just tell me 👍
 
 **"If I get married, I would like the wedding to take place inside the Guruvayur Temple. If I die, I wish to be buried at any place within a 1 km range of the temple. However, if I become a VIP in the future, please help me to be buried inside the Guruvayur Temple itself."**
 
-![](https://media-cdn.tripadvisor.com/media/photo-o/15/44/38/13/guruvayur-temple.jpg)
+[![Watch the video](https://media-cdn.tripadvisor.com/media/photo-o/15/44/38/13/guruvayur-temple.jpg)](https://youtu.be/ysigQilHbV8?si=3BlO4KnJkwidPM-1)
 
 # Life Partner - If marriage happens - My expectation ?
 
