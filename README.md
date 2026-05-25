@@ -536,9 +536,9 @@ Just tell me 👍
 | Rasi | Navamsa | 
 | --- | --- |
 | ![](https://engineer-work.github.io/Join-Company/images/rasi_chart.webp) | ![](https://engineer-work.github.io/Join-Company/images/navamsa_chart.webp)
-| [![Watch the video](https://img.youtube.com/vi/YCH4Cy5_KU4/default.jpg)](https://youtu.be/YCH4Cy5_KU4?si=aHWUYGKcfSzjaMBL) [![Watch the video](https://img.youtube.com/vi/OhRpaH1M8Zc/default.jpg)](https://youtu.be/OhRpaH1M8Zc?si=-JennWuJxDrwEqXC) [![Watch the video](https://img.youtube.com/vi/xWU1ZH-m0iU/default.jpg)](https://youtu.be/xWU1ZH-m0iU?si=WHpXctIv865wpwua) [![Watch the video](https://img.youtube.com/vi/eZcH6E8AlbY/default.jpg)](https://youtu.be/eZcH6E8AlbY?si=TuCIQcmZHs9836as) [![Watch the video](https://img.youtube.com/vi/Ai3LkqVm0eI/default.jpg)](https://youtu.be/Ai3LkqVm0eI?si=m5Pb-te9_PHJI3gE)  |  [![Watch the video](https://img.youtube.com/vi/QlKsnTiVwvw/default.jpg)](https://youtu.be/QlKsnTiVwvw?si=3xj90_2OI2_jIZ-B) [![Watch the video](https://img.youtube.com/vi/ABHEpoIruPo/default.jpg)](https://youtu.be/ABHEpoIruPo?si=cFtvDwoZUr0ld3ch) [![Watch the video](https://img.youtube.com/vi/nbMf0uBtO6c/default.jpg)](https://youtu.be/nbMf0uBtO6c?si=IGpapWiINu02c9CM) |
+| [![Watch the video](https://img.youtube.com/vi/YCH4Cy5_KU4/default.jpg)](https://youtu.be/YCH4Cy5_KU4?si=aHWUYGKcfSzjaMBL) [![Watch the video](https://img.youtube.com/vi/OhRpaH1M8Zc/default.jpg)](https://youtu.be/OhRpaH1M8Zc?si=-JennWuJxDrwEqXC) [![Watch the video](https://img.youtube.com/vi/xWU1ZH-m0iU/default.jpg)](https://youtu.be/xWU1ZH-m0iU?si=WHpXctIv865wpwua) [![Watch the video](https://img.youtube.com/vi/eZcH6E8AlbY/default.jpg)](https://youtu.be/eZcH6E8AlbY?si=TuCIQcmZHs9836as) [![Watch the video](https://img.youtube.com/vi/Ai3LkqVm0eI/default.jpg)](https://youtu.be/Ai3LkqVm0eI?si=m5Pb-te9_PHJI3gE)  |  [![Watch the video](https://img.youtube.com/vi/QlKsnTiVwvw/default.jpg)](https://youtu.be/QlKsnTiVwvw?si=3xj90_2OI2_jIZ-B) [![Watch the video](https://img.youtube.com/vi/ABHEpoIruPo/default.jpg)](https://youtu.be/ABHEpoIruPo?si=cFtvDwoZUr0ld3ch) [![Watch the video](https://img.youtube.com/vi/nbMf0uBtO6c/default.jpg)](https://youtu.be/nbMf0uBtO6c?si=IGpapWiINu02c9CM) [![Watch the video](https://img.youtube.com/vi/7mG0W1T0bt0/default.jpg)](https://youtu.be/7mG0W1T0bt0?si=iCdy3DOli5Ic8HdL) |
 
-
+ 
 
 
 
