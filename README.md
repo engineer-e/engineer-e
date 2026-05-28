@@ -315,8 +315,8 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 ## [LTspice](https://engineer-e.github.io/LTspice/)
 
-> [Ngspice]() for [❤️ learn netlist](https://github.com/engineer-e/Design-and-Simulation-of-Power-Conversion) of simple circuit in my doc 
-> [LTspice]() for [❤️ learn circuit design](https://engineer-e.github.io/LTspice/)
+> [Ngspice](https://ngspice.sourceforge.io/index.html) for [❤️ learn netlist](https://github.com/engineer-e/Design-and-Simulation-of-Power-Conversion) of simple circuit in my doc 
+> [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) for [❤️ learn circuit design](https://engineer-e.github.io/LTspice/)
  
 | S.No | Electronic | My Notes  | Trailer | Video | Download|  Certificate|
 | --- | --- | :--- | --- | --- | --- | --- | 
