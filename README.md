@@ -1,6 +1,10 @@
 
 [![Watch the video](images/learn_university.png)](https://youtu.be/jBfvXIKImGw?si=Dwph0TYSRBwS6_vQ)
 
+[AMD and HPE Power El Capitan Exascale-Level Supercomputer for AI-Driven Research](https://youtu.be/SDlYgloKv80?si=gvWNngZyUSlu2SiI),
+[Exascale Computing is Here: El Capitan](https://youtu.be/3nzY9z1-rC0?si=SQIOV6uPGo_QYkjq),
+[Aurora Supercomputer: All-Access](https://youtu.be/VW0hCq4G3uM?si=L9GJrBjkhJah6R6J)
+
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
