@@ -1,5 +1,7 @@
+[Vedic](https://vedicheritage.gov.in/) [![Watch the video](images/learn_university.png)](https://youtu.be/jBfvXIKImGw?si=Dwph0TYSRBwS6_vQ)
 
-[![Watch the video](images/learn_university.png)](https://youtu.be/jBfvXIKImGw?si=Dwph0TYSRBwS6_vQ)
+
+
 
 [AMD and HPE Power El Capitan Exascale-Level Supercomputer for AI-Driven Research](https://youtu.be/SDlYgloKv80?si=gvWNngZyUSlu2SiI),
 [Exascale Computing is Here: El Capitan](https://youtu.be/3nzY9z1-rC0?si=SQIOV6uPGo_QYkjq),
