@@ -1,11 +1,3 @@
-## Why Choose Learning from MIT ?
-
-> For Learning Purpose , Most of My Learning From MIT (Massachusetts Institute Technology). 
-
-> I learning from other Universities too.
-
-> I Checked for good Universities in the world, I checking through each university by [https://edurank.org/](https://edurank.org/) , I not have money, to pay for courses, since, I not get proper Job in my life. Check my [Job Profile](https://engineer-work.github.io/Join-Company/startup/my_career_path.html). 
-
 [Vedic](https://vedicheritage.gov.in/) [![Watch the video](images/learn_university.png)](https://youtu.be/jBfvXIKImGw?si=Dwph0TYSRBwS6_vQ)
 
 [AMD and HPE Power El Capitan Exascale-Level Supercomputer for AI-Driven Research](https://youtu.be/SDlYgloKv80?si=gvWNngZyUSlu2SiI),
@@ -38,6 +30,17 @@ That’s why I use platforms like [GitHub](https://github.com?utm_source=chatgpt
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
 ---
+
+## Why Choose Learning from MIT ?
+
+> For Learning Purpose , Most of My Learning From MIT (Massachusetts Institute Technology). 
+
+> I learning from other Universities too.
+
+> I Checked for good Universities in the world, I checking through each university by [https://edurank.org/](https://edurank.org/) , I not have money, to pay for courses, since, I not get proper Job in my life. Check my [Job Profile](https://engineer-work.github.io/Join-Company/startup/my_career_path.html). 
+
+---
+
 # Truth of World Behave 
 
 | Multi Dimensional [Reflection](https://youtu.be/0_5TdD41X8I?si=pM2mNtxpXStJib48) | Click the below image, to see the video, then read my all profile and **understand me**, then **judge** me. | Need Freedom |
