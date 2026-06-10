@@ -31,13 +31,12 @@ That’s why I use platforms like [GitHub](https://github.com?utm_source=chatgpt
 
 ---
 
-## Why Choose Learning from MIT ?
+## Why I Choose Learning from MIT (Massachusetts Institute Technology) ?
 
-> For Learning Purpose , Most of My Learning From MIT (Massachusetts Institute Technology). 
-
-> I learning from other Universities too.
+> For Learning Purpose , Most of My Learning From MIT (Massachusetts Institute Technology). I learning from other Universities and Individual Companies Learning site too. (Youtube, Chatgpt, Google Gemini, Gemma, Deepseek AI) 
 
 > I Checked for good Universities in the world, I checking through each university by [https://edurank.org/](https://edurank.org/) , I not have money, to pay for courses, since, I not get proper Job in my life. Check my [Job Profile](https://engineer-work.github.io/Join-Company/startup/my_career_path.html). 
+
 
 ---
 
