@@ -544,7 +544,7 @@ I completed my Secondary School Leaving Certificate (10th standard) at Don Bosco
 
 
 | [![Watch the video](https://img.youtube.com/vi/E5zpPDroXB4/maxresdefault.jpg)](https://youtu.be/E5zpPDroXB4?si=tzjeCgCc468ovEBf) | [![Watch the video](https://img.youtube.com/vi/diLa-gpHRKc/maxresdefault.jpg)](https://youtu.be/diLa-gpHRKc?si=Try9j-oeWk52kUw7) | [![Watch the video](https://img.youtube.com/vi/IyO-vdsgq1s/maxresdefault.jpg)](https://youtu.be/IyO-vdsgq1s?si=TNI3W510Nem3souB) |
-| --- | --- | --- | 
+| :---: | :---: | :---: | 
 | [![Watch the video](https://img.youtube.com/vi/H13cVwi-fVE/maxresdefault.jpg)](https://youtu.be/H13cVwi-fVE?si=twXdAWG3W1Avu12X) | [![Watch the video](https://img.youtube.com/vi/IvgSsgaPrl4/maxresdefault.jpg)](https://youtu.be/IvgSsgaPrl4?si=KuDjLw-GF_IaZ81N) | [![Watch the video](https://img.youtube.com/vi/O3ah1hyUhiw/maxresdefault.jpg)](https://youtu.be/O3ah1hyUhiw?si=wGyr5RVdsC1lwI64&t=98) |
 | [![Watch the video](https://img.youtube.com/vi/B_Ffu0CPYJ4/default.jpg)](https://youtu.be/B_Ffu0CPYJ4?si=dJB_2jp-p-Ve6_i_)  [![Watch the video](https://img.youtube.com/vi/B2UBMTA57JI/default.jpg)](https://youtu.be/B2UBMTA57JI?si=oKAGVZ4sjMm5oCpT)| | |
 
@@ -564,7 +564,7 @@ Just tell me 👍
 [Birth Chart Website ](https://www.prokerala.com/astrology/birth-chart/)
 
 | Rasi | Navamsa | 
-| --- | --- |
+| :---: | :---: |
 | ![](https://engineer-work.github.io/Join-Company/images/rasi_chart.webp) | ![](https://engineer-work.github.io/Join-Company/images/navamsa_chart.webp)
 | [![Watch the video](https://img.youtube.com/vi/YCH4Cy5_KU4/default.jpg)](https://youtu.be/YCH4Cy5_KU4?si=aHWUYGKcfSzjaMBL) [![Watch the video](https://img.youtube.com/vi/OhRpaH1M8Zc/default.jpg)](https://youtu.be/OhRpaH1M8Zc?si=-JennWuJxDrwEqXC) [![Watch the video](https://img.youtube.com/vi/xWU1ZH-m0iU/default.jpg)](https://youtu.be/xWU1ZH-m0iU?si=WHpXctIv865wpwua) [![Watch the video](https://img.youtube.com/vi/eZcH6E8AlbY/default.jpg)](https://youtu.be/eZcH6E8AlbY?si=TuCIQcmZHs9836as) [![Watch the video](https://img.youtube.com/vi/Ai3LkqVm0eI/default.jpg)](https://youtu.be/Ai3LkqVm0eI?si=m5Pb-te9_PHJI3gE) [![Watch the video](https://img.youtube.com/vi/7mG0W1T0bt0/default.jpg)](https://youtu.be/7mG0W1T0bt0?si=iCdy3DOli5Ic8HdL)  |  [![Watch the video](https://img.youtube.com/vi/QlKsnTiVwvw/default.jpg)](https://youtu.be/QlKsnTiVwvw?si=3xj90_2OI2_jIZ-B) [![Watch the video](https://img.youtube.com/vi/ABHEpoIruPo/default.jpg)](https://youtu.be/ABHEpoIruPo?si=cFtvDwoZUr0ld3ch) [![Watch the video](https://img.youtube.com/vi/nbMf0uBtO6c/default.jpg)](https://youtu.be/nbMf0uBtO6c?si=IGpapWiINu02c9CM) [![Watch the video](https://img.youtube.com/vi/6o_Wg-XnAAA/default.jpg)](https://youtu.be/6o_Wg-XnAAA?si=7gb0S5k8EDtfTyjV) [![Watch the video](https://img.youtube.com/vi/71lHK-wFKEo/default.jpg)](https://youtu.be/71lHK-wFKEo?si=yIjwEeBn8XvJpxEy) [![Watch the video](https://img.youtube.com/vi/7sUCSReL1LE/default.jpg)](https://youtu.be/7sUCSReL1LE?si=3TC_TRyRGg8zUIle) |
 
