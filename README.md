@@ -607,7 +607,7 @@ This releases chemicals like **⚡ Adrenaline (C₉H₁₃NO₃)** for fight-or-
 
 That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth**—it is both emotional and biological.
 
-![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/brain%20model%20enzymes.png)
+![[](https://engineer-work.github.io/Join-Company/bio/part_chem/unwanted.html)](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/brain%20model%20enzymes.png)
 
 [NOAA](https://www.ngdc.noaa.gov/hazel/view/swagger)
 
