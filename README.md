@@ -595,6 +595,19 @@ Just tell me 👍
 | [![Watch the video](https://img.youtube.com/vi/dj7pVQ6jjNw/maxresdefault.jpg)](https://youtu.be/dj7pVQ6jjNw) | [![Watch the video](https://img.youtube.com/vi/g1-sKPk3hpI/maxresdefault.jpg)](https://youtu.be/g1-sKPk3hpI) | [![Watch the video](https://img.youtube.com/vi/KuDAdtJNKNw/mqdefault.jpg)](https://youtu.be/KuDAdtJNKNw), [![Watch the video](https://img.youtube.com/vi/7OZL8oX7OoE/mqdefault.jpg)](https://youtu.be/7OZL8oX7OoE) | [![Watch the video](https://img.youtube.com/vi/MPmFZKrZ-mU/mqdefault.jpg)](https://youtu.be/MPmFZKrZ-mU?si=cT7dJzNgsDIXmMOd) [![Watch the video](https://img.youtube.com/vi/qiotBSR79gM/mqdefault.jpg)](https://youtu.be/qiotBSR79gM?si=peX1fptsnhBWLDpp) | [![Watch the video](https://img.youtube.com/vi/bL1fxyAvPGc/maxresdefault.jpg)](https://youtu.be/bL1fxyAvPGc?si=tQubh7ml1V9lvbOz) | [![Watch the video](https://img.youtube.com/vi/l2hKK82Q3k8/maxresdefault.jpg)](https://youtu.be/l2hKK82Q3k8?si=bMUeBrXJsOo_76p9) |
 
 ---
+You can extend it like this:
+
+**🔄 I Rejected Others & I’ve Been Rejected by Others (in 💍 Marriage & 💼 Jobs, by Known and Unknown People)**
+
+Life decisions like marriage and jobs depend on many factors—❤️ attraction, 🧠 personality, 💬 communication, 💰 financial stability, 🤝 compatibility, 👨‍👩‍👧 values, skills, and ⏳ timing. Rejection often reflects fit, readiness, or priorities, not a person’s worth.
+
+During rejection, the brain reacts strongly: **🧠 Amygdala** triggers fear, pain, and stress; **🧠 Prefrontal Cortex** tries to reason; **🧠 Hippocampus** stores the emotional memory; and the **🧠 Anterior Cingulate Cortex** processes “social pain” similar to physical pain.
+
+This releases chemicals like **⚡ Adrenaline (C₉H₁₃NO₃)** for fight-or-flight, **😰 Cortisol (C₂₁H₃₀O₅)** for stress, **💔 Dopamine (C₈H₁₁NO₂)** drops causing sadness, **🤝 Oxytocin (C₄₃H₆₆N₁₂O₁₂S₂)** affects bonding/loss, and **😊 Serotonin (C₁₀H₁₂N₂O)** shifts affecting mood.
+
+That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth**—it is both emotional and biological.
+
+
 
 [NOAA](https://www.ngdc.noaa.gov/hazel/view/swagger)
 
