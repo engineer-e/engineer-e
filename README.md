@@ -1,6 +1,8 @@
+[Vedic](https://vedicheritage.gov.in/) [![Watch the video](images/learn_university.png)](https://youtu.be/jBfvXIKImGw?si=Dwph0TYSRBwS6_vQ)
+
 | Topic                          | Statement                                                                                                                                                                                                                                   |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📌 **Disclaimer**                  | Sometimes, some people may copy my profile or pretend to be me. This can happen because of problems in the education system or official systems in my region. The issues that happened to me can also happen to many other people. ⚠️       |
+| 📌 **Disclaimer**                  | ⚠️📌🔍 **Sometimes, some people may copy my profile 👤📄 or pretend to be me 🎭👥. This can happen because of problems ⚠️🏛️ in the education system 🎓📚 or official systems 🏢📋 in the region 🌍🏠 where I was born 👶 and currently live 🏡. The issues 😟⚡ that happened to me 🙋 can also happen to many other people 👨‍👩‍👧‍👦🌎. 🚨⚠️🔄**       |
 | 🤝 My Position                 | I do not support people who do wrong things, whether they are rich 💰 or poor 💵.                                                                                                                                                           |
 | ❌ Wrong Actions                | Some people, regardless of wealth, are not interested in learning, working, or technological innovation. For their own profit and money, they may harm or spoil the lives of others.                                                        |
 | ⚠️ Lack of Knowledge           | Some students 🎓 and technology enthusiasts 💻 have good intentions and strong interest in technology, but due to a lack of knowledge, they may create harmful or irresponsible innovations that negatively affect others.                  |
@@ -9,9 +11,6 @@
 | 📈 Financial Example           | If a person has ₹8 crore in a fixed deposit at around 6–8% annual interest, they could earn approximately ₹4–5.3 lakh per month from interest alone. Because of this financial security, some people may work for goals beyond basic needs. |
 | ❓ Key Question                 | So, how would you determine whether I am a good person 😊 or a bad person 😈?                                                                                                                                                               |
 | ✅ My Belief                    | People should be judged by their actions, honesty, willingness to learn, respect for others, and the positive impact they create—not by their wealth, status, or background. 🌍✨                                                            |
-
-
-[Vedic](https://vedicheritage.gov.in/) [![Watch the video](images/learn_university.png)](https://youtu.be/jBfvXIKImGw?si=Dwph0TYSRBwS6_vQ)
 
 [AMD and HPE Power El Capitan Exascale-Level Supercomputer for AI-Driven Research](https://youtu.be/SDlYgloKv80?si=gvWNngZyUSlu2SiI),
 [Exascale Computing is Here: El Capitan](https://youtu.be/3nzY9z1-rC0?si=SQIOV6uPGo_QYkjq),
