@@ -1,4 +1,4 @@
-I only like to do Work From Home, I not believe anyone due to toxic culture. 
+I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to [toxic culture](https://youtu.be/d1WO9kAuysg?si=x9uCbI07CMRga4yi) ⚠️🔥.
 🎯 [Childhood Memory](https://engineer-e.github.io/Childhood-Memory/), [💸🤑💰 **Donate**](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 ✨ *Profile* –
 📅 [Planner App](https://engineer-work.github.io/planner-app/) 📌,
