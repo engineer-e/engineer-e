@@ -1,8 +1,10 @@
+# Spiderman 1994
+
 ### Hobgoblin
 
 | Part 1 | Part 2 | Part 3 | Part 4 | Part 5 | Part 6 |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| 2:53   | 3:42   | 3:01   | 3:01   | 3:01   | 2:32   |
+| [![Spiderman 1994 animated series Tamil](https://img.youtube.com/vi/3mFMBYn05SE/hqdefault.jpg)](http://www.youtube.com/watch?v=3mFMBYn05SE "Spiderman 1994 animated series Tamil") |||||||
 
 ### Neugenetic Problem
 
