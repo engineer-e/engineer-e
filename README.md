@@ -434,6 +434,10 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 | :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
 | 1 |  [On Demand CMake Training Course - Part 1](https://kitwarecourses.onlinecoursehost.com/courses/cmake-trainingcourse-part1) |  |  | | | | [completed](https://kitwarecourses.onlinecoursehost.com/certificate-proof/GlPydXrygHPWZtqB22dk7OYxuV93-1/I21w892bpQEI89GXnQAx/fRU0WxzefzW9aO2sYw6ZUCFUvig2) |
 
+# Nvidia
+
+> [![NVIDIA Learning](https://img.shields.io/badge/NVIDIA-Learning%20Lab-76B900?logo=nvidia)](https://engineer-e.github.io/Nvidia-Learning/)
+
 # Electronics and Communication Engineering 
 
 > I, **Gobal Krishnan V**, have completed a Bachelor of Engineering degree in **Electronics and Communication Engineering** under the Faculty of Information and Communication Engineering from **Anna University**. I successfully fulfilled all academic requirements and was awarded the degree in **November 2017 with a CGPA of 7.55**, securing **Second Class**.
