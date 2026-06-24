@@ -26,7 +26,7 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 <details>
 <summary> <a href="https://vedicheritage.gov.in/">Vedic</a>, Spiderman 1994</summary>
 
-[![Spiderman 1994 animated series Tamil](https://img.youtube.com/vi/tz1xZ7cCB74/maxresdefault.jpg)](https://youtu.be/tz1xZ7cCB74?si=hh5FR8zNPgsfsVV9)
+[![Spiderman 1994 animated series Tamil](https://img.youtube.com/vi/shu8CTGgTM0/maxresdefault.jpg)](https://youtu.be/shu8CTGgTM0?si=jPuYyD16iG7USVFX)
 
 |Title | Part 1 | Part 2 | Part 3 | Part 4 | Part 5 | Part 6 |
 |---| ------ | ------ | ------ | ------ | ------ | ------ |
