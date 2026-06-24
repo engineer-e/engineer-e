@@ -451,6 +451,9 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 > [![NVIDIA Learning](https://img.shields.io/badge/NVIDIA-Learning%20Lab-76B900?logo=nvidia)](https://engineer-e.github.io/Nvidia-Learning/)
 
+<details>
+<summary>Marks and Grades during School and College 🎒📚🏫📝📊🎓📈😅</summary>  
+
 # Electronics and Communication Engineering 
 
 > I, **Gobal Krishnan V**, have completed a Bachelor of Engineering degree in **Electronics and Communication Engineering** under the Faculty of Information and Communication Engineering from **Anna University**. I successfully fulfilled all academic requirements and was awarded the degree in **November 2017 with a CGPA of 7.55**, securing **Second Class**.
@@ -583,7 +586,11 @@ I completed my Secondary School Leaving Certificate (10th standard) at Don Bosco
 | Computer Science | 90 | 
 | Total Marks (500) | 443 |  
 
+</details>
 
+<details>
+<summary>Based on my past life experiences 💭💔 and the situations 🌪️😞 I’ve been through, I’ve come to believe 🤔🖤 that love ❤️ and marriage 💍 are fake 🎭❌ — just an act 🎬 for money 💸💰.</summary>
+  
 [![Watch the video](https://img.youtube.com/vi/sfkPaOthO_c/maxresdefault.jpg)](https://youtu.be/sfkPaOthO_c?si=ydmyx5UeGytUMQsK)
 
 # (Marriage and Love) are (fake & lie) due to [💸🤑💰  dowry System](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
@@ -693,3 +700,4 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 [NOAA](https://www.ngdc.noaa.gov/hazel/view/swagger)
 
 ---
+</details>
