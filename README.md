@@ -14,6 +14,9 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
 <details>
+<summary>Thought</summary>
+<details>
+
 <summary> <a href="https://vedicheritage.gov.in/">Vedic</a>, Spiderman 1994</summary>
 
 |Title | Part 1 | Part 2 | Part 3 | Part 4 | Part 5 | Part 6 |
@@ -388,6 +391,8 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 
 ---
+
+</details>
 
 
 
