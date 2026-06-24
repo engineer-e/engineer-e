@@ -14,9 +14,16 @@ I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to 
 🎯🧭🚀🎒🏫 **My hobby** [Physics - MIT](https://engineer-e.github.io/Physics-MIT-University/)
 
 <details>
-<summary>Thought</summary>
-<details>
+<summary> 🧠 Thought: ⚡ Before joining Electronic Engineering</summary>
 
+
+| 🧠⚡ **“Electronics looks interesting…** 🔍 | 🧠⚡ **“Electronics looks interesting…** | 
+| --- | --- |
+| I want to know how 🏭 machines, 🔌 circuits, 🤖 robots, and 💻 computers actually work inside. 🌿🍃 The same principle exists in nature — in leaves, 🌳 trees, 🌱 plants, 🧬 living species, 👨 humans, and 🐾 animals, where ⚡ energy, signals, and connections flow through everything; this is the **core of nature** 🌍✨. 👁️ But human beings are mostly limited by their senses 👂👀✋👃👅 and often remain stuck inside what their sensors can detect. 🌎 My position on Earth is only one point, but 🌌 in the universe, positions and forms of existence may be completely different — it could be 🤖 AI, humanoid robots, or unknown species beyond us. 🧩 A designed species may not be able to think or feel beyond its built-in senses, and 🚀 many are trying to go beyond those limits. 📏 Based on human sensing, we define ranges — from **10⁻⁵⁰ to 10⁵⁰** — to process and understand reality, but ♾️ reality itself may exist far beyond those limits. 💡✨ *How does invisible energy become visible action — in machines, in life, and across the universe?* ⚡➡️💡➡️🤖➡️🌍➡️🌌” |  🔍 I want to know how 🏭 machines, 🔌 circuits, 🤖 robots, and 💻 computers actually work inside. 🌿🍃 The same principle exists in nature — in leaves 🌳, plants 🌱, humans 👨, and animals 🐾 — where ⚡ energy, signals, and connections flow through everything; this is the **core of nature** 🌍✨. 👁️ But human beings are limited by their senses 👂👀✋👃👅 and the environment around them 🌫️, often trapped inside what their sensors can detect. 🌎 My position on Earth is only one point, but 🌌 in the universe there may be countless forms of existence — 🤖 AI, humanoid robots, or unknown species. 🚀 To find what exists **beyond sensors and beyond environment**, the way is through 🔬 science, 📡 instruments, 🧮 mathematics, 🧠 imagination, and 🤖 artificial intelligence, because these extend our natural senses. 🎲 The probability of discovering beyond our senses depends on how much evidence we gather, how far we expand our tools, and how open our models are to the unknown. ♾️ Human sensing may define ranges like **10⁻⁵⁰ to 10⁵⁰** 📏, but reality itself may stretch far beyond those boundaries. 💡✨ *The journey is not only to sense more, but to understand what cannot yet be sensed.* ⚡➡️🔬➡️🤖➡️🌍➡️🌌 |
+
+
+
+<details>
 <summary> <a href="https://vedicheritage.gov.in/">Vedic</a>, Spiderman 1994</summary>
 
 |Title | Part 1 | Part 2 | Part 3 | Part 4 | Part 5 | Part 6 |
