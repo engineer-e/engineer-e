@@ -442,9 +442,9 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 - But want to use Visual Studio  IDE, not done in CMake
 
-| S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
-| :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
-| 1 |  [Computer Graphics with Modern OpenGL and C++](https://www.udemy.com/course/graphics-with-modern-opengl/) |  |  | | | | [completed](https://www.udemy.com/certificate/UC-59008625-ea7a-49b7-b59c-a4289530d262/) |
+| S.No | Learning Tracks | My Notes  |   Certificate|
+| :--- |  :--- | :--- | --- | 
+| 1 |  [Computer Graphics with Modern OpenGL and C++](https://www.udemy.com/course/graphics-with-modern-opengl/) | [My Notes](https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp) | [completed](https://www.udemy.com/certificate/UC-59008625-ea7a-49b7-b59c-a4289530d262/) |
 
 #  CMake Training Course
 
