@@ -467,6 +467,7 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 # Electronics and Communication Engineering  [Grades](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/README.md)
 
+> [🎒📚🏫📝Click here to See the Marks & Grades📊🎓📈😅](https://github.com/engineer-e/Electronic-and-Communication-Engineer/blob/main/README.md)
 
 ---
 
