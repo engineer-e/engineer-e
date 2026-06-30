@@ -445,8 +445,13 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 | S.No | Learning Tracks | Repository  |   Certificate|
 | :--- |  :--- | :--- | --- | 
 | 1 |  [Computer Graphics with Modern OpenGL and C++](https://www.udemy.com/course/graphics-with-modern-opengl/) | <a href="https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md"><img src="https://raw.githubusercontent.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/refs/heads/master/images/output/final/sky3.png" width="100px"></img></a> | [completed](https://www.udemy.com/certificate/UC-59008625-ea7a-49b7-b59c-a4289530d262/) |
+| 2 | [LearnOpenGL](https://learnopengl.com/) | <a href="https://github.com/engineer-e/LearnOpenGLPractice/blob/master/README.md"><img src="https://raw.githubusercontent.com/engineer-e/LearnOpenGLPractice/refs/heads/master/image/8/2022/7.area_light/2.multiple_area_light/1.png" width="100px"></img></a>  | |
+
+
+
 
 #  CMake Training Course
+
 
 
 | S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
