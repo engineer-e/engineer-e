@@ -97,6 +97,77 @@ This 30-source table is the **highest practical coverage** for ASML-class lithog
 
 ---
 
+If your goal is **to make an advanced electron microscope** (beyond current Thermo Fisher Scientific, JEOL, Hitachi High-Tech systems), the research stack changes.
+
+You need to focus on **electron optics**, not lithography.
+
+## Master research stack for advanced electron microscope
+
+| S.No | Link                                                                                                | Best Use                                            |
+| ---- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| 1    | [IEEE Xplore](https://ieeexplore.ieee.org?utm_source=chatgpt.com)                                   | Electronics, detector systems, control systems      |
+| 2    | [AIP Publishing](https://pubs.aip.org?utm_source=chatgpt.com)                                       | Electron beam physics, vacuum science               |
+| 3    | [APS Journals](https://journals.aps.org?utm_source=chatgpt.com)                                     | Quantum behavior, scattering, electron interactions |
+| 4    | [IOPscience](https://iopscience.iop.org?utm_source=chatgpt.com)                                     | Condensed matter, electron transport                |
+| 5    | [OSA Optica Publishing](https://opg.optica.org?utm_source=chatgpt.com)                              | Imaging theory, aberration correction               |
+| 6    | [AVS Science & Technology](https://avs.scitation.org?utm_source=chatgpt.com)                        | Ultra-high vacuum systems                           |
+| 7    | [NIST Publications](https://www.nist.gov/publications?utm_source=chatgpt.com)                       | Precision calibration and measurement               |
+| 8    | [CIRP Annals](https://www.cirp.net/publications/CIRP_Annals?utm_source=chatgpt.com)                 | Nanometer motion control                            |
+| 9    | [IFAC PapersOnLine](https://www.sciencedirect.com/journal/ifac-papersonline?utm_source=chatgpt.com) | Stage control, servo loops                          |
+| 10   | [ScienceDirect](https://www.sciencedirect.com?utm_source=chatgpt.com)                               | Material science and detector fabrication           |
+| 11   | [SPIE Digital Library](https://www.spiedigitallibrary.org?utm_source=chatgpt.com)                   | Imaging detectors and optics                        |
+| 12   | [Materials Project](https://materialsproject.org?utm_source=chatgpt.com)                            | Electron-transparent materials                      |
+| 13   | [NanoHub](https://nanohub.org?utm_source=chatgpt.com)                                               | Nano-device simulation                              |
+| 14   | [Google Patents](https://patents.google.com?utm_source=chatgpt.com)                                 | Real microscope designs                             |
+| 15   | [USPTO](https://www.uspto.gov?utm_source=chatgpt.com)                                               | Patent-level implementation details                 |
+| 16   | [WIPO Patentscope](https://patentscope.wipo.int?utm_source=chatgpt.com)                             | International microscopy patents                    |
+| 17   | [Nature Nanotechnology](https://www.nature.com/nnano/?utm_source=chatgpt.com)                       | Frontier nanoscale imaging                          |
+| 18   | [Nature Materials](https://www.nature.com/nmat/?utm_source=chatgpt.com)                             | Detector and lens materials                         |
+| 19   | [PubMed Central](https://pmc.ncbi.nlm.nih.gov?utm_source=chatgpt.com)                               | Biological electron microscopy methods              |
+| 20   | [EMBL-EBI](https://www.ebi.ac.uk?utm_source=chatgpt.com)                                            | Cryo-EM biological structures                       |
+
+## Core fields needed
+
+| Field                        | Why                         |
+| ---------------------------- | --------------------------- |
+| **Electromagnetism**         | Electron lens design        |
+| **Quantum mechanics**        | Electron-wave behavior      |
+| **Vacuum physics**           | Beam stability              |
+| **Materials science**        | Lens and detector materials |
+| **Mechanical engineering**   | Vibration isolation         |
+| **Control systems**          | Stage stability             |
+| **Signal processing**        | Image reconstruction        |
+| **Cryogenics**               | Cryo-EM systems             |
+| **High-voltage engineering** | Electron acceleration       |
+
+Critical equations:
+
+Electron acceleration:
+
+genui{"physics_learning_block":{"type_id":"COULOMBS_LAW"}}
+
+(Useful because electron beam control depends on electrostatic force.)
+
+Wave behavior:
+
+genui{"physics_learning_block":{"type_id":"WAVE_SPEED"}}
+
+(Useful for electron wavelength concepts.)
+
+For an **advanced microscope**, the biggest improvement areas are:
+
+1. better aberration correction
+2. stronger vacuum stability
+3. faster detectors
+4. lower vibration
+5. AI reconstruction
+6. cryogenic stability
+7. higher beam coherence
+
+This stack gives roughly **95–98% public research coverage** for electron microscope advancement.
+
+
+---
 
 </details>
 
