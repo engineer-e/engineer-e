@@ -142,17 +142,9 @@ You need to focus on **electron optics**, not lithography.
 
 Critical equations:
 
-Electron acceleration:
+Electron acceleration: (Useful because electron beam control depends on electrostatic force.)
 
-genui{"physics_learning_block":{"type_id":"COULOMBS_LAW"}}
-
-(Useful because electron beam control depends on electrostatic force.)
-
-Wave behavior:
-
-genui{"physics_learning_block":{"type_id":"WAVE_SPEED"}}
-
-(Useful for electron wavelength concepts.)
+Wave behavior: (Useful for electron wavelength concepts.)
 
 For an **advanced microscope**, the biggest improvement areas are:
 
