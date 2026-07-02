@@ -1041,7 +1041,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 ---
 <details>
-<summary>why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth**—it is both emotional and biological</summary>
+<summary>why rejection feels like a mix of "💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth" —it is both emotional and biological</summary>
 
 # why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth**—it is both emotional and biological.
  
