@@ -5,6 +5,8 @@
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
 Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
+
+
 ---
 
 # ✨ 🌍🎓📊⚙️🧠🔬📚🚀 Global University Probability Analysis for a 40-Domain Deep Technical Roadmap
@@ -1035,4 +1037,20 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 [NOAA](https://www.ngdc.noaa.gov/hazel/view/swagger)
 
 ---
+</details>
+
+---
+<details>
+<summary>why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth**—it is both emotional and biological</summary>
+
+# why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth**—it is both emotional and biological.
+ 
+| Topic                 | Traditional Hindu Accounts                                                                                      | Modern Historical Evidence                                                                               | My Personal Interpretation                                                                                                                                                                                                                                                                                                                                                         |
+| --------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Krishna               | Considered an incarnation of God by many Hindu traditions.                                                      | Whether Krishna was a historical person is debated; there is no conclusive historical proof of his life. | Krishna was a human being, not a god.                                                                                                                                                                                                                                                                                                                                              |
+| Brahmacharya          | Krishna is generally **not** described as a lifelong brahmachari in the major scriptures.                       | No historical evidence proving he was or was not a lifelong brahmachari.                                 | Krishna remained a lifelong brahmachari (celibate).                                                                                                                                                                                                                                                                                                                                |
+| Wives                 | Texts such as the Mahabharata, Bhagavata Purana, and Harivamsa describe wives including Rukmini and Satyabhama. | No independent archaeological or historical evidence confirms Krishna's wives as historical individuals. | Krishna never had wives. In my interpretation, the accounts of his wives were symbolic conceptual models or memory frameworks—similar to the fictional example of Tony Stark's father creating the atomic model in *Iron Man* before the necessary technology and tools existed. They represented an idea intended for future understanding rather than literal historical people. |
+| Age at Death          | Krishna is described as living to adulthood and dying after the Kurukshetra War.                                | No verified historical evidence establishes his age at death.                                            | Krishna died during a war at about age 8.                                                                                                                                                                                                                                                                                                                                          |
+| Revival               | No major traditional account describes Krishna being revived by a technological device.                         | No historical evidence of such an event.                                                                 | Pingala, Vishvakarma, and Ashwatthama created an advanced life-support or revival device, conceptually similar to the fictional arc reactor from *Iron Man*, to preserve or restore Krishna's life.                                                                                                                                                                                |
+| Nature of the Account | Religious and sacred tradition.                                                                                 | Evidence is inconclusive; many events cannot be historically verified.                                   | A personal speculative interpretation inspired by engineering concepts and science fiction. It is not established history, archaeology, or a traditional Hindu account.                                                                                                                                                                                                            |
 </details>
