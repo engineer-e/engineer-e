@@ -1044,9 +1044,11 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 <summary>why rejection feels like a mix of "💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth" —it is both emotional and biological</summary>
 
 # why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger, 😰 anxiety, 🤔 self-doubt, and sometimes 🌱 growth**—it is both emotional and biological.
- 
+
+### ⚡ I think God is just a human being with superpowers. 🧠 If I get superpowers like them, then am I God too? 🤔 Foolish human species... 🌍
+
 | Topic | Traditional Hindu Accounts | Modern Historical Evidence | My Personal Interpretation  |
-| ---- | --- | --- | :---: |
+| :---: | --- | --- | :---: |
 | Krishna               | Considered an incarnation of God by many Hindu traditions.                                                      | Whether Krishna was a historical person is debated; there is no conclusive historical proof of his life. | Krishna was a human being, not a god.                                                                                                                                                                                                                                                                                                                                              |
 | Brahmacharya          | Krishna is generally **not** described as a lifelong brahmachari in the major scriptures.                       | No historical evidence proving he was or was not a lifelong brahmachari.                                 | Krishna remained a lifelong brahmachari (celibate).                                                                                                                                                                                                                                                                                                                                |
 | Wives                 | Texts such as the Mahabharata, Bhagavata Purana, and Harivamsa describe wives including Rukmini and Satyabhama. | No independent archaeological or historical evidence confirms Krishna's wives as historical individuals. | Krishna never had wives. In my interpretation, the accounts of his wives were symbolic conceptual models or memory frameworks—similar to the fictional example of Tony Stark's father creating the atomic model in *Iron Man* before the necessary technology and tools existed. They represented an idea intended for future understanding rather than literal historical people. |
