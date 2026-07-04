@@ -1019,6 +1019,20 @@ Just tell me 👍
 
 > **If I start doing the same wrong actions as they do to earn money, they say that I am wrong. The people in higher positions act like heroes, pretending to protect the people who work under them, but they did the same wrong things to me without even realizing it. Do they think they are doing a great act?** 🤔⚖️💼
 
+> **Then who will give me justice?** ⚖️💔
+
+> **How can an innocent person find justice when no one provides proper training, guidance, or support? Who will help me?** 🤔🙏
+
+> **I have lost years of my life and countless hours teaching myself. I spent my time searching for documents, reading books, studying research papers, watching videos, using search engines, and now learning through AI—just to do my work properly.** 📚🔍💻🤖
+
+> **Who is responsible for the time, opportunities, and peace of mind that I have lost?** ⏳💔
+
+> **While others received proper guidance, I had to struggle alone just to reach the same level of knowledge. I invested enormous effort to avoid mistakes, ensure accuracy, and produce quality work, yet my hard work was often overlooked.** ⚙️📄🛡️
+
+> **Who will give justice for my pain, my struggle, and the years I sacrificed learning what should have been taught?** 😔⚖️
+
+> **If this is not justice, then what is? If this is called dharma, then where is fairness for those who struggle honestly?** 🙏⚖️❓
+
 
 ### 🌍📊 Event Happening in Each Individual's Life
 
