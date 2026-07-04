@@ -993,7 +993,30 @@ Just tell me 👍
 | :---: | :---: |
 | ![](https://engineer-work.github.io/Join-Company/images/rasi_chart.webp) | ![](https://engineer-work.github.io/Join-Company/images/navamsa_chart.webp)
 | [![Watch the video](https://img.youtube.com/vi/YCH4Cy5_KU4/default.jpg)](https://youtu.be/YCH4Cy5_KU4?si=aHWUYGKcfSzjaMBL) [![Watch the video](https://img.youtube.com/vi/OhRpaH1M8Zc/default.jpg)](https://youtu.be/OhRpaH1M8Zc?si=-JennWuJxDrwEqXC) [![Watch the video](https://img.youtube.com/vi/xWU1ZH-m0iU/default.jpg)](https://youtu.be/xWU1ZH-m0iU?si=WHpXctIv865wpwua) [![Watch the video](https://img.youtube.com/vi/eZcH6E8AlbY/default.jpg)](https://youtu.be/eZcH6E8AlbY?si=TuCIQcmZHs9836as) [![Watch the video](https://img.youtube.com/vi/Ai3LkqVm0eI/default.jpg)](https://youtu.be/Ai3LkqVm0eI?si=m5Pb-te9_PHJI3gE) [![Watch the video](https://img.youtube.com/vi/7mG0W1T0bt0/default.jpg)](https://youtu.be/7mG0W1T0bt0?si=iCdy3DOli5Ic8HdL)  |  [![Watch the video](https://img.youtube.com/vi/QlKsnTiVwvw/default.jpg)](https://youtu.be/QlKsnTiVwvw?si=3xj90_2OI2_jIZ-B) [![Watch the video](https://img.youtube.com/vi/ABHEpoIruPo/default.jpg)](https://youtu.be/ABHEpoIruPo?si=cFtvDwoZUr0ld3ch) [![Watch the video](https://img.youtube.com/vi/nbMf0uBtO6c/default.jpg)](https://youtu.be/nbMf0uBtO6c?si=IGpapWiINu02c9CM) [![Watch the video](https://img.youtube.com/vi/6o_Wg-XnAAA/default.jpg)](https://youtu.be/6o_Wg-XnAAA?si=7gb0S5k8EDtfTyjV) [![Watch the video](https://img.youtube.com/vi/71lHK-wFKEo/default.jpg)](https://youtu.be/71lHK-wFKEo?si=yIjwEeBn8XvJpxEy) [![Watch the video](https://img.youtube.com/vi/7sUCSReL1LE/default.jpg)](https://youtu.be/7sUCSReL1LE?si=3TC_TRyRGg8zUIle) |
-| **My Question to the Astrologer in the YouTube Video** 🤔📺 <br> "No one trained me. I learned from documents, Google Search, and now I am learning from AI, YouTube, and many free college courses. Is this based on **Kumba Rasi**? ♒📚💻 <br> *Due to rich people or company owners in any field not giving proper training, but collecting more money, they are spoiling the lives of employees. This also happens in schools and colleges.* 💰🏢😔🏫🎓 <br> [![Watch the video](https://img.youtube.com/vi/QlM1fj0sEwg/maxresdefault.jpg)](https://youtu.be/QlM1fj0sEwg?si=NtSa2DjdmLLgqyPA) | **My Question to the Astrologer in the YouTube Video** 🤔📺 <br> "No one trained me. I learned from documents, Google Search, and now I am learning from AI, YouTube, and many free college courses. Is this based on **Thulam Lagnam**? ♒📚💻 <br> *Due to rich people or company owners in any field not giving proper training, but collecting more money, they are spoiling the lives of employees. This also happens in schools and colleges.* 💰🏢😔🏫🎓 <br> [![Watch the video](https://img.youtube.com/vi/4KC8q2OmyZ0/maxresdefault.jpg)](https://youtu.be/4KC8q2OmyZ0?si=aHvLM8adOfs_mpui) |
+| **My Question to the Astrologer in the YouTube Video** 🤔📺 <br> "No one trained me. I learned from documents, Google Search, and now I am learning from AI, YouTube, and many free college courses. Is this based on **Kumba Rasi**? ♒📚💻  <br> [![Watch the video](https://img.youtube.com/vi/QlM1fj0sEwg/maxresdefault.jpg)](https://youtu.be/QlM1fj0sEwg?si=NtSa2DjdmLLgqyPA) | **My Question to the Astrologer in the YouTube Video** 🤔📺 <br> "No one trained me. I learned from documents, Google Search, and now I am learning from AI, YouTube, and many free college courses. Is this based on **Thulam Lagnam**? ♒📚💻  <br> [![Watch the video](https://img.youtube.com/vi/4KC8q2OmyZ0/maxresdefault.jpg)](https://youtu.be/4KC8q2OmyZ0?si=aHvLM8adOfs_mpui) |
+
+### 💼📚 My Question
+
+> **Due to rich people or company owners in any field not giving proper training, but collecting more money, they are spoiling the lives of employees. This also happens in schools and colleges.** 💰🏢🏫🎓
+
+> **They are taking money from the value of the work that I do, even though I complete my work properly. If they do not provide proper training, then how can the work be done correctly?** 🤷‍♂️📚
+
+> **They do not provide the materials, documents, or learning resources needed to do the job. I have to find everything myself in order to complete the work.** 📖🔍💻
+
+> **I spend most of my time searching for the proper materials, documents, and references required to complete my work accurately. I am not paid for the time I spend searching, learning, and understanding these resources.** 📚⏳💻
+
+> **This happened even before AI and search engines existed. Now, with AI and many top-ranked colleges providing free learning materials through YouTube, PDFs, and other documents, it has become easier to find information.** 🤖📖🎓
+
+> **However, for accurate engineering and medical work, I still have to study materials published by top-ranked colleges and research institutions. I have to teach myself how to read, understand, and apply research papers because no one trained me to do it. They did not even teach me how to publish, read, or understand research papers.** 📄🧠🔬
+
+> **I spend most of my time finding the correct information, avoiding errors, reducing mistakes, and trying to make the work safe, accurate, and reliable.** ⚙️✅🛡️
+
+> **I complete about 75%–80% of the work, and after that, people in higher positions act like guides and earn a much higher salary than me. They receive the credit and the money for my hard work.** 😔💼💸
+
+> **Despite all this effort, I still receive a low salary. Why?** 💼💸❓
+
+> **Then whose mistake is it? What is the dharma here?** ⚖️🙏🤔
+
 
 ### 🌍📊 Event Happening in Each Individual's Life
 
