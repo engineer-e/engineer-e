@@ -1017,6 +1017,8 @@ Just tell me 👍
 
 > **Then whose mistake is it? What is the dharma here?** ⚖️🙏🤔
 
+> **If I start doing the same wrong actions as they do to earn money, they say that I am wrong. The people in higher positions act like heroes, pretending to protect the people who work under them, but they did the same wrong things to me without even realizing it. Do they think they are doing a great act?** 🤔⚖️💼
+
 
 ### 🌍📊 Event Happening in Each Individual's Life
 
