@@ -1203,7 +1203,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
            style="border-radius:50%; object-fit:cover;">
     </td>
     <td width="33%" align="center">
-      <img src="https://i.pinimg.com/1200x/c1/af/8c/c1af8c67f530de547b64ca8972df88a7.jpg"
+      <img src="https://i.pinimg.com/736x/97/3d/9f/973d9fcf80cc5f45cb30cda9eb534951.jpg"
            width="100" 
            style="border-radius:50%; object-fit:cover;">
     </td>
