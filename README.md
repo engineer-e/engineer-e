@@ -1119,21 +1119,58 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 # My Photo
 
-<table style="width:100%; table-layout:fixed;">
+<table align="center">
   <tr>
-    <td width="33.33%" align="center"><img src="https://i.pinimg.com/736x/56/4a/10/564a105e795434072c07523dfb025605.jpg" width="100%"></td>
-    <td width="33.33%" align="center"><img src="https://i.pinimg.com/1200x/8e/8e/06/8e8e06453e7bf9e27f37d4ba54cd9f70.jpg" width="100%"></td>
-    <td width="33.33%" align="center"><img src="https://i.pinimg.com/1200x/c1/af/8c/c1af8c67f530de547b64ca8972df88a7.jpg" width="100%"></td>
+    <td width="33%" align="center">
+      <img src="https://i.pinimg.com/736x/56/4a/10/564a105e795434072c07523dfb025605.jpg"
+           width="180" height="180"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td width="33%" align="center">
+      <img src="https://i.pinimg.com/1200x/8e/8e/06/8e8e06453e7bf9e27f37d4ba54cd9f70.jpg"
+           width="180" height="180"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td width="33%" align="center">
+      <img src="https://i.pinimg.com/1200x/c1/af/8c/c1af8c67f530de547b64ca8972df88a7.jpg"
+           width="180" height="180"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://i.pinimg.com/1200x/2d/98/b4/2d98b465f02c0f945eb3a58113dcee9f.jpg" width="100%"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/profile/5july2025/gk1.jpg" width="100%"></td>
-    <td align="center"><img src="https://i.pinimg.com/736x/37/c3/a2/37c3a2fec92c0da064bbab2993330f3f.jpg" width="100%"></td>
+    <td align="center">
+      <img src="https://i.pinimg.com/1200x/2d/98/b4/2d98b465f02c0f945eb3a58113dcee9f.jpg"
+           width="180" height="180"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td align="center">
+      <!-- Your Photo -->
+      <img src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/profile/5july2025/gk1.jpg"
+           width="200" height="200"
+           style="border-radius:50%; object-fit:cover; border:4px solid #4CAF50;">
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/37/c3/a2/37c3a2fec92c0da064bbab2993330f3f.jpg"
+           width="180" height="180"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://i.pinimg.com/736x/6a/d6/8e/6ad68ec0733c1828be5fa6cb99fe137e.jpg" width="100%"></td>
-    <td align="center"><img src="https://i.pinimg.com/1200x/e4/57/4d/e4574dd85a2150b1cf82574c8e41435d.jpg" width="100%"></td>
-    <td align="center"><img src="https://i.pinimg.com/736x/d4/ff/b8/d4ffb81137719cda0ac103ea683c206f.jpg" width="100%"></td>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/6a/d6/8e/6ad68ec0733c1828be5fa6cb99fe137e.jpg"
+           width="180" height="180"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/1200x/e4/57/4d/e4574dd85a2150b1cf82574c8e41435d.jpg"
+           width="180" height="180"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/d4/ff/b8/d4ffb81137719cda0ac103ea683c206f.jpg"
+           width="180" height="180"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
   </tr>
 </table>
 
