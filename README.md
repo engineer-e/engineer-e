@@ -1214,26 +1214,12 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
            width="100"
            style="border-radius:50%; object-fit:cover;">
     </td>
-    <td align="center">
-      <div style="
-    width:180px;
-    height:180px;
-    border-radius:50%;
-    overflow:hidden;
-    border:4px solid #4CAF50;
-    margin:auto;
-">   <img
-        src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/profile/5july2025/gk1.jpg"
-        alt="Profile"
-        style="
-            width:100%;
-            height:100%;
-            object-fit:cover;
-            display:block;
-        " >
-</div> 
+<td align="center">
+      <img src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/profile/5july2025/gk1.jpg"
+           width="100" 
+           style="border-radius:50%; object-fit:cover;">
     </td>
-    <td align="center">
+   <td align="center">
       <img src="https://i.pinimg.com/736x/37/c3/a2/37c3a2fec92c0da064bbab2993330f3f.jpg"
            width="100" 
            style="border-radius:50%; object-fit:cover;">
