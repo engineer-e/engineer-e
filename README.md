@@ -1110,3 +1110,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 </details>
 
+# My Photo
+
+![5july2026](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/profile/5july2025/gk1.jpg)
+
