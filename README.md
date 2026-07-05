@@ -1161,12 +1161,12 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
            style="border-radius:50%; object-fit:cover;">
     </td>
     <td align="center">
-      <img src="https://i.pinimg.com/1200x/e4/57/4d/e4574dd85a2150b1cf82574c8e41435d.jpg"
+      <img src="https://i.pinimg.com/736x/d4/ff/b8/d4ffb81137719cda0ac103ea683c206f.jpg"
             width="100" 
            style="border-radius:50%; object-fit:cover;">
     </td>
     <td align="center">
-      <img src="https://i.pinimg.com/736x/d4/ff/b8/d4ffb81137719cda0ac103ea683c206f.jpg"
+      <img src="https://i.pinimg.com/736x/38/ff/ec/38ffeca0b67e3f8d29113f343e8ca648.jpg"
             width="100" 
            style="border-radius:50%; object-fit:cover;">
     </td>
