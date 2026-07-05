@@ -1187,6 +1187,76 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
   </tr>
 </table>
 
+---
+
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://i.pinimg.com/736x/87/b5/62/87b562ab3cf117dcf9a05da0bb8e6703.jpg"
+           width="100" 
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td width="33%" align="center">
+      <img src="https://i.pinimg.com/1200x/8e/8e/06/8e8e06453e7bf9e27f37d4ba54cd9f70.jpg"
+           width="100" 
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td width="33%" align="center">
+      <img src="https://i.pinimg.com/1200x/c1/af/8c/c1af8c67f530de547b64ca8972df88a7.jpg"
+           width="100" 
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.pinimg.com/1200x/2d/98/b4/2d98b465f02c0f945eb3a58113dcee9f.jpg"
+           width="100"
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td align="center">
+      <div style="
+    width:180px;
+    height:180px;
+    border-radius:50%;
+    overflow:hidden;
+    border:4px solid #4CAF50;
+    margin:auto;
+">   <img
+        src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/profile/5july2025/gk1.jpg"
+        alt="Profile"
+        style="
+            width:100%;
+            height:100%;
+            object-fit:cover;
+            display:block;
+        " >
+</div> 
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/37/c3/a2/37c3a2fec92c0da064bbab2993330f3f.jpg"
+           width="100" 
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/6a/d6/8e/6ad68ec0733c1828be5fa6cb99fe137e.jpg"
+            width="100" 
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/1200x/33/b9/24/33b924187649d4f77dbeaedf338f0b41.jpg"
+            width="100" 
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+    <td align="center">
+      <img src="https://i.pinimg.com/736x/38/ff/ec/38ffeca0b67e3f8d29113f343e8ca648.jpg"
+            width="100" 
+           style="border-radius:50%; object-fit:cover;">
+    </td>
+  </tr>
+</table>
 
 </details>
 
