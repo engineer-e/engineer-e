@@ -1145,8 +1145,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
     </td>
     <td align="center">
       <!-- Your Photo -->
-      <img src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/profile/5july2025/gk1.jpg"
-           style="border-radius:50%; object-fit:cover; border:4px solid #4CAF50;">
+      <img src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/profile/5july2025/gk1.jpg" style="border-radius:50%; border:4px solid #4CAF50;" />
     </td>
     <td align="center">
       <img src="https://i.pinimg.com/736x/37/c3/a2/37c3a2fec92c0da064bbab2993330f3f.jpg"
