@@ -1204,6 +1204,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 ![](https://p.turbosquid.com/ts-thumb/7s/5UwLvM/WV/realistic_skin_young_man_with_full_body_anatomy_360/jpg/1727755188/1920x1080/turn_fit_q99/643236346625c74242388b69b2ae4ee3725d38e8/realistic_skin_young_man_with_full_body_anatomy_360-34.jpg)
 [![Watch the video](https://img.youtube.com/vi/RYotHI47Eic/maxresdefault.jpg)](https://youtu.be/RYotHI47Eic?si=SjEMSQx13Uv5wD4L)
 
+
 ### I am an Unstable Biosystem. (Human 👤 Species 🧬 with Different 🔀 Emotional ❤️ Architecture 🧠⚙️)
 
 1. For me, love doesn't exist—it's simply a biochemical process and biochemical data processed through reinforcement learning. 🧬⚛️
@@ -1214,8 +1215,9 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 4. Every living being is mortal. One day, I too will die. ⏳🌍🧬💀
 
- 
-[![Watch the video](https://img.youtube.com/vi/s-_qeJyoSaU/maxresdefault.jpg)](https://youtu.be/s-_qeJyoSaU?si=ijqygyMiuy64gYGQ)
+| [![Watch the video](https://img.youtube.com/vi/dvV5i6S90yw/maxresdefault.jpg)](https://youtu.be/dvV5i6S90yw?si=iZBQRm2LoIVmFRFS) | [![Watch the video](https://img.youtube.com/vi/wPweUiiOhVA/maxresdefault.jpg)](https://youtu.be/wPweUiiOhVA?si=RsNpVHG6s49qOcPO)| [![Watch the video](https://img.youtube.com/vi/rtns2ZIJvnQ/maxresdefault.jpg)](https://youtu.be/rtns2ZIJvnQ?si=aBdr9NTtRrdb3hOt)|
+| :---: |:---: | :---: | 
+| [![Watch the video](https://img.youtube.com/vi/s-_qeJyoSaU/maxresdefault.jpg)](https://youtu.be/s-_qeJyoSaU?si=ijqygyMiuy64gYGQ) |[![Watch the video](https://img.youtube.com/vi/HxswFQHn2qc/maxresdefault.jpg)](https://youtu.be/HxswFQHn2qc?si=KguZhbiVc3ohtczA) | [![Watch the video](https://img.youtube.com/vi/jWSmXLAeFFw/maxresdefault.jpg)](https://youtu.be/jWSmXLAeFFw?si=6KEEL8Giyq-LNpbe) |
 
 </details>
 
