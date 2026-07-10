@@ -1222,9 +1222,9 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 
 
-| [![Watch the video](https://img.youtube.com/vi/dvV5i6S90yw/maxresdefault.jpg)](https://youtu.be/dvV5i6S90yw?si=iZBQRm2LoIVmFRFS) | [![Watch the video](https://img.youtube.com/vi/wPweUiiOhVA/maxresdefault.jpg)](https://youtu.be/wPweUiiOhVA?si=RsNpVHG6s49qOcPO)| [![Watch the video](https://img.youtube.com/vi/rtns2ZIJvnQ/maxresdefault.jpg)](https://youtu.be/rtns2ZIJvnQ?si=aBdr9NTtRrdb3hOt)| [![Watch the video](https://img.youtube.com/vi/0EEzxEfEip8/maxresdefault.jpg)](https://youtu.be/0EEzxEfEip8?si=2ffX8Yl4uOegw7RT) |
-| :---: |:---: | :---: | :---: |
-| [![Watch the video](https://img.youtube.com/vi/s-_qeJyoSaU/maxresdefault.jpg)](https://youtu.be/s-_qeJyoSaU?si=ijqygyMiuy64gYGQ) |[![Watch the video](https://img.youtube.com/vi/HxswFQHn2qc/maxresdefault.jpg)](https://youtu.be/HxswFQHn2qc?si=KguZhbiVc3ohtczA) | [![Watch the video](https://img.youtube.com/vi/jWSmXLAeFFw/maxresdefault.jpg)](https://youtu.be/jWSmXLAeFFw?si=6KEEL8Giyq-LNpbe) |  [![Watch the video](https://img.youtube.com/vi/7jf5H9GZIQc/maxresdefault.jpg)](https://youtu.be/7jf5H9GZIQc?si=RagAZOEHXBrmS3rl) |
+| [![Watch the video](https://img.youtube.com/vi/dvV5i6S90yw/maxresdefault.jpg)](https://youtu.be/dvV5i6S90yw?si=iZBQRm2LoIVmFRFS) | [![Watch the video](https://img.youtube.com/vi/wPweUiiOhVA/maxresdefault.jpg)](https://youtu.be/wPweUiiOhVA?si=RsNpVHG6s49qOcPO)| [![Watch the video](https://img.youtube.com/vi/rtns2ZIJvnQ/maxresdefault.jpg)](https://youtu.be/rtns2ZIJvnQ?si=aBdr9NTtRrdb3hOt)| [![Watch the video](https://img.youtube.com/vi/0EEzxEfEip8/maxresdefault.jpg)](https://youtu.be/0EEzxEfEip8?si=2ffX8Yl4uOegw7RT) | [![Watch the video](https://img.youtube.com/vi/PzlwK0SFGIE/maxresdefault.jpg)](https://youtu.be/PzlwK0SFGIE?si=fOj6tVWPGoXX1HQW) |
+| :---: |:---: | :---: | :---: | :---: |
+| [![Watch the video](https://img.youtube.com/vi/s-_qeJyoSaU/maxresdefault.jpg)](https://youtu.be/s-_qeJyoSaU?si=ijqygyMiuy64gYGQ) |[![Watch the video](https://img.youtube.com/vi/HxswFQHn2qc/maxresdefault.jpg)](https://youtu.be/HxswFQHn2qc?si=KguZhbiVc3ohtczA) | [![Watch the video](https://img.youtube.com/vi/jWSmXLAeFFw/maxresdefault.jpg)](https://youtu.be/jWSmXLAeFFw?si=6KEEL8Giyq-LNpbe) |  [![Watch the video](https://img.youtube.com/vi/7jf5H9GZIQc/maxresdefault.jpg)](https://youtu.be/7jf5H9GZIQc?si=RagAZOEHXBrmS3rl) | [![Watch the video](https://img.youtube.com/vi/OAzncbNovJc/maxresdefault.jpg)](https://youtu.be/OAzncbNovJc?si=6zPwrtcAGvNAPCoK)|
 
 </details>
 
