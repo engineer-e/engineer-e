@@ -843,6 +843,10 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 # Learning Topics
 
+## Large Language Model 
+
+1. [Build a Large Language Model]()
+
 ## [LTspice](https://engineer-e.github.io/LTspice/)
 
 > [Ngspice](https://ngspice.sourceforge.io/index.html) for [❤️ learn netlist](https://github.com/engineer-e/Design-and-Simulation-of-Power-Conversion) of simple circuit in my doc 
