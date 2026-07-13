@@ -101,6 +101,32 @@ Documentation is not only for today's project—it is a bridge between today's e
 
 I hope that every meaningful engineering contribution, whether from research, industry, or independent work, can leave behind a clear and lasting record for future generations.
 
+--- 
+
+🌍 **Based on my view,** I think war is used to kill innocent people. 💔
+
+Why do people start wars for **fame, pride, or power**? 🏆👑 They continue to do more wrong through war instead of finding peaceful solutions. 😔⚔️
+
+How can we stop war? 🕊️🤝 What is the best way to achieve lasting peace? 🌎✨
+
+These are just my thoughts and questions. 💭🙏
+
+---
+
+🤔 **Due to government, money, or any other material required to live, what causes conflict in families?** 🏛️💰⚖️
+
+❤️ Without love and without spending time with loved ones—such as mom, dad, and other family members—from childhood, people cannot live happily. 👨‍👩‍👧‍👦💞 They do not allow others into their circle. 🚪 Likewise, each family mainly thinks about its own family. 🏡
+
+👶 Some kids are born without a family. 💔 Their life path is difficult to predict, but they may or may not have love in their hearts. ❤️❓ They can work for the government 🏛️, a kingdom 👑, or they may try to become kings 🤴 or hold any government position. 🎖️
+
+👨‍👩‍👧 Even in families, a few people think like this. But at the marriage stage, 💍 unknown men and women get married only for money 💰, talent 🎓, or outer appearance. ✨ They do not think about love ❤️ or about spending time with the girl or the other person from childhood. 👫
+
+❓ Why are they not concentrating on love? ❤️ After some time, they can die in any situation. ⚠️ If a loved one dies, 💔 the grief can cause a big disaster in that person's life or even affect the surrounding family or region. 😢🌍
+
+💭 **It is just my doubt and my thoughts.** 🙏
+
+---
+
 
 </details>
 
