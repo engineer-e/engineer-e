@@ -1,6 +1,8 @@
 <details>
-<summary>🎓 Engineering Work Without a Permanent Record</summary>
+<summary>🎓 Engineering Work Without a Permanent Record </summary>
 
+ [My chat with chatgpt](https://chatgpt.com/share/6a54628a-4288-83ee-baae-03f57fd161f2)
+ 
 # Engineering Work Without a Permanent Record
 
 ## A Personal Reflection on Documentation, Recognition, and Career Growth
