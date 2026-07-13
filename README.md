@@ -565,7 +565,7 @@ For **pure optics**, this list gives about **97–99% public coverage** for rese
 
 
 <details>
-<summary> <a href="https://vedicheritage.gov.in/">Vedic</a>, Spiderman 1994</summary>
+<summary> <a href="https://eap.bl.uk/search?query=siddhar">Siddhar Proof</a>, <a href="https://vedicheritage.gov.in/">Vedic</a>,  Spiderman 1994</summary>
 
 [![Spiderman 1994 animated series Tamil](https://img.youtube.com/vi/shu8CTGgTM0/maxresdefault.jpg)](https://youtu.be/shu8CTGgTM0?si=jPuYyD16iG7USVFX)
 
