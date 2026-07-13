@@ -845,7 +845,7 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 ## Large Language Model 
 
-1. [Build a Large Language Model]()
+1. [Build a Large Language Model](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
 
 ## [LTspice](https://engineer-e.github.io/LTspice/)
 
