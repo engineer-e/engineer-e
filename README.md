@@ -5,6 +5,8 @@
 
 
  [![Watch the video](https://img.youtube.com/vi/3h6MhRbOz8g/maxresdefault.jpg)](https://youtu.be/3h6MhRbOz8g?si=e6oLWshYMk6Jz4yY)
+
+ 
  
 # Engineering Work Without a Permanent Record
 
@@ -104,8 +106,11 @@ Documentation is not only for today's project—it is a bridge between today's e
 
 I hope that every meaningful engineering contribution, whether from research, industry, or independent work, can leave behind a clear and lasting record for future generations.
 
---- 
+---
 
+[![Watch the video](https://img.youtube.com/vi/Ts80ttI7pI8/maxresdefault.jpg)](https://youtu.be/Ts80ttI7pI8?si=0aMuNaAh5hkNkMp3)
+
+---
 🌍 **Based on my view,** I think war is used to kill innocent people. 💔
 
 Why do people start wars for **fame, pride, or power**? 🏆👑 They continue to do more wrong through war instead of finding peaceful solutions. 😔⚔️
