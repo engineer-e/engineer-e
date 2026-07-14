@@ -155,6 +155,8 @@ This makes me wonder whether society places enough value on love, compassion, an
 
 These are simply my personal thoughts and questions. I do not claim to have the answers, but I believe they are worth reflecting on. 🌱💭
 
+[![Watch the video](https://img.youtube.com/vi/J0teGPUgAA0/maxresdefault.jpg)](https://youtu.be/J0teGPUgAA0?si=7ao2oKk2PVtFVBox)
+
 
 </details>
 
