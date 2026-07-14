@@ -1375,7 +1375,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 ![](https://p.turbosquid.com/ts-thumb/7s/5UwLvM/WV/realistic_skin_young_man_with_full_body_anatomy_360/jpg/1727755188/1920x1080/turn_fit_q99/643236346625c74242388b69b2ae4ee3725d38e8/realistic_skin_young_man_with_full_body_anatomy_360-34.jpg)
 [![Watch the video](https://img.youtube.com/vi/RYotHI47Eic/maxresdefault.jpg)](https://youtu.be/RYotHI47Eic?si=SjEMSQx13Uv5wD4L)
 
-| [![Watch the video](https://img.youtube.com/vi/oWoqSKneHZk/maxresdefault.jpg)](https://youtu.be/oWoqSKneHZk?si=WBPPlO33k1EQoejI) ||||||
+| [![Watch the video](https://img.youtube.com/vi/oWoqSKneHZk/maxresdefault.jpg)](https://youtu.be/oWoqSKneHZk?si=WBPPlO33k1EQoejI) | [![Watch the video](https://img.youtube.com/vi/ntdAXdt8Yl8/maxresdefault.jpg)](https://youtu.be/ntdAXdt8Yl8?si=N-RKsSYkZxO1mt0Y)|||||
 | :---: | :---: | :---: | :---: | :---: | --- |
 | [![Watch the video](https://img.youtube.com/vi/29-rp12-3bQ/maxresdefault.jpg)](https://youtu.be/29-rp12-3bQ?si=tYzAJVxAUD5_WdVW) | [![Watch the video](https://img.youtube.com/vi/XQZf55egvbo/maxresdefault.jpg)](https://youtu.be/XQZf55egvbo?si=cy7D9TdIjF5qojBm) | [![Watch the video](https://img.youtube.com/vi/NGV5S9j_oL4/maxresdefault.jpg)](https://youtu.be/NGV5S9j_oL4?si=YWSFWqIl3A4JuHws)| [![Watch the video](https://img.youtube.com/vi/27neyT_I63U/maxresdefault.jpg)](https://youtu.be/27neyT_I63U?si=9FzeLuvyN83ucX8c) | [![Watch the video](https://img.youtube.com/vi/474VBsej7Ao/maxresdefault.jpg)](https://youtu.be/474VBsej7Ao?si=zyNATsBZuVDWhSA-) | [![Watch the video](https://img.youtube.com/vi/oTLacz5NB08/maxresdefault.jpg)](https://youtu.be/oTLacz5NB08?si=akNlG-uqOxKaYU2o) |
 
