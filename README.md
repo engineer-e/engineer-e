@@ -1377,7 +1377,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 ||||
 | :---: | :---: | :---: | 
-| [![Watch the video](https://img.youtube.com/vi/29-rp12-3bQ/maxresdefault.jpg)](https://youtu.be/29-rp12-3bQ?si=tYzAJVxAUD5_WdVW) | [![Watch the video](https://img.youtube.com/vi/XQZf55egvbo/maxresdefault.jpg)](https://youtu.be/XQZf55egvbo?si=cy7D9TdIjF5qojBm) | |
+| [![Watch the video](https://img.youtube.com/vi/29-rp12-3bQ/maxresdefault.jpg)](https://youtu.be/29-rp12-3bQ?si=tYzAJVxAUD5_WdVW) | [![Watch the video](https://img.youtube.com/vi/XQZf55egvbo/maxresdefault.jpg)](https://youtu.be/XQZf55egvbo?si=cy7D9TdIjF5qojBm) | [![Watch the video](https://img.youtube.com/vi/NGV5S9j_oL4/maxresdefault.jpg)](https://youtu.be/NGV5S9j_oL4?si=YWSFWqIl3A4JuHws)|
 
 
 ### I am an Unstable Biosystem. (Human 👤 Species 🧬 with Different 🔀 Emotional ❤️ Architecture 🧠⚙️)
