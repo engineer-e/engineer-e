@@ -2,6 +2,9 @@
 <summary>🎓 Engineering Work Without a Permanent Record </summary>
 
  [My chat with chatgpt](https://chatgpt.com/share/6a54628a-4288-83ee-baae-03f57fd161f2)
+
+
+ [![Watch the video](https://img.youtube.com/vi/3h6MhRbOz8g/maxresdefault.jpg)](https://youtu.be/3h6MhRbOz8g?si=e6oLWshYMk6Jz4yY)
  
 # Engineering Work Without a Permanent Record
 
