@@ -1057,8 +1057,7 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 | S.No | Learning Resourse | Repository  |
 | :--- |  :--- | :--- | 
-| 1 | [Ray Tracering](https://raytracing.github.io/) | [click](https://github.com/engineer-e/Real-Time-Rendering) | 
-
+| 1 | [Ray Tracing](https://raytracing.github.io/) | <a href="https://github.com/engineer-e/Real-Time-Rendering"><img width="100px" src="https://raytracing.github.io/images/img-3.15-book3-final.jpg"></a> | 
 
 
 #  CMake Training Course
