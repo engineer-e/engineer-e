@@ -1,7 +1,10 @@
 <details>
 <summary>🎓 Engineering Work Without a Permanent Record <a href="https://chatgpt.com/share/6a63951b-0840-83ee-a2d6-1a2798318bda">Important document</a> </summary>
 
- [![Watch the video](https://img.youtube.com/vi/aYcrycNOY4s/mqdefault.jpg)](https://youtu.be/aYcrycNOY4s) [![Watch the video](https://img.youtube.com/vi/Xlu9-aQgxv4/mqdefault.jpg)](https://youtu.be/Xlu9-aQgxv4) [![Watch the video](https://img.youtube.com/vi/A8LkBelDQoc/mqdefault.jpg)](https://youtu.be/A8LkBelDQoc)
+| English | Malayalam | Tamil |
+|:---:| :---: | :---: |
+| [![Watch the video](https://img.youtube.com/vi/aYcrycNOY4s/mqdefault.jpg)](https://youtu.be/aYcrycNOY4s)  | [![Watch the video](https://img.youtube.com/vi/Xlu9-aQgxv4/mqdefault.jpg)](https://youtu.be/Xlu9-aQgxv4) |  [![Watch the video](https://img.youtube.com/vi/A8LkBelDQoc/mqdefault.jpg)](https://youtu.be/A8LkBelDQoc) |
+
 
  [My chat with chatgpt](https://chatgpt.com/share/6a54628a-4288-83ee-baae-03f57fd161f2)
 
