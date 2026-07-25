@@ -169,7 +169,7 @@ These are simply my personal thoughts and questions. I do not claim to have the 
 
 [![Watch the video](https://img.youtube.com/vi/J0teGPUgAA0/maxresdefault.jpg)](https://youtu.be/J0teGPUgAA0?si=7ao2oKk2PVtFVBox)
 
-| [![Watch the video](https://img.youtube.com/vi/3rZmfwgb3F8/maxresdefault.jpg)](https://youtu.be/3rZmfwgb3F8?si=gAWGKO8U-ribNR_f) |||
+| [![Watch the video](https://img.youtube.com/vi/3rZmfwgb3F8/maxresdefault.jpg)](https://youtu.be/3rZmfwgb3F8?si=gAWGKO8U-ribNR_f) | [![Watch the video](https://img.youtube.com/vi/_s9kMsTpwvA/maxresdefault.jpg)](https://youtu.be/_s9kMsTpwvA?si=LoFVUmypBcl2qsLK) ||
 |---|---|---|
 | | | |
 
