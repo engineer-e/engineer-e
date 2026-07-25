@@ -171,7 +171,7 @@ These are simply my personal thoughts and questions. I do not claim to have the 
 
 | [![Watch the video](https://img.youtube.com/vi/3rZmfwgb3F8/maxresdefault.jpg)](https://youtu.be/3rZmfwgb3F8?si=gAWGKO8U-ribNR_f) | [![Watch the video](https://img.youtube.com/vi/_s9kMsTpwvA/maxresdefault.jpg)](https://youtu.be/_s9kMsTpwvA?si=LoFVUmypBcl2qsLK) |  [![Watch the video](https://img.youtube.com/vi/lB2gOSwCoGI/maxresdefault.jpg)](https://youtu.be/lB2gOSwCoGI?si=5oCjGL5YI1m2-k0i) |
 |---|---|---|
-| [![Watch the video](https://img.youtube.com/vi/sSlsa1KVr_M/maxresdefault.jpg)](https://youtu.be/sSlsa1KVr_M?si=4PkMb_SfuveA8cWq)| | |
+| [![Watch the video](https://img.youtube.com/vi/sSlsa1KVr_M/maxresdefault.jpg)](https://youtu.be/sSlsa1KVr_M?si=4PkMb_SfuveA8cWq)| [![Watch the video](https://img.youtube.com/vi/RzrXSulKB8Y/maxresdefault.jpg)](https://youtu.be/RzrXSulKB8Y?si=VtVE3OKWSrQ90NG1) | |
 
 
 </details>
