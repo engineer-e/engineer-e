@@ -4,7 +4,8 @@
  
  [![Watch the video](https://img.youtube.com/vi/db6QIx11vMA/maxresdefault.jpg)](https://youtu.be/db6QIx11vMA?si=jtiMa1NcRmgZf1f9)
 
- [![Watch the video](https://img.youtube.com/vi/_OKAwz2MsJs/maxresdefault.jpg)](https://youtu.be/_OKAwz2MsJs?si=PeHxab_levsp7R-d)
+[![Watch the video]( https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/is_engineer.png)](https://youtu.be/zJ8R7HITios?si=jN96sZYeCpnWZoHn)
+
  
 | English | Malayalam | Tamil |
 |:---:| :---: | :---: |
@@ -16,11 +17,12 @@
  [My chat with chatgpt](https://chatgpt.com/share/6a54628a-4288-83ee-baae-03f57fd161f2)
 
 
- [![Watch the video](https://img.youtube.com/vi/3h6MhRbOz8g/maxresdefault.jpg)](https://youtu.be/3h6MhRbOz8g?si=e6oLWshYMk6Jz4yY)
-
- 
+[![Watch the video](https://img.youtube.com/vi/3h6MhRbOz8g/maxresdefault.jpg)](https://youtu.be/3h6MhRbOz8g?si=e6oLWshYMk6Jz4yY)
  
 # Engineering Work Without a Permanent Record
+
+[![Watch the video](https://img.youtube.com/vi/_OKAwz2MsJs/maxresdefault.jpg)](https://youtu.be/_OKAwz2MsJs?si=PeHxab_levsp7R-d)
+
 
 ## A Personal Reflection on Documentation, Recognition, and Career Growth
 
