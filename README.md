@@ -1,6 +1,8 @@
 <details>
 <summary>🎓 Engineering Work Without a Permanent Record <a href="https://chatgpt.com/share/6a63951b-0840-83ee-a2d6-1a2798318bda">Important document</a> </summary>
 <br>
+ 
+ [![Watch the video](https://img.youtube.com/vi/db6QIx11vMA/maxresdefault.jpg)](https://youtu.be/db6QIx11vMA?si=jtiMa1NcRmgZf1f9)
 
  [![Watch the video](https://img.youtube.com/vi/_OKAwz2MsJs/maxresdefault.jpg)](https://youtu.be/_OKAwz2MsJs?si=PeHxab_levsp7R-d)
  
