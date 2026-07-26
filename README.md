@@ -1429,6 +1429,8 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 </details>
 
+---
+
 <details>
  <summary>💍 The Device I Losted</summary>
 
