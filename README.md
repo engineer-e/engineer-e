@@ -1032,9 +1032,10 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 # Learning Topics
 
-## Large Language Model 
+## Microchip 
 
-1. [Build a Large Language Model](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
+1. [Ethernet Fundamentals](https://verify.skilljar.com/c/wo7jwdjy2tew)
+
 
 ## [LTspice](https://engineer-e.github.io/LTspice/)
 
@@ -1044,6 +1045,7 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 | S.No | Electronic | My Notes  | Trailer | Video | Download|  Certificate|
 | --- | --- | :--- | --- | --- | --- | --- | 
 |     |      |      |     |     |     |     | 
+
 
 ## Ansys Electronic Desktop
 
@@ -1062,6 +1064,8 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 |  |  | [Real-World Performance](https://innovationspace.ansys.com/product/real-world-performance/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/cmVhbC13b3JsZC1wZXJmb3JtYW5jZS0z) |
 |  |  | [Software Design of Optical Systems](https://innovationspace.ansys.com/product/software-design-of-optical-systems/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/c29mdHdhcmUtZGVzaWduLW9mLW9wdGljYWwtc3lzdGVtcy04) |
 |  |  | [Best Practices for Optical Design](https://innovationspace.ansys.com/courses/courses/best-practices-for-optical-design/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/YmVzdC1wcmFjdGljZXMtZm9yLW9wdGljYWwtZGVzaWduLTQ=) |
+
+
 
 # OpenGL in C++
 
@@ -1090,6 +1094,12 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 # Nvidia
 
 > [![NVIDIA Learning](https://img.shields.io/badge/NVIDIA-Learning%20Lab-76B900?logo=nvidia)](https://engineer-e.github.io/Nvidia-Learning/)
+
+
+# Large Language Model 
+
+1. [Build a Large Language Model](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
+
 
 <details>
 <summary>Marks and Grades during School and College 🎒📚🏫📝📊🎓📈😅</summary>  
