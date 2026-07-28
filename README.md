@@ -1085,8 +1085,8 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 # RayTracing
 
 | S.No | Learning Resourse | Repository  | My own implementation.| 
-| :--- |  :--- | :--- | :---: |   
-| 1 | [Ray Tracing](https://raytracing.github.io/) | <a href="https://github.com/engineer-e/Real-Time-Rendering"><img width="100px" src="https://raytracing.github.io/images/img-3.15-book3-final.jpg"></a> | 1. [Ray Tracing in One Weekend - Javascript](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md) |
+| :--- |  :--- | :--- | :--- |   
+| 1 | [Ray Tracing](https://raytracing.github.io/) | <a href="https://github.com/engineer-e/Real-Time-Rendering"><img width="100px" src="https://raytracing.github.io/images/img-3.15-book3-final.jpg"></a> | 1. [Ray Tracing in One Weekend](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md) <br> 2. Ray Tracing: The Next Week <br> 3. Ray Tracing: The Rest of Your Life|
 
 
 #  CMake Training Course
