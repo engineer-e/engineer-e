@@ -1480,7 +1480,9 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 ---
 # My Teacher in Dream is God Shiva
 
-[![Watch the video](https://img.youtube.com/vi/ZIKzQJYKJV0/maxresdefault.jpg)](https://youtu.be/ZIKzQJYKJV0?si=PTJ9NW1Kzi1SvEcO)
+| | | |
+| --- | --- | --- |
+| [![Watch the video](https://img.youtube.com/vi/ZIKzQJYKJV0/maxresdefault.jpg)](https://youtu.be/ZIKzQJYKJV0?si=PTJ9NW1Kzi1SvEcO) | [![Watch the video](https://img.youtube.com/vi/B6Mxd4Bd-MM/maxresdefault.jpg)](https://youtu.be/B6Mxd4Bd-MM?si=VaSIEGy3GyFiDqc1) | |
 
 
 ---
