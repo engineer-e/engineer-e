@@ -1480,7 +1480,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 ---
 # My Teacher in Dream
 
-| | | |
+| [![Watch the video](https://img.youtube.com/vi/NA4d7OQVGSw/maxresdefault.jpg)](https://youtu.be/NA4d7OQVGSw?si=J1fhk0tR4OKA5bFi)| [![Watch the video](https://img.youtube.com/vi/PbGBn14Q-TU/maxresdefault.jpg)](https://youtu.be/PbGBn14Q-TU?si=qsBpHTkNLxVypqHW) | |
 | --- | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/ZIKzQJYKJV0/maxresdefault.jpg)](https://youtu.be/ZIKzQJYKJV0?si=PTJ9NW1Kzi1SvEcO) | [![Watch the video](https://img.youtube.com/vi/B6Mxd4Bd-MM/maxresdefault.jpg)](https://youtu.be/B6Mxd4Bd-MM?si=VaSIEGy3GyFiDqc1) | [![Watch the video](https://img.youtube.com/vi/2PnS3fSy7OQ/maxresdefault.jpg)](https://youtu.be/2PnS3fSy7OQ?si=CCpkRqPQaIHiarPm) |
 
