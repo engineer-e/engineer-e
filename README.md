@@ -649,7 +649,7 @@ For **pure optics**, this list gives about **97–99% public coverage** for rese
 
 <details>
 <summary> <a href="https://eap.bl.uk/search?query=siddhar">Siddhar Proof</a>,<a href="https://tamildigitallibrary.in/book-search-new?sub_cat_id=12&cat_id=22&sub_cat_name=%E0%AE%93%E0%AE%B2%E0%AF%88%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%9F%E0%AE%BF
-">ஓலைச்சுவடி</a>, <a href="https://vedicheritage.gov.in/">Vedic</a>,  Spiderman 1994</summary>
+">ஓலைச்சுவடி</a>, <a href="https://vedicheritage.gov.in/">Vedic</a>, <a href="https://www.omniglot.com/">Omniglot</a>, <a href="https://www.unicode.org/charts/">Unicode</a>,  Spiderman 1994</summary>
 
 [![Spiderman 1994 animated series Tamil](https://img.youtube.com/vi/shu8CTGgTM0/maxresdefault.jpg)](https://youtu.be/shu8CTGgTM0?si=jPuYyD16iG7USVFX)
 
