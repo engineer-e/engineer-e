@@ -1090,7 +1090,7 @@ Today, social problems can still exist 😔, but legally no one is “high” or
 
 | S.No | Learning Resourse | Repository  | My own implementation.| 
 | :--- |  :--- | :--- | :--- |   
-| 1 | [Ray Tracing](https://raytracing.github.io/) | <a href="https://github.com/engineer-e/Real-Time-Rendering"><img width="100px" src="https://raytracing.github.io/images/img-3.15-book3-final.jpg"></a> | 1. ❤️ Ray Tracing in One Weekend 🎓 - [cpp](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Cpp/readme.md),[js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md) <br> 2. ❤️ Ray Tracing: The Next Week 🎓 - [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Javascript/readme.md) <br> 3. Ray Tracing: The Rest of Your Life|
+| 1 | [Ray Tracing](https://raytracing.github.io/) | <a href="https://github.com/engineer-e/Real-Time-Rendering"><img width="100px" src="https://raytracing.github.io/images/img-3.15-book3-final.jpg"></a> | 1. ❤️ Ray Tracing in One Weekend 🎓 - [cpp](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Cpp/readme.md), [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md), [ipynb](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Python/ray_tracing_in_one_weekend.md) <br> 2. ❤️ Ray Tracing: The Next Week 🎓 - [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Javascript/readme.md) <br> 3. Ray Tracing: The Rest of Your Life|
 
 
 #  CMake Training Course
