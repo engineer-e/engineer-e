@@ -1,7 +1,6 @@
 <details>
  <summary> <h1>Education Does Not Guarantee Lifetime Job Security</h1> </summary>
 
- # Education Does Not Guarantee Lifetime Job Security
 
  | [![Watch the video](https://img.youtube.com/vi/xUkJqvd9Pkk/maxresdefault.jpg)](https://youtu.be/xUkJqvd9Pkk?si=skFVFAs86xTjynfz)| [![Watch the video](https://img.youtube.com/vi/pykcRAmT2X0/maxresdefault.jpg)](https://youtu.be/pykcRAmT2X0?si=RsB4j3jHKVvsJn0L) | [![Watch the video](https://img.youtube.com/vi/emjat6c24cE/maxresdefault.jpg)](https://youtu.be/emjat6c24cE?si=IDaX8W5EpnG8oesQ) | [![Watch the video](https://img.youtube.com/vi/tCsw72Mx28Y/maxresdefault.jpg)](https://youtu.be/tCsw72Mx28Y?si=eualN0HwAWVBismZ) | [![Watch the video](https://img.youtube.com/vi/QZbxpo3N5bY/maxresdefault.jpg)](https://youtu.be/QZbxpo3N5bY?si=8HeervTAc2WhXyvh) | [![Watch the video](https://img.youtube.com/vi/iIesVccB2Ss/maxresdefault.jpg)](https://youtu.be/iIesVccB2Ss?si=YQvIokTf3AYnR-YU)|
 | --- | --- | --- | --- | --- | --- |
