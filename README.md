@@ -1098,90 +1098,10 @@ Articles **14, 15, 16, and 17** guaranteed equality ⚖️, banned caste discrim
 Today, social problems can still exist 😔, but legally no one is “high” or “low” caste—your talent, character, and actions define you 🌱🚀.
 
 
----
 
 </details>
 
-</details>
-
 ---
-
-* ⚠️ [My device](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_used.md) was damaged due to voltage fluctuations. 💥💻 I am using my younger brother's laptop, ["Kishore Kumar V" 💻 Laptop](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_using.md). ❤️ [system info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/system_info.txt) ❤️, [gpu info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/gpu_info.txt) ❤️
-* 🩺 Due to health issues, I resigned from my job in **June 2025**. 💼 I have been searching for a job for the past **1 year**, but I have not gotten one yet. 🙏
-
-
----
-
-# Learning Topics
-
-## Microchip 
-
-1. [Ethernet Fundamentals](https://verify.skilljar.com/c/wo7jwdjy2tew)
-
-
-## [LTspice](https://engineer-e.github.io/LTspice/)
-
-> [Ngspice](https://ngspice.sourceforge.io/index.html) for [❤️ learn netlist](https://github.com/engineer-e/Design-and-Simulation-of-Power-Conversion) of simple circuit in my doc 
-> [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) for [❤️ learn circuit design](https://engineer-e.github.io/LTspice/)
- 
-| S.No | Electronic | My Notes  | Trailer | Video | Download|  Certificate|
-| --- | --- | :--- | --- | --- | --- | --- | 
-|     |      |      |     |     |     |     | 
-
-
-## Ansys Electronic Desktop
-
-| S.No | Electronic | My Notes  | Trailer | Video | Download|  Certificate|
-| :--- | :--- | :--- | --- | --- | --- | --- | 
-| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project](https://github.com/engineer-e/Ansys-Electronic-Desktop-Student-2025-R2-Learning/blob/main/electronics/modeling_a_point_charge_using_ansys_maxwell.md)[❤️](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) | [![Watch the video](https://img.youtube.com/vi/0_2FkxPQF0w/default.jpg)](https://youtu.be/0_2FkxPQF0w) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  [completed](https://innovation.ansys.com/badges/badge/bW9kZWxpbmctYS1wb2ludC1jaGFyZ2UtdXNpbmctYW5zeXMtbWF4d2VsbC0xMA==) | 
-
-## Ansys Zemax 
-
-| S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
-| :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
-| 1 |  [Fundamentals of Optics](https://innovationspace.ansys.com/courses/learning-track/fundamentals-of-optics/) |  |  | | | | [completed](https://innovation.ansys.com/badges/badge/ZnVuZGFtZW50YWxzLW9mLW9wdGljcy0xMA==) |
-|  |  | [Introduction to Optics](https://innovationspace.ansys.com/product/introduction-to-optics/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/aW50cm9kdWN0aW9uLXRvLW9wdGljcy00OA==) |
-|  |  | [Fundamental Parameters of Optical Systems](https://innovationspace.ansys.com/courses/courses/fundamental-parameters-of-optical-systems)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/ZnVuZGFtZW50YWwtcGFyYW1ldGVycy1vZi1vcHRpY2FsLXN5c3RlbXMtNg==) |
-|  |  | [Understanding Optical Specifications](https://innovationspace.ansys.com/courses/courses/understanding-optical-specifications/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/dW5kZXJzdGFuZGluZy1vcHRpY2FsLXNwZWNpZmljYXRpb25zLTU=) |
-|  |  | [Real-World Performance](https://innovationspace.ansys.com/product/real-world-performance/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/cmVhbC13b3JsZC1wZXJmb3JtYW5jZS0z) |
-|  |  | [Software Design of Optical Systems](https://innovationspace.ansys.com/product/software-design-of-optical-systems/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/c29mdHdhcmUtZGVzaWduLW9mLW9wdGljYWwtc3lzdGVtcy04) |
-|  |  | [Best Practices for Optical Design](https://innovationspace.ansys.com/courses/courses/best-practices-for-optical-design/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/YmVzdC1wcmFjdGljZXMtZm9yLW9wdGljYWwtZGVzaWduLTQ=) |
-
-
-
-# OpenGL in C++
-
-- But want to use Visual Studio  IDE, not done in CMake
-
-| S.No | Learning Resourse  | Repository  |   Certificate|
-| :--- |  :--- | :--- | --- | 
-| 1 |  [Computer Graphics with Modern OpenGL and C++](https://www.udemy.com/course/graphics-with-modern-opengl/) | <a href="https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md"><img src="https://raw.githubusercontent.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/refs/heads/master/images/output/final/sky3.png" width="100px"></img></a> | [completed](https://www.udemy.com/certificate/UC-59008625-ea7a-49b7-b59c-a4289530d262/) |
-| 2 | [LearnOpenGL](https://learnopengl.com/) | <a href="https://github.com/engineer-e/LearnOpenGLPractice/blob/master/README.md"><img src="https://raw.githubusercontent.com/engineer-e/LearnOpenGLPractice/refs/heads/master/image/8/2022/7.area_light/2.multiple_area_light/1.png" width="100px"></img></a>  | |
-
-# RayTracing
-
-| S.No | Learning Resourse | Repository  | My own implementation.| 
-| :--- |  :--- | :--- | :--- |   
-| 1 | [Ray Tracing](https://raytracing.github.io/) | <a href="https://github.com/engineer-e/Real-Time-Rendering"><img width="100px" src="https://raytracing.github.io/images/img-3.15-book3-final.jpg"></a> | 1. ❤️ Ray Tracing in One Weekend 🎓 - [cpp](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Cpp/readme.md), [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md), [ipynb](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Python/ray_tracing_in_one_weekend.md) <br> 2. ❤️ Ray Tracing: The Next Week 🎓 - [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Javascript/readme.md) <br> 3. Ray Tracing: The Rest of Your Life|
-
-
-#  CMake Training Course
-
-
-
-| S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
-| :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
-| 1 |  [On Demand CMake Training Course - Part 1](https://kitwarecourses.onlinecoursehost.com/courses/cmake-trainingcourse-part1) |  |  | | | | [completed](https://kitwarecourses.onlinecoursehost.com/certificate-proof/GlPydXrygHPWZtqB22dk7OYxuV93-1/I21w892bpQEI89GXnQAx/fRU0WxzefzW9aO2sYw6ZUCFUvig2) |
-
-# Nvidia
-
-> [![NVIDIA Learning](https://img.shields.io/badge/NVIDIA-Learning%20Lab-76B900?logo=nvidia)](https://engineer-e.github.io/Nvidia-Learning/)
-
-
-# Large Language Model 
-
-1. [Build a Large Language Model](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
-
 
 <details>
 <summary>Marks and Grades during School and College 🎒📚🏫📝📊🎓📈😅</summary>  
@@ -1571,7 +1491,91 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
  
 </details>
 
+
+
+
+</details>
+
 ---
+
+* ⚠️ [My device](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_used.md) was damaged due to voltage fluctuations. 💥💻 I am using my younger brother's laptop, ["Kishore Kumar V" 💻 Laptop](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_using.md). ❤️ [system info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/system_info.txt) ❤️, [gpu info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/gpu_info.txt) ❤️
+* 🩺 Due to health issues, I resigned from my job in **June 2025**. 💼 I have been searching for a job for the past **1 year**, but I have not gotten one yet. 🙏
+
+
+---
+
+# Learning Topics
+
+## Microchip 
+
+1. [Ethernet Fundamentals](https://verify.skilljar.com/c/wo7jwdjy2tew)
+
+
+## [LTspice](https://engineer-e.github.io/LTspice/)
+
+> [Ngspice](https://ngspice.sourceforge.io/index.html) for [❤️ learn netlist](https://github.com/engineer-e/Design-and-Simulation-of-Power-Conversion) of simple circuit in my doc 
+> [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html) for [❤️ learn circuit design](https://engineer-e.github.io/LTspice/)
+ 
+| S.No | Electronic | My Notes  | Trailer | Video | Download|  Certificate|
+| --- | --- | :--- | --- | --- | --- | --- | 
+|     |      |      |     |     |     |     | 
+
+
+## Ansys Electronic Desktop
+
+| S.No | Electronic | My Notes  | Trailer | Video | Download|  Certificate|
+| :--- | :--- | :--- | --- | --- | --- | --- | 
+| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project](https://github.com/engineer-e/Ansys-Electronic-Desktop-Student-2025-R2-Learning/blob/main/electronics/modeling_a_point_charge_using_ansys_maxwell.md)[❤️](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) | [![Watch the video](https://img.youtube.com/vi/0_2FkxPQF0w/default.jpg)](https://youtu.be/0_2FkxPQF0w) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  [completed](https://innovation.ansys.com/badges/badge/bW9kZWxpbmctYS1wb2ludC1jaGFyZ2UtdXNpbmctYW5zeXMtbWF4d2VsbC0xMA==) | 
+
+## Ansys Zemax 
+
+| S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
+| :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
+| 1 |  [Fundamentals of Optics](https://innovationspace.ansys.com/courses/learning-track/fundamentals-of-optics/) |  |  | | | | [completed](https://innovation.ansys.com/badges/badge/ZnVuZGFtZW50YWxzLW9mLW9wdGljcy0xMA==) |
+|  |  | [Introduction to Optics](https://innovationspace.ansys.com/product/introduction-to-optics/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/aW50cm9kdWN0aW9uLXRvLW9wdGljcy00OA==) |
+|  |  | [Fundamental Parameters of Optical Systems](https://innovationspace.ansys.com/courses/courses/fundamental-parameters-of-optical-systems)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/ZnVuZGFtZW50YWwtcGFyYW1ldGVycy1vZi1vcHRpY2FsLXN5c3RlbXMtNg==) |
+|  |  | [Understanding Optical Specifications](https://innovationspace.ansys.com/courses/courses/understanding-optical-specifications/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/dW5kZXJzdGFuZGluZy1vcHRpY2FsLXNwZWNpZmljYXRpb25zLTU=) |
+|  |  | [Real-World Performance](https://innovationspace.ansys.com/product/real-world-performance/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/cmVhbC13b3JsZC1wZXJmb3JtYW5jZS0z) |
+|  |  | [Software Design of Optical Systems](https://innovationspace.ansys.com/product/software-design-of-optical-systems/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/c29mdHdhcmUtZGVzaWduLW9mLW9wdGljYWwtc3lzdGVtcy04) |
+|  |  | [Best Practices for Optical Design](https://innovationspace.ansys.com/courses/courses/best-practices-for-optical-design/)  |  |  | | | [completed](https://innovation.ansys.com/badges/badge/YmVzdC1wcmFjdGljZXMtZm9yLW9wdGljYWwtZGVzaWduLTQ=) |
+
+
+
+# OpenGL in C++
+
+- But want to use Visual Studio  IDE, not done in CMake
+
+| S.No | Learning Resourse  | Repository  |   Certificate|
+| :--- |  :--- | :--- | --- | 
+| 1 |  [Computer Graphics with Modern OpenGL and C++](https://www.udemy.com/course/graphics-with-modern-opengl/) | <a href="https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md"><img src="https://raw.githubusercontent.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/refs/heads/master/images/output/final/sky3.png" width="100px"></img></a> | [completed](https://www.udemy.com/certificate/UC-59008625-ea7a-49b7-b59c-a4289530d262/) |
+| 2 | [LearnOpenGL](https://learnopengl.com/) | <a href="https://github.com/engineer-e/LearnOpenGLPractice/blob/master/README.md"><img src="https://raw.githubusercontent.com/engineer-e/LearnOpenGLPractice/refs/heads/master/image/8/2022/7.area_light/2.multiple_area_light/1.png" width="100px"></img></a>  | |
+
+# RayTracing
+
+| S.No | Learning Resourse | Repository  | My own implementation.| 
+| :--- |  :--- | :--- | :--- |   
+| 1 | [Ray Tracing](https://raytracing.github.io/) | <a href="https://github.com/engineer-e/Real-Time-Rendering"><img width="100px" src="https://raytracing.github.io/images/img-3.15-book3-final.jpg"></a> | 1. ❤️ Ray Tracing in One Weekend 🎓 - [cpp](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Cpp/readme.md), [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md), [ipynb](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Python/ray_tracing_in_one_weekend.md) <br> 2. ❤️ Ray Tracing: The Next Week 🎓 - [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Javascript/readme.md) <br> 3. Ray Tracing: The Rest of Your Life|
+
+
+#  CMake Training Course
+
+
+
+| S.No | Learning Tracks | Topics | My Notes  | Trailer | Video | Download|  Certificate|
+| :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
+| 1 |  [On Demand CMake Training Course - Part 1](https://kitwarecourses.onlinecoursehost.com/courses/cmake-trainingcourse-part1) |  |  | | | | [completed](https://kitwarecourses.onlinecoursehost.com/certificate-proof/GlPydXrygHPWZtqB22dk7OYxuV93-1/I21w892bpQEI89GXnQAx/fRU0WxzefzW9aO2sYw6ZUCFUvig2) |
+
+# Nvidia
+
+> [![NVIDIA Learning](https://img.shields.io/badge/NVIDIA-Learning%20Lab-76B900?logo=nvidia)](https://engineer-e.github.io/Nvidia-Learning/)
+
+
+# Large Language Model 
+
+1. [Build a Large Language Model](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
+
+
+
 
 
 
