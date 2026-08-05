@@ -20,6 +20,10 @@
 
 [![Watch the video](https://img.youtube.com/vi/JlOA1MjBg74/maxresdefault.jpg)](https://youtube.com/playlist?list=PLvB72hZUyeq3aCPEIJPf3e7wTz8mquPIh&si=-cC9yQ4ovDwePrV3)
 
+```text
+All of them doing wrong, when asking for right for life and work, you say we demons & monster. Trying to killing innocent one. You all spoiling life of other. You are demons & monster. We just asking for individual rights. not to spoil other life.  
+```
+
 > When people ask for fairness, dignity, individual rights, and the opportunity to work honestly, they should not be treated as enemies or have their lives made more difficult. No one should face harassment, exploitation, or attempts to destroy their future simply for seeking a better life.
 
 > Those who intentionally abuse power, exploit others, or deliberately ruin innocent people's lives act without compassion or integrity. Every individual deserves the right to live peacefully, work honestly, and pursue their goals without harming others. A just society should protect these fundamental rights instead of rewarding exploitation or intimidation.
