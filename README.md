@@ -482,6 +482,8 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
  
 </details>
 
+----
+
 <details>
  <summary> I only like to do Work From Home 🏠💻, I don’t believe anyone 🤐 due to toxic culture⚠️🔥.</summary>
 
@@ -494,7 +496,7 @@ Be the one who breaks the cycle, not continues it.](https://engineer-work.github
 
 
 
-
+----
 
 
 
@@ -697,9 +699,10 @@ If your goal is **only optics** (for electron microscope optics, lithography opt
 For **pure optics**, this list gives about **97–99% public coverage** for research and practical building.
 
 
----
 
 </details>
+
+----
 
 <details>
 <summary> 🧠 Thought: ⚡ Before joining Electronic Engineering</summary>
@@ -736,6 +739,7 @@ For **pure optics**, this list gives about **97–99% public coverage** for rese
 
 </details>
 
+---
 
 [![Watch the video](images/learn_university.png)](https://youtu.be/jBfvXIKImGw?si=Dwph0TYSRBwS6_vQ)
 
@@ -1212,6 +1216,8 @@ I completed my Secondary School Leaving Certificate (10th standard) at Don Bosco
 
 </details>
 
+---
+
 <details>
 <summary>Based on my past life experiences 💭💔 and the situations 🌪️😞 I’ve been through, I’ve come to believe 🤔🖤 that love ❤️ and marriage 💍 are fake 🎭❌ — just an act 🎬 for money 💸💰.</summary>
   
@@ -1376,7 +1382,6 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 [NOAA](https://www.ngdc.noaa.gov/hazel/view/swagger)
 
----
 </details>
 
 ---
@@ -1403,6 +1408,8 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 
 </details>
+
+----
 
 <details>
 <summary>My Photos </summary>
@@ -1541,6 +1548,10 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 </details>
 
 ---
+
+<details>
+ <summary>My Teacher in Dream</summary>
+
 # My Teacher in Dream
 
 | [![Watch the video](https://img.youtube.com/vi/NA4d7OQVGSw/maxresdefault.jpg)](https://youtu.be/NA4d7OQVGSw?si=J1fhk0tR4OKA5bFi)| [![Watch the video](https://img.youtube.com/vi/PbGBn14Q-TU/maxresdefault.jpg)](https://youtu.be/PbGBn14Q-TU?si=qsBpHTkNLxVypqHW) |  [![Watch the video](https://img.youtube.com/vi/ftrhVWdCZvI/maxresdefault.jpg)](https://youtu.be/ftrhVWdCZvI?si=x_EdrDPhzrn8j5p9) |
@@ -1551,6 +1562,11 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 ---
 
 # 🚫🙏 **I do not believe in God.** Since they possess extraordinary powers and talents, people from those timelines may have thought of them as gods. 🌌✨ In this timeline, they are simply a **super-being species** 🧬, with advanced knowledge of **Biology** 🧫, **Physics** ⚛️, **Chemistry** 🧪, and **Mathematics** 📐🧮—not gods. 🌍🚀
+
+ 
+</details>
+
+---
 
 
 
