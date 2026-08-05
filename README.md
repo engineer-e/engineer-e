@@ -1,5 +1,5 @@
 <details>
- <summary> Education Does Not Guarantee Lifetime Job Security</summary>
+ <summary> <h1>Education Does Not Guarantee Lifetime Job Security</h1> </summary>
 
  # Education Does Not Guarantee Lifetime Job Security
 
