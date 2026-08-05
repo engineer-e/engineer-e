@@ -44,6 +44,9 @@ All of them doing wrong, when asking for right for life and work, you say we dem
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/x7uLutVRBfI/maxresdefault.jpg)](https://youtu.be/x7uLutVRBfI?si=HLydHzZ19_RYFazn)
+
+
 </details>
 
 Studying mathematics, physics, chemistry, biology, engineering, medicine, or preparing for IAS, IPS, and other government careers requires years of dedication. However, earning a degree or even securing a job does not guarantee long-term employment. In today's competitive environment, layoffs, automation, AI, changing market demands, and intense competition can affect careers, making continuous learning and adaptability essential.
