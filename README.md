@@ -2,6 +2,9 @@
 
 Studying mathematics, physics, chemistry, biology, engineering, medicine, or preparing for IAS, IPS, and other government careers requires years of dedication. However, earning a degree or even securing a job does not guarantee long-term employment. In today's competitive environment, layoffs, automation, AI, changing market demands, and intense competition can affect careers, making continuous learning and adaptability essential.
 
+| [![Watch the video](https://img.youtube.com/vi/xUkJqvd9Pkk/maxresdefault.jpg)](https://youtu.be/xUkJqvd9Pkk?si=skFVFAs86xTjynfz)| [![Watch the video](https://img.youtube.com/vi/pykcRAmT2X0/maxresdefault.jpg)](https://youtu.be/pykcRAmT2X0?si=RsB4j3jHKVvsJn0L) | [![Watch the video](https://img.youtube.com/vi/emjat6c24cE/maxresdefault.jpg)](https://youtu.be/emjat6c24cE?si=IDaX8W5EpnG8oesQ) | | | |
+| --- | --- | --- | --- | --- | --- |
+| | | | | |  [![Watch the video](https://img.youtube.com/vi/IVANwP6uLcw/maxresdefault.jpg)](https://youtu.be/IVANwP6uLcw?si=LyG-Kj1g03uosGaq) |
 ---
 
 <details>
