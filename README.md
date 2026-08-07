@@ -1512,7 +1512,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 [![Personal Profile](https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white)](https://engineer-work.github.io/Join-Company/)
 
 ```code 
-Address: No: 937, Vasugi,bL.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, Chennai - 600068.
+Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, Chennai - 600068.
 ```
 
 > 🚀 About Me [👨‍💼 Job Resume](https://github.com/engineer-work/Join-Company/blob/main/resume/V_GOBAL_KRISHNAN_2026-04-07.pdf) [🛰️ My Ambition and Wish](https://engineer-work.github.io/Join-Company/my_wish_and_goal/spaceship/my_wish.html), [💸🤑💰 for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
