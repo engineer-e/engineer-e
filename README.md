@@ -4,12 +4,18 @@
 <details>
  <summary> <h1>Education Does Not Guarantee Lifetime Job Security</h1> </summary>
 
-
  | [![Watch the video](https://img.youtube.com/vi/xUkJqvd9Pkk/maxresdefault.jpg)](https://youtu.be/xUkJqvd9Pkk?si=skFVFAs86xTjynfz)| [![Watch the video](https://img.youtube.com/vi/pykcRAmT2X0/maxresdefault.jpg)](https://youtu.be/pykcRAmT2X0?si=RsB4j3jHKVvsJn0L) | [![Watch the video](https://img.youtube.com/vi/emjat6c24cE/maxresdefault.jpg)](https://youtu.be/emjat6c24cE?si=IDaX8W5EpnG8oesQ) | [![Watch the video](https://img.youtube.com/vi/tCsw72Mx28Y/maxresdefault.jpg)](https://youtu.be/tCsw72Mx28Y?si=eualN0HwAWVBismZ) | [![Watch the video](https://img.youtube.com/vi/QZbxpo3N5bY/maxresdefault.jpg)](https://youtu.be/QZbxpo3N5bY?si=8HeervTAc2WhXyvh) | [![Watch the video](https://img.youtube.com/vi/iIesVccB2Ss/maxresdefault.jpg)](https://youtu.be/iIesVccB2Ss?si=YQvIokTf3AYnR-YU)|
 | --- | --- | --- | --- | --- | --- |
 | [![Watch the video](https://img.youtube.com/vi/JddOLEBaPII/maxresdefault.jpg)](https://youtu.be/JddOLEBaPII?si=MfvEgmzDHIee80sX) |  [![Watch the video](https://img.youtube.com/vi/hbiAc3dcf9g/maxresdefault.jpg)](https://youtu.be/hbiAc3dcf9g?si=fd0Hi0ovKx5Wef1p)| [![Watch the video](https://img.youtube.com/vi/r_HGD-IpRXo/maxresdefault.jpg)](https://youtu.be/r_HGD-IpRXo?si=B1GzJLl4pEpdOPXK) | [![Watch the video](https://img.youtube.com/vi/ahGWxR7SPY4/maxresdefault.jpg)](https://youtu.be/ahGWxR7SPY4?si=MfwlxM8TyshOfBzs) | [![Watch the video](https://img.youtube.com/vi/jdtFMYaIiHk/maxresdefault.jpg)](https://youtu.be/jdtFMYaIiHk?si=ED8XOWleTGQ8W4N7) |  [![Watch the video](https://img.youtube.com/vi/IVANwP6uLcw/maxresdefault.jpg)](https://youtu.be/IVANwP6uLcw?si=LyG-Kj1g03uosGaq) |
 | [![Watch the video](https://img.youtube.com/vi/JWKJmtit8yM/maxresdefault.jpg)](https://youtu.be/JWKJmtit8yM?si=RiL38C_2j9urP2V0) | [![Watch the video](https://img.youtube.com/vi/SbcivBiFYVw/maxresdefault.jpg)](https://youtu.be/SbcivBiFYVw?si=rOWPcMDY2X6euG-4) | [![Watch the video](https://img.youtube.com/vi/8uF4LF56ztQ/maxresdefault.jpg)](https://youtu.be/8uF4LF56ztQ?si=8cdQsBzZ6HfwF5hE) | [![Watch the video](https://img.youtube.com/vi/uLFMTJgMdNo/maxresdefault.jpg)](https://youtu.be/uLFMTJgMdNo?si=qmWO89sB6Ddm8VDm) | [![Watch the video](https://img.youtube.com/vi/u4PwlvU5Xrs/maxresdefault.jpg)](https://youtu.be/u4PwlvU5Xrs?si=rIJJ11vJi2mTvxdo) | [![Watch the video](https://img.youtube.com/vi/-ogn5qyumQ0/maxresdefault.jpg)](https://youtu.be/-ogn5qyumQ0?si=QDEJXPvumtMSoKSn)|
 | [![Watch the video](https://img.youtube.com/vi/7d99D52v5v4/maxresdefault.jpg)](https://youtu.be/7d99D52v5v4?si=1AwJXhdNGHxzlcBP) | [![Watch the video](https://img.youtube.com/vi/U7S_SeCSmZw/maxresdefault.jpg)](https://youtu.be/U7S_SeCSmZw?si=kAoDbQc0ai9CN-9T) | [![Watch the video](https://img.youtube.com/vi/ZPe7tbysc2g/maxresdefault.jpg)](https://youtu.be/ZPe7tbysc2g?si=mxQS4Zezc5BtM2cw) | [![Watch the video](https://img.youtube.com/vi/qOZmv_ENIkg/default.jpg)](https://youtu.be/qOZmv_ENIkg?si=pg8CVU8u5OxVyDmb) | [![Watch the video](https://img.youtube.com/vi/dnTqb5esOjU/default.jpg)](https://youtu.be/dnTqb5esOjU?si=X-YaA0tMS5q_TZmv) | [![Watch the video](https://img.youtube.com/vi/ayd7gEp97rI/default.jpg)](https://youtu.be/ayd7gEp97rI?si=u1gz20e1iwO4DTLt) |
+
+## In Future School, College Professor want to work combine with Humanoid Robot.
+
+> How you give guarantee to all the School and College Student get the job. Since, Already Graduate Student in Engineering, Medical and Other Department many student Struggling in life.  
+
+[![Watch the video](https://img.youtube.com/vi/w00QQ6iFQDE/maxresdefault.jpg)](https://youtu.be/w00QQ6iFQDE?si=PIaQEM6iYaLyvLee)
+
 
 ## Wrong Education Creates Demons and Monsters, Whether in Gurukuls or Modern Education Systems
 
