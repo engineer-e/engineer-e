@@ -1554,6 +1554,8 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 1. [PCB Design Tutorial](https://www.udemy.com/share/105u0c3@-n4yzBLcctHuVduxZJlX3C1kOOMI1t_tJVX40GV53zPt0J2RxxqWq-d1Vpsyiq38DQ==/), [Completed](https://book-g.github.io/KiCad/)
 
+**Note :** When PCB signal frequency or, more importantly, **signal edge rate** increases, the PCB trace can no longer be treated as an ideal wire; it behaves like a **transmission line**, and at sufficiently high frequencies the trace, vias, planes, connectors, and return paths can also radiate or receive electromagnetic energy, causing **signal integrity (SI), power integrity (PI), EMI/EMC, reflection, ringing, crosstalk, skin-effect, dielectric loss, impedance mismatch, and other losses**. What you need to study is not a normal PCB-design course but **High-Speed PCB Design + Signal Integrity + Power Integrity + Transmission-Line Theory + EMI/EMC + RF PCB Design**, covering microstrip, stripline, controlled impedance, differential pairs, return-current paths, S-parameters, TDR, eye diagrams, crosstalk, via discontinuities, stackup design, PDN, and eventually VNA/oscilloscope measurements and SI/PI/EMI simulation.
+
 
 ## Ansys Electronic Desktop
 
