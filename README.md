@@ -1550,6 +1550,10 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 | --- | --- | :--- | --- | --- | --- | --- | 
 |     |      |      |     |     |     |     | 
 
+## KiCad 
+
+1. [Udemy Tutorial](https://www.udemy.com/share/105u0c3@-n4yzBLcctHuVduxZJlX3C1kOOMI1t_tJVX40GV53zPt0J2RxxqWq-d1Vpsyiq38DQ==/), [Completed](https://book-g.github.io/KiCad/)
+
 
 ## Ansys Electronic Desktop
 
