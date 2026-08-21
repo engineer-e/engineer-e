@@ -1522,7 +1522,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, Chennai - 600068.
 ```
 
-My Wish is **SpaceShip**, Money to Make that SpaceShip, With **100% Good Health and Wealth support to travel in Space to Find the Hidden Truth**. ‘Develop an ultra-safe spaceship with comprehensive 20-year warranty and guarantee coverage for all critical components. The spacecraft shall be equipped with autonomous (Humanoid) robotic systems that enable self-monitoring, self-healing, and continuous operation for long-duration space missions.’ replan the project plan
+> My Wish is **SpaceShip**, Money to Make that SpaceShip, With **100% Good Health and Wealth support to travel in Space to Find the Hidden Truth**. ‘Develop an ultra-safe spaceship with comprehensive 20-year warranty and guarantee coverage for all critical components. The spacecraft shall be equipped with autonomous (Humanoid) robotic systems that enable self-monitoring, self-healing, and continuous operation for long-duration space missions.’ replan the project plan
 
 > 🚀 About Me [👨‍💼 Job Resume](https://github.com/engineer-work/Join-Company/blob/main/resume/V_GOBAL_KRISHNAN_2026-04-07.pdf) [🛰️ My Ambition and Wish](https://engineer-work.github.io/Join-Company/my_wish_and_goal/spaceship/my_wish.html), [💸🤑💰 for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
