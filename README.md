@@ -783,7 +783,10 @@ For **pure optics**, this list gives about **97–99% public coverage** for rese
 [Exascale Computing is Here: El Capitan](https://youtu.be/3nzY9z1-rC0?si=SQIOV6uPGo_QYkjq),
 [Aurora Supercomputer: All-Access](https://youtu.be/VW0hCq4G3uM?si=L9GJrBjkhJah6R6J), [ASML](https://youtu.be/9RZreu5z_Gc?si=ROt2znsjRt47M6wr)
 
+
+
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
+
 
 [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html) [Pain creates the story—but choice writes the ending.
 Be the one who breaks the cycle, not continues it.](https://engineer-work.github.io/Join-Company/war_prediction/human_uncertainty_pain_based_on_eduction.html) [💸🤑💰](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
@@ -1518,10 +1521,13 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 [![Instagram](https://img.shields.io/badge/Instagram-gobalkrishnan.engineer-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gobalkrishnan.engineer/)
 [![Personal Profile](https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white)](https://engineer-work.github.io/Join-Company/)
 
+
 ```code 
 Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, Chennai - 600068.
 ```
 
+> Tamil Matrimony Profile **M12747656** 💍, Currently Not Working 💼❌
+ 
 > My Wish is **SpaceShip**, Money to Make that SpaceShip, With **100% Good Health and Wealth support to travel in Space to Find the Hidden Truth**. ‘Develop an ultra-safe spaceship with comprehensive 20-year warranty and guarantee coverage for all critical components. The spacecraft shall be equipped with autonomous (Humanoid) robotic systems that enable self-monitoring, self-healing, and continuous operation for long-duration space missions.’ replan the project plan
 
 > 🚀 About Me [👨‍💼 Job Resume](https://github.com/engineer-work/Join-Company/blob/main/resume/V_GOBAL_KRISHNAN_2026-04-07.pdf) [🛰️ My Ambition and Wish](https://engineer-work.github.io/Join-Company/my_wish_and_goal/spaceship/my_wish.html), [💸🤑💰 for my life and Work](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
