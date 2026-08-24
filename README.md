@@ -1,6 +1,5 @@
 <details>
- <Summary><h3>👋 I am <i>Gobal Krishnan V</i>. I am doing this for learning purposes. 📚</h3></Summary>
-
+ <Summary>👋 I am Gobal Krishnan V. I am doing this for learning purposes. 📚 <a href="https://engineer-work.github.io/Join-Company/"> <img src="https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white" alt="Personal Profile"> </a> <a href="https://www.youtube.com/@GobalKrishnanV-j2w"> <img src="https://img.shields.io/badge/YouTube-Gobal%20Krishnan%20V-FF0000?logo=youtube&logoColor=white" alt="YouTube"> </a> </Summary>
 <details>
  <summary> <h1>Education Does Not Guarantee Lifetime Job Security</h1> </summary>
 
