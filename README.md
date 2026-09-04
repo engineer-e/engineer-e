@@ -1616,6 +1616,7 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 1. [Neural Network](https://github.com/engineer-e/Neural-Network/blob/main/README.md)
 2. [Build a Large Language Model](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
+3. [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection)
 
 
 ---
