@@ -1667,7 +1667,7 @@ But **I am doing it myself.** ❤️‍🔥
 
 ---
 
-# I don't like friends or parents who live for money alone. 💰❌ I don't like my parents. 😔 I feel that, in front of others, they act one way, so I also act the same way toward them. 🎭 I have anger toward my parents and all human species who have spoiled my lifetime. 😡💔 I have anger strong enough to want to kill them, but I have not killed them till now. ⚠️
+# I don't like friends or parents who live for money alone. 💰❌ I don't like my parents. 😔 I feel that, in front of others, they act one way, so I also act the same way toward them. 🎭 I have anger toward my parents and all human species who have spoiled my lifetime. 😡💔 I have anger strong enough to want to kill them. but, I have not killed them till now. ⚠️
 
 [![Watch the video](https://img.youtube.com/vi/VQKMZ1rpziQ/maxresdefault.jpg)](https://youtu.be/VQKMZ1rpziQ?si=Xgl2T3RzljRZKJcm)
 
