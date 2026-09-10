@@ -1663,6 +1663,7 @@ But **I am doing it myself.** ❤️‍🔥
 - 💰 But if I become financially successful, and people suddenly come to talk to me or try to marry me because of my money, what should I think about that relationship? 🤔
 - ❤️ For me, a genuine marriage should be based on mutual care, trust, respect, and commitment—not money alone. 🤝
 
+[![Watch the video](https://img.youtube.com/vi/0t3aq4cYoxk/maxresdefault.jpg)](https://youtu.be/0t3aq4cYoxk?si=_l_D-9qYCQ2f95TZ)
 
 
 
