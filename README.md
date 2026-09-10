@@ -1,3 +1,5 @@
+# I don't like friends or parents who live for money alone. 💰❌ I don't like my parents. 😔 I feel that, in front of others, they act one way, so I also act the same way toward them. 🎭 I have anger toward my parents and all human species who have spoiled my lifetime. 😡💔 I have anger strong enough to want to kill them, but I have not killed them till now. ⚠️
+
 <details>
  <Summary>👋 I am Gobal Krishnan V. I am doing this for learning purposes. 📚 <a href="https://engineer-work.github.io/Join-Company/"> <img src="https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white" alt="Personal Profile"> </a> <a href="https://www.youtube.com/@GobalKrishnanV-j2w"> <img src="https://img.shields.io/badge/YouTube-Gobal%20Krishnan%20V-FF0000?logo=youtube&logoColor=white" alt="YouTube"> </a> </Summary>
 <details>
