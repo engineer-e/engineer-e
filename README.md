@@ -1520,12 +1520,13 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 [![Work Profile](https://img.shields.io/badge/Work%20Profile-engineer--work-181717?logo=github)](https://github.com/engineer-work/) 
 [![Instagram](https://img.shields.io/badge/Instagram-gobalkrishnan.engineer-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/gobalkrishnan.engineer/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-engineer--work-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engineer-work/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-gobalkrishnan-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/gobalkrishnan)
 
 ```code 
 Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, Chennai - 600068.
 ```
 
-> Tamil Matrimony Profile **M12747656** 💍, Currently Not Working 💼❌
+> Tamil Matrimony Profile **M12747656** 💍, Currently Not Working 💼❌, 
  
 > My Wish is **SpaceShip**, Money to Make that SpaceShip, With **100% Good Health and Wealth support to travel in Space to Find the Hidden Truth**. ‘Develop an ultra-safe spaceship with comprehensive 20-year warranty and guarantee coverage for all critical components. The spacecraft shall be equipped with autonomous (Humanoid) robotic systems that enable self-monitoring, self-healing, and continuous operation for long-duration space missions.’ replan the project plan
 
