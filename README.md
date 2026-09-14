@@ -1620,6 +1620,12 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 2. [Build a Large Language Model](https://github.com/engineer-e/LLM-Python/blob/main/readme.md)
 3. [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection)
 
+<details>
+
+<summary><h1>⚙️📖 World is Just Fake Illusion. ⚡🧠🤖⏳</h1></summary>
+
+
+[![Watch the video](https://img.youtube.com/vi/lhdmMqSmg5g/maxresdefault.jpg)](https://youtu.be/lhdmMqSmg5g?si=Mgcj2xt8u7WrKEvt)
 
 [![Watch the video](https://img.youtube.com/vi/wjZofJX0v4M/maxresdefault.jpg)](https://youtu.be/wjZofJX0v4M?si=RXTdN_nd5jKRpO1J)
 
@@ -1678,3 +1684,6 @@ But **I am doing it myself.** ❤️‍🔥
 
 
 
+
+ 
+</details>
