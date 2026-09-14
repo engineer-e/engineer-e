@@ -1628,14 +1628,15 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 > This for less trained brain & not for who already know about it --> Movie --> Dr Strange & Wanda Problem.
 
-[![Watch the video](https://img.youtube.com/vi/0_5TdD41X8I/hqdefault.jpg)](https://youtu.be/0_5TdD41X8I?si=0mtAf_nKCdNumiRc)
-[![Watch the video](https://img.youtube.com/vi/UdskcNUDsV0/hqdefault.jpg)](https://youtu.be/UdskcNUDsV0?si=nvRwdxHyqQGd8zi7)
+| [![Watch the video](https://img.youtube.com/vi/0_5TdD41X8I/hqdefault.jpg)](https://youtu.be/0_5TdD41X8I?si=0mtAf_nKCdNumiRc) |  [![Watch the video](https://img.youtube.com/vi/UdskcNUDsV0/hqdefault.jpg)](https://youtu.be/UdskcNUDsV0?si=nvRwdxHyqQGd8zi7) |
+| :---: | :---: |
+| [![Watch the video](https://img.youtube.com/vi/lhdmMqSmg5g/maxresdefault.jpg)](https://youtu.be/lhdmMqSmg5g?si=Mgcj2xt8u7WrKEvt)  | [![Watch the video](https://img.youtube.com/vi/wjZofJX0v4M/maxresdefault.jpg)](https://youtu.be/wjZofJX0v4M?si=RXTdN_nd5jKRpO1J) |
+
 
 > This like the above scene in video, but not fully correct thought, what I try to express. *Simple* -> multiple world in **Mirror**, **Lens**, **Laser**, **Light Year**
 
-[![Watch the video](https://img.youtube.com/vi/lhdmMqSmg5g/maxresdefault.jpg)](https://youtu.be/lhdmMqSmg5g?si=Mgcj2xt8u7WrKEvt)
 
-[![Watch the video](https://img.youtube.com/vi/wjZofJX0v4M/maxresdefault.jpg)](https://youtu.be/wjZofJX0v4M?si=RXTdN_nd5jKRpO1J)
+
 
 ---
 
