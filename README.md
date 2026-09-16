@@ -1616,7 +1616,7 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 # Large Language Model 
 
-
+0. [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801816380), []()
 1. [Neural Network](https://github.com/engineer-e/Neural-Network/blob/main/README.md)
 2. [Build a Large Language Model](https://www.manning.com/books/build-a-large-language-model-from-scratch), [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka2&a_aid=raschka&a_bid=4c3c5398&chan=mm_github), [ Data Analysis with LLMs
 Text, tables, images and sound](https://www.manning.com/books/data-analysis-with-llms)
