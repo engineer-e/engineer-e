@@ -1631,7 +1631,7 @@ Text, tables, images and sound](https://www.manning.com/books/data-analysis-with
 
 > This for less trained brain & not for who already know about it --> Movie --> Dr Strange & Wanda Problem.
 
-| [![Watch the video](https://img.youtube.com/vi/0_5TdD41X8I/hqdefault.jpg)](https://youtu.be/0_5TdD41X8I?si=0mtAf_nKCdNumiRc) |  [![Watch the video](https://img.youtube.com/vi/UdskcNUDsV0/hqdefault.jpg)](https://youtu.be/UdskcNUDsV0?si=nvRwdxHyqQGd8zi7) | |
+| [![Watch the video](https://img.youtube.com/vi/0_5TdD41X8I/hqdefault.jpg)](https://youtu.be/0_5TdD41X8I?si=0mtAf_nKCdNumiRc) |  [![Watch the video](https://img.youtube.com/vi/UdskcNUDsV0/hqdefault.jpg)](https://youtu.be/UdskcNUDsV0?si=nvRwdxHyqQGd8zi7) | [![Watch the video](https://img.youtube.com/vi/h5HACJeaQ5k/hqdefault.jpg)](https://youtu.be/h5HACJeaQ5k?si=_jXbmV1cpJF_tasj&t=1032) |
 | :---: | :---: |  :---: |
 | [![Watch the video](https://img.youtube.com/vi/lhdmMqSmg5g/maxresdefault.jpg)](https://youtu.be/lhdmMqSmg5g?si=Mgcj2xt8u7WrKEvt)  | [![Watch the video](https://img.youtube.com/vi/wjZofJX0v4M/maxresdefault.jpg)](https://youtu.be/wjZofJX0v4M?si=RXTdN_nd5jKRpO1J) |  [![Watch the video](https://img.youtube.com/vi/AEil21x1cVk/hqdefault.jpg)](https://youtu.be/AEil21x1cVk?si=FNC9OcZYOcv6vCYk&t=1637) |
 | [![Watch the video](https://img.youtube.com/vi/MYRVn9EyRcU/maxresdefault.jpg)](https://youtu.be/MYRVn9EyRcU?si=UG-W2AIfgsRbnavU) | [![Watch the video](https://img.youtube.com/vi/ZfgydRfWuo8/maxresdefault.jpg)](https://youtu.be/ZfgydRfWuo8?si=SFCNlsQ9EGYO1Fts) | [![Watch the video](https://img.youtube.com/vi/Y6MijxuBPKs/maxresdefault.jpg)](https://youtu.be/Y6MijxuBPKs?si=WB1fEqSfa8scZw7X) |
