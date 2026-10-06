@@ -1703,3 +1703,11 @@ But **I am doing it myself.** ❤️‍🔥
 
  
 </details>
+
+---
+
+# History of Electronics
+
+| Fairchild  | | |
+| --- | --- | --- | 
+| [![Watch the video](https://img.youtube.com/vi/GQqnY2b0js4/maxresdefault.jpg)](https://youtu.be/GQqnY2b0js4?si=NzXQT7yW8c9mNDZM) | | |
