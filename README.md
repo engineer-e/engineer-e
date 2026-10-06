@@ -783,7 +783,6 @@ For **pure optics**, this list gives about **97–99% public coverage** for rese
 [Aurora Supercomputer: All-Access](https://youtu.be/VW0hCq4G3uM?si=L9GJrBjkhJah6R6J), [ASML](https://youtu.be/9RZreu5z_Gc?si=ROt2znsjRt47M6wr)
 
 
-
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only.
 
 
@@ -1513,6 +1512,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 
 ---
+[![Springer Nature - Peer Review Certification](https://img.shields.io/badge/Springer%20Nature-Peer%20Review%20Certification-orange?style=for-the-badge)](https://github.com/engineer-e/engineer-e/blob/main/pdf/PeerReview.pdf)
 
 
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only. 
