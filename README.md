@@ -1544,7 +1544,7 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
   
  [![Watch the video](https://img.youtube.com/vi/94o1ifLKKgM/maxresdefault.jpg)](https://youtu.be/94o1ifLKKgM?si=Gvl7bmRUU8WbkKYK)
 
-[2026.07.24.740618](https://www.biorxiv.org/content/10.64898/2026.07.24.740618v1.full?utm_source=chatgpt.com) [Reversible-Thermosalience-in-a-One-Dimensional](https://pubs.acs.org/jacsat/article-abstract/143/4/2088/799809/Reversible-Thermosalience-in-a-One-Dimensional?redirectedFrom=fulltext)
+[2026.07.24.740618](https://www.biorxiv.org/content/10.64898/2026.07.24.740618v1.full?utm_source=chatgpt.com) [Reversible-Thermosalience-in-a-One-Dimensional](https://pubs.acs.org/jacsat/article-abstract/143/4/2088/799809/Reversible-Thermosalience-in-a-One-Dimensional?redirectedFrom=fulltext) [Translating-Microscopic-Molecular-Motion](https://pubs.acs.org/cgdefu/article-abstract/18/6/3535/740112/Translating-Microscopic-Molecular-Motion-into?redirectedFrom=PDF) [ncomms13321](https://www.nature.com/articles/ncomms13321?utm_source=chatgpt.com)
 
 </details>
 
