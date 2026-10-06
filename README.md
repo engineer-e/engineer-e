@@ -1708,6 +1708,6 @@ But **I am doing it myself.** ❤️‍🔥
 
 # History of Electronics
 
-| Fairchild  | | |
+| Fairchild Semiconductor | | |
 | --- | --- | --- | 
 | [![Watch the video](https://img.youtube.com/vi/GQqnY2b0js4/maxresdefault.jpg)](https://youtu.be/GQqnY2b0js4?si=NzXQT7yW8c9mNDZM) | | |
