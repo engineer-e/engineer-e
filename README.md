@@ -1574,7 +1574,7 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 ## Microchip 
 
 1. [Ethernet Fundamentals](https://verify.skilljar.com/c/wo7jwdjy2tew)
-
+2. [Microcontroller](https://github.com/engineer-e/Microcontroller)
 
 ## [LTspice](https://engineer-e.github.io/LTspice/)
 
