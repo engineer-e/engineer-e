@@ -1743,6 +1743,6 @@ But **I am doing it myself.** ❤️‍🔥
 
 # History of Electronics
 
-| Fairchild Semiconductor | Bell Labs | |
+| Fairchild Semiconductor | Bell Labs | RadioShack |
 | --- | --- | --- | 
-| [![Watch the video](https://img.youtube.com/vi/GQqnY2b0js4/maxresdefault.jpg)](https://youtu.be/GQqnY2b0js4?si=NzXQT7yW8c9mNDZM) | [![Watch the video](https://img.youtube.com/vi/mskbVYpj208/maxresdefault.jpg)](https://youtu.be/mskbVYpj208?si=0-xfDJUTpOmo5Y2X) | |
+| [![Watch the video](https://img.youtube.com/vi/GQqnY2b0js4/maxresdefault.jpg)](https://youtu.be/GQqnY2b0js4?si=NzXQT7yW8c9mNDZM) | [![Watch the video](https://img.youtube.com/vi/mskbVYpj208/maxresdefault.jpg)](https://youtu.be/mskbVYpj208?si=0-xfDJUTpOmo5Y2X) |  [![Watch the video](https://img.youtube.com/vi/jDRjs0jqbBE/maxresdefault.jpg)](https://youtu.be/jDRjs0jqbBE?si=JjywD9IJCWHNCvYW) |
