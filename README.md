@@ -1,4 +1,5 @@
-# Some Person in My Educational & Career path could be criminal for selfish beneficial needs. Since, the region i born and grow, not guided properly in education & career. 
+<details>
+ <summary>Some Person in My Educational & Career path could be criminal for selfish beneficial needs. Since, the region i born and grow, not guided properly in education & career.</summary>
 
 ⚖️ **A Reflection on My Educational & Career Journey**
 
@@ -6,7 +7,13 @@ I believe that some individuals I encountered throughout my educational and care
 
 Despite these challenges, I remain determined to learn, grow, and build a better future for myself. 💪📚 My past circumstances do not define my future; my commitment to progress does. 🚀
 
-# I not know the really talented, rich and world rank education guidance. so don't follow me. I search for good mentor & guide. but "AI like Chatgpt, Gemini" safe me. but i not able to find proper and correct mentor to publish papers and research field.
+ 
+</details>
+
+<details>
+ <summary>I not know the really talented, rich and world rank education guidance. so don't follow me. I search for good mentor & guide. but <b>AI like Chatgpt, Gemini, Deepseek, IBM Granite</b> safe me. but i not able to find proper and correct mentor to publish papers and research field.</summary>
+ 
+<br>
 
 🎓 **My Search for the Right Mentor, Research Guidance & Global Opportunities** 🌍
 
@@ -21,6 +28,11 @@ I was not fortunate enough to receive the educational and career guidance needed
 🚀 **I am not searching for shortcuts or guaranteed publications. I am searching for the right guidance, an honest research environment, and an opportunity to develop the knowledge and skills required to contribute meaningful work to science and technology.**
 
 🌱 My background may have limited my access to opportunities, but it does not have to determine the limits of my future. With disciplined learning, trustworthy mentorship, and persistent effort, I hope to build a legitimate path into the global research community.
+
+
+</details>
+
+
 
 ---
 
