@@ -13,7 +13,7 @@ Despite these challenges, I remain determined to learn, grow, and build a better
 </details>
 
 <details>
- <summary><i>I not know the really talented, rich and world rank education guidance. so <b>don't follow me.</b></i> I search for good mentor & guide. but <b>AI like Chatgpt, Gemini, Deepseek, IBM Granite</b> safe me. but i not able to find proper and correct mentor to publish papers and research field.</summary>
+ <summary><i>I not know the really talented, rich and world rank education guidance. so <b>don't follow me.</b></i> I search for good mentor & guide. but <b>Youtube, AI like Chatgpt, Gemini, Deepseek, IBM Granite</b> safe me. but i not able to find proper and correct mentor to publish papers and research field.</summary>
  
 <br>
 
