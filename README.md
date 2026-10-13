@@ -6,7 +6,7 @@ I believe that some individuals I encountered throughout my educational and care
 
 Despite these challenges, I remain determined to learn, grow, and build a better future for myself. 💪📚 My past circumstances do not define my future; my commitment to progress does. 🚀
 
-# I not know the really talented, rich and world rank education guidance. so don't follow me. I search for good mentor & guide. but AI safe me. but i not able to find proper and correct mentor to publish papers and research field.
+# I not know the really talented, rich and world rank education guidance. so don't follow me. I search for good mentor & guide. but "AI like Chatgpt, Gemini" safe me. but i not able to find proper and correct mentor to publish papers and research field.
 
 🎓 **My Search for the Right Mentor, Research Guidance & Global Opportunities** 🌍
 
