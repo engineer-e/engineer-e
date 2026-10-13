@@ -1786,3 +1786,9 @@ But **I am doing it myself.** ❤️‍🔥
 | Fairchild Semiconductor | Bell Labs | RadioShack |
 | --- | --- | --- | 
 | [![Watch the video](https://img.youtube.com/vi/GQqnY2b0js4/maxresdefault.jpg)](https://youtu.be/GQqnY2b0js4?si=NzXQT7yW8c9mNDZM) | [![Watch the video](https://img.youtube.com/vi/mskbVYpj208/maxresdefault.jpg)](https://youtu.be/mskbVYpj208?si=0-xfDJUTpOmo5Y2X) |  [![Watch the video](https://img.youtube.com/vi/jDRjs0jqbBE/maxresdefault.jpg)](https://youtu.be/jDRjs0jqbBE?si=JjywD9IJCWHNCvYW) |
+
+
+
+
+
+[![](https://m.media-amazon.com/images/I/61Uw6baQIML._AC_SL1500_.jpg)](https://www.amazon.com/dp/B0CNJQ25TS?lv=shuf&channelId=500&plpRedirect=mhFallback)
