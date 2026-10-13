@@ -1,3 +1,12 @@
+# Some Person in My Educational & Career path could be criminal for selfish beneficial needs. Since, the region i born and grow, not guided properly in education & career. 
+
+⚖️ **A Reflection on My Educational & Career Journey**
+
+I believe that some individuals I encountered throughout my educational and career journey may have acted out of selfish interests, potentially at the expense of my growth and opportunities. 🌱 The environment in which I was born and raised did not provide me with the proper guidance, mentorship, or direction I needed to make informed educational and career decisions. 🎓💼
+
+Despite these challenges, I remain determined to learn, grow, and build a better future for myself. 💪📚 My past circumstances do not define my future; my commitment to progress does. 🚀
+
+
 <details>
  <Summary>👋 I am Gobal Krishnan V. I am doing this for learning purposes. 📚 <a href="https://engineer-work.github.io/Join-Company/"> <img src="https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white" alt="Personal Profile"> </a> <a href="https://www.youtube.com/@GobalKrishnanV-j2w"> <img src="https://img.shields.io/badge/YouTube-Gobal%20Krishnan%20V-FF0000?logo=youtube&logoColor=white" alt="YouTube"> </a> </Summary>
 <details>
