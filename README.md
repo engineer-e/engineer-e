@@ -22,6 +22,7 @@ I was not fortunate enough to receive the educational and career guidance needed
 
 🌱 My background may have limited my access to opportunities, but it does not have to determine the limits of my future. With disciplined learning, trustworthy mentorship, and persistent effort, I hope to build a legitimate path into the global research community.
 
+---
 
 <details>
  <Summary>👋 I am Gobal Krishnan V. I am doing this for learning purposes. 📚 <a href="https://engineer-work.github.io/Join-Company/"> <img src="https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white" alt="Personal Profile"> </a> <a href="https://www.youtube.com/@GobalKrishnanV-j2w"> <img src="https://img.shields.io/badge/YouTube-Gobal%20Krishnan%20V-FF0000?logo=youtube&logoColor=white" alt="YouTube"> </a> </Summary>
