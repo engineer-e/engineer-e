@@ -1,6 +1,8 @@
 <details>
  <summary>Some Person in My Educational & Career path could be criminal for selfish beneficial needs. Since, the region i born and grow, not guided properly in education & career.</summary>
 
+<br>
+
 ⚖️ **A Reflection on My Educational & Career Journey**
 
 I believe that some individuals I encountered throughout my educational and career journey may have acted out of selfish interests, potentially at the expense of my growth and opportunities. 🌱 The environment in which I was born and raised did not provide me with the proper guidance, mentorship, or direction I needed to make informed educational and career decisions. 🎓💼
