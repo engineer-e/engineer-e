@@ -1798,7 +1798,7 @@ But **I am doing it myself.** ❤️‍🔥
 
 | [![Watch the video](https://img.youtube.com/vi/474VBsej7Ao/maxresdefault.jpg)](https://youtu.be/474VBsej7Ao?si=AE5acgHUJJUNotaY) | [![Watch the video](https://img.youtube.com/vi/pn0uCFTaq1k/maxresdefault.jpg)](https://youtu.be/pn0uCFTaq1k?si=WGQyYRL3uUs-wxK7)| [![Watch the video](https://img.youtube.com/vi/5dp_YQTQFrE/maxresdefault.jpg)](https://youtu.be/5dp_YQTQFrE?si=fjcSHzKI_pwm1VKD) |  [![Watch the video](https://img.youtube.com/vi/TnYfLeQOg2s/maxresdefault.jpg)](https://youtu.be/TnYfLeQOg2s?si=Q5Bs9QFXQr6MR372) | [![Watch the video](https://img.youtube.com/vi/JpPlcWZTdW0/maxresdefault.jpg)](https://youtu.be/JpPlcWZTdW0?si=lxaDfgsJITLZX3nb) | [![Watch the video](https://img.youtube.com/vi/HJ2YUGtKQCk/maxresdefault.jpg)](https://youtu.be/HJ2YUGtKQCk?si=DwIS1pZ3zZWv9jFp) |
 |---|---|----|---|---|---|
-| | | | | | |
+|  [![Watch the video](https://img.youtube.com/vi/q7MufUZ8NOE/maxresdefault.jpg)](https://youtu.be/q7MufUZ8NOE?si=5J7fyVQ3DIU0S-ZI) | [![Watch the video](https://img.youtube.com/vi/fBA02D4sv4E/maxresdefault.jpg)](https://youtu.be/fBA02D4sv4E?si=Oq9PuNA4nKNltzIy) |  [![Watch the video](https://img.youtube.com/vi/9tRse2hapkA/maxresdefault.jpg)](https://youtu.be/9tRse2hapkA?si=hygHoXHkWY8kX3pW)|  [![Watch the video](https://img.youtube.com/vi/0VIGK-Ca1vI/maxresdefault.jpg)](https://youtu.be/0VIGK-Ca1vI?si=fZaWPnR6o1J71hq-) | | |
 
 # London Naked Bike Ride Festival
 
