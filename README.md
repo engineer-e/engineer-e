@@ -1607,7 +1607,6 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 </details>
 
 
-[![Watch the video](https://img.youtube.com/vi/nzW0TAG5c1M/maxresdefault.jpg)](https://youtu.be/nzW0TAG5c1M?si=loGvbjGDl5j3nF7v)
 
 
  
@@ -1618,6 +1617,9 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/nzW0TAG5c1M/maxresdefault.jpg)](https://youtu.be/nzW0TAG5c1M?si=loGvbjGDl5j3nF7v)
+
+---
 
 * ⚠️ [My device](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_used.md) was damaged due to voltage fluctuations. 💥💻 I am using my younger brother's laptop, ["Kishore Kumar V" 💻 Laptop](https://github.com/engineer-e/LLM-Python/blob/main/the_computer_i_using.md). ❤️ [system info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/system_info.txt) ❤️, [gpu info](https://github.com/engineer-e/Real-Time-Rendering/blob/main/gpu_info.txt) ❤️
 * 🩺 Due to health issues, I resigned from my job in **June 2025**. 💼 I have been searching for a job for the past **1 year**, but I have not gotten one yet. 🙏
