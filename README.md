@@ -1558,6 +1558,7 @@ That’s why rejection feels like a mix of **💔 pain, 😢 sadness, 😡 anger
 
 
 
+
 ###### 📌 My Profile Pic and some images,video are generate by AI, is not true. I done this to show my ambition. My true pic in [Instagram](https://www.instagram.com/gobalkrishnan.engineer/) only. 
 [![Electronic Profile](https://img.shields.io/badge/Electronic%20Profile-engineer--e-181717?logo=github)](https://github.com/engineer-e/) 
 [![Work Profile](https://img.shields.io/badge/Work%20Profile-engineer--work-181717?logo=github)](https://github.com/engineer-work/) 
@@ -1604,6 +1605,10 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 [![Watch the video](https://img.youtube.com/vi/YWW38uRktsg/maxresdefault.jpg)](https://youtu.be/YWW38uRktsg?si=xAHgirjl2CPEAfOW)
 </details>
+
+
+[![Watch the video](https://img.youtube.com/vi/nzW0TAG5c1M/maxresdefault.jpg)](https://youtu.be/nzW0TAG5c1M?si=loGvbjGDl5j3nF7v)
+
 
  
 > My Wish is **SpaceShip**, Money to Make that SpaceShip, With **100% Good Health and Wealth support to travel in Space to Find the Hidden Truth**. ‘Develop an ultra-safe spaceship with comprehensive 20-year warranty and guarantee coverage for all critical components. The spacecraft shall be equipped with autonomous (Humanoid) robotic systems that enable self-monitoring, self-healing, and continuous operation for long-duration space missions.’ replan the project plan
