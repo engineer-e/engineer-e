@@ -1,4 +1,4 @@
-😟 When watching this, I could die. 💔 Someone can act like me, so verify me also. 🔍 Validate me, but if I am the true one, 🙏 don't try to kill me. 🛡️❤️
+😟 When watching this, I could die. 💔 Someone can act like me, so verify me also. 🔍 Validate me, but if I am the true one, 🙏 don't try 🛡️❤️
 
 [![Watch the video](https://img.youtube.com/vi/82SBUfMKw84/maxresdefault.jpg)](https://www.youtube.com/watch?v=82SBUfMKw84)
 <details>
