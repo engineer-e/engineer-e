@@ -1710,7 +1710,7 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 2. [Build a Large Language Model](https://www.manning.com/books/build-a-large-language-model-from-scratch), [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka2&a_aid=raschka&a_bid=4c3c5398&chan=mm_github), [ Data Analysis with LLMs
 Text, tables, images and sound](https://www.manning.com/books/data-analysis-with-llms)
 3. [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection)
-4. [Google Agentic Design Pattern](https://github.com/evoiz/Agentic-Design-Patterns/tree/main)
+4. [Google Agentic Design Pattern](https://www.amazon.in/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018)
 5. [30 Agents Every AI Engineer Must Build: Build production-ready agent systems using proven architectures and patterns](https://www.packtpub.com/en-us/product/30-agents-every-ai-engineer-must-build-9781806109005)
 
 <details>
