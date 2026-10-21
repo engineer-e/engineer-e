@@ -1674,7 +1674,7 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 
 
-# OpenGL in C++
+## OpenGL in C++
 
 - But want to use Visual Studio  IDE, not done in CMake
 
@@ -1683,14 +1683,14 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 | 1 |  [Computer Graphics with Modern OpenGL and C++](https://www.udemy.com/course/graphics-with-modern-opengl/) | <a href="https://github.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/blob/master/README.md"><img src="https://raw.githubusercontent.com/engineer-e/Computer-Graphics-with-Modern-OpenGL-and-Cpp/refs/heads/master/images/output/final/sky3.png" width="100px"></img></a> | [completed](https://www.udemy.com/certificate/UC-59008625-ea7a-49b7-b59c-a4289530d262/) |
 | 2 | [LearnOpenGL](https://learnopengl.com/) | <a href="https://github.com/engineer-e/LearnOpenGLPractice/blob/master/README.md"><img src="https://raw.githubusercontent.com/engineer-e/LearnOpenGLPractice/refs/heads/master/image/8/2022/7.area_light/2.multiple_area_light/1.png" width="100px"></img></a>  | |
 
-# RayTracing
+## RayTracing
 
 | S.No | Learning Resourse | Repository  | My own implementation.| 
 | :--- |  :--- | :--- | :--- |   
 | 1 | [Ray Tracing](https://raytracing.github.io/) | <a href="https://github.com/engineer-e/Real-Time-Rendering"><img width="100px" src="https://raytracing.github.io/images/img-3.15-book3-final.jpg"></a> | 1. ❤️ Ray Tracing in One Weekend 🎓 - [cpp](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Cpp/readme.md), [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Javascript/readme.md), [ipynb](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20in%20One%20Weekend%20-%20Python/ray_tracing_in_one_weekend.md) <br> 2. ❤️ Ray Tracing: The Next Week 🎓 - [cpp](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Cpp/readme.md), [js](https://github.com/engineer-e/Real-Time-Rendering/blob/main/Ray%20Tracing%20next%20Week%20-%20Javascript/readme.md) <br> 3. Ray Tracing: The Rest of Your Life|
 
 
-#  CMake Training Course
+## CMake Training Course
 
 
 
@@ -1698,12 +1698,12 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 | :--- | :--- | :--- | :--- | --- | --- | --- | --- | 
 | 1 |  [On Demand CMake Training Course - Part 1](https://kitwarecourses.onlinecoursehost.com/courses/cmake-trainingcourse-part1) |  |  | | | | [completed](https://kitwarecourses.onlinecoursehost.com/certificate-proof/GlPydXrygHPWZtqB22dk7OYxuV93-1/I21w892bpQEI89GXnQAx/fRU0WxzefzW9aO2sYw6ZUCFUvig2) |
 
-# Nvidia
+## Nvidia
 
 > [![NVIDIA Learning](https://img.shields.io/badge/NVIDIA-Learning%20Lab-76B900?logo=nvidia)](https://engineer-e.github.io/Nvidia-Learning/)
 
 
-# Large Language Model 
+# Books : Large Language Model 
 
 0. [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801816380), []()
 1. [Neural Network](https://github.com/engineer-e/Neural-Network/blob/main/README.md)
@@ -1712,6 +1712,8 @@ Text, tables, images and sound](https://www.manning.com/books/data-analysis-with
 3. [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection)
 4. [Google Agentic Design Pattern](https://www.amazon.in/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018)
 5. [30 Agents Every AI Engineer Must Build: Build production-ready agent systems using proven architectures and patterns](https://www.packtpub.com/en-us/product/30-agents-every-ai-engineer-must-build-9781806109005)
+
+---
 
 <details>
 
