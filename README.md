@@ -1707,7 +1707,7 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 | S.No | Books | Learned from Youtube Video |
 |---|--- |---|
-|0a | [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801816380) | |
+|0a | [Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python](https://www.packtpub.com/en-us/product/machine-learning-with-pytorch-and-scikit-learn-9781801816380) |  [![Watch the video](https://img.youtube.com/vi/VUvShOEFdQo/default.jpg)](https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=0nHLk_znjevXA1v-)|
 |0b | [Hands-On Machine Learning](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/9355421982) | | 
 |1| [Neural Network](https://github.com/engineer-e/Neural-Network/blob/main/README.md) | |
 |2| [Build a Large Language Model](https://www.manning.com/books/build-a-large-language-model-from-scratch) | [![Watch the video](https://img.youtube.com/vi/4yNswvhPWCQ/default.jpg)](https://youtube.com/playlist?list=PLBwE3Q2KZ4kM&si=5nrvd6gQ0blceMdC) |
