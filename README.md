@@ -1632,10 +1632,15 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 ---
 # IDE 
 
+0. [Atmel Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
+   - [develop](https://www.microchip.com/en-us/tools-resources/develop)
 1. [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 2. [Visual Studio Code](https://code.visualstudio.com/)
+   - [mplab-tools-vs-code](https://www.microchip.com/en-us/tools-resources/develop/mplab-tools-vs-code)
 3. [WSL - Jupyter lab - Python, Cpp, Javascript, Bash](https://github.com/engineer-e/WSL-Jupyter-Kernel)
-   - **Note**: 'sudo su' is not work. you do that in system terminal, not in bash kernel terminal. 
+   - **Note**: 'sudo su' is not work. you do that in system terminal, not in bash kernel terminal.
+4. [Android Studio](https://developer.android.com/studio)
+   - [Flutter Framework](https://docs.flutter.dev/install/manual) 
 
 # Learning Topics
 
