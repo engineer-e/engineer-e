@@ -1630,6 +1630,11 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 
 ---
+# IDE 
+
+1. [Visual Studio](https://visualstudio.microsoft.com/downloads/)
+2. [Visual Studio Code](https://code.visualstudio.com/)
+3. [Jupyter lab](https://github.com/engineer-e/WSL-Jupyter-Kernel) 
 
 # Learning Topics
 
