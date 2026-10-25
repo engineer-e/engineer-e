@@ -1634,7 +1634,8 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 1. [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 2. [Visual Studio Code](https://code.visualstudio.com/)
-3. [Jupyter lab](https://github.com/engineer-e/WSL-Jupyter-Kernel) 
+3. [WSL - Jupyter lab - Python, Cpp, Javascript, Bash](https://github.com/engineer-e/WSL-Jupyter-Kernel)
+   - **Note**: 'sudo su' is not work. you do that in system terminal, not in bash kernel terminal. 
 
 # Learning Topics
 
