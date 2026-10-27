@@ -1,5 +1,8 @@
 
 [![Watch the video](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/suit_a.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
+
+[![Watch the video](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/blue_print.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
+
 <details>
  <summary> Some Person in My Educational & Career path could be criminal for selfish beneficial needs. Since, the region i born and grow, not guided properly in education & career.</summary>
 
