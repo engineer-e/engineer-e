@@ -1720,6 +1720,9 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 
 > [![NVIDIA Learning](https://img.shields.io/badge/NVIDIA-Learning%20Lab-76B900?logo=nvidia)](https://engineer-e.github.io/Nvidia-Learning/)
 
+## Python Package
+
+1. [reaowl](https://pypi.org/project/reaowl/) - [Video-Link](https://youtu.be/LmG_SGdcZeg?si=dQ_GVIMEtMMZIIpt)
 
 # Books : Large Language Model 
 
