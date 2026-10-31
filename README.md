@@ -10,7 +10,9 @@
 
 [![Watch the video](https://img.youtube.com/vi/5VYb3B1ETlk/maxresdefault.jpg)](https://www.youtube.com/watch?v=5VYb3B1ETlk)
 
-[![Watch the video](https://img.youtube.com/vi/y-r15vidaEw/maxresdefault.jpg)](https://youtu.be/y-r15vidaEw?si=686aZ9gZxjb2VNvy)
+| [![Watch the video](https://img.youtube.com/vi/y-r15vidaEw/maxresdefault.jpg)](https://youtu.be/y-r15vidaEw?si=686aZ9gZxjb2VNvy) | [![Watch the video](https://img.youtube.com/vi/Ktbnm-vnlR8/maxresdefault.jpg)](https://youtu.be/Ktbnm-vnlR8?si=ZmrncCL9zqMp_m67) |
+| --- | --- |
+| [![Watch the video](https://img.youtube.com/vi/dHYIpxvXYKQ/maxresdefault.jpg)](https://youtu.be/dHYIpxvXYKQ?si=ZlzHEf_cQIWOJYyL) | [![Watch the video](https://img.youtube.com/vi/ZXDs4gNxEBE/maxresdefault.jpg)](https://youtu.be/ZXDs4gNxEBE?si=MSAvgep7vPGAD3mJ) |
 
 <br>
 
