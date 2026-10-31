@@ -1,5 +1,5 @@
 
-[![Watch the video](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/suit_a.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
+[![Watch the video](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/spaceship.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
 
 
 
