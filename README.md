@@ -15,6 +15,8 @@
 | [![Watch the video](https://img.youtube.com/vi/dHYIpxvXYKQ/maxresdefault.jpg)](https://youtu.be/dHYIpxvXYKQ?si=ZlzHEf_cQIWOJYyL) | [![Watch the video](https://img.youtube.com/vi/ZXDs4gNxEBE/maxresdefault.jpg)](https://youtu.be/ZXDs4gNxEBE?si=MSAvgep7vPGAD3mJ) | [![Watch the video](https://img.youtube.com/vi/8bDziRBa4ZA/maxresdefault.jpg)](https://youtu.be/8bDziRBa4ZA?si=J557Oo0_3mDvUruS) |
 | [![Watch the video](https://img.youtube.com/vi/ixt2X4e0o7E/maxresdefault.jpg)](https://youtu.be/ixt2X4e0o7E?si=gzLizc_PaV1DHgnh) | [![Watch the video](https://img.youtube.com/vi/JpHb_QY86S4/maxresdefault.jpg)](https://youtu.be/JpHb_QY86S4?si=qqAJMrKZv90OO79f) | [![Watch the video](https://img.youtube.com/vi/QtHq2KCpmcg/maxresdefault.jpg)](https://youtu.be/QtHq2KCpmcg?si=pCrqhzNy_LkubIUk) |
 
+ [![Watch the video](https://img.youtube.com/vi/CEnF3xSudbQ/maxresdefault.jpg)](https://youtu.be/CEnF3xSudbQ?si=r2jOdEYFwc0hTc7D)
+
 <br>
 
 ⚖️ **A Reflection on My Educational & Career Journey**
