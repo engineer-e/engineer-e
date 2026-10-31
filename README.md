@@ -1,5 +1,5 @@
 
-[![Watch the video](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/spaceship.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
+[![Watch the video](https://img.youtube.com/vi/y-r15vidaEw/maxresdefault.jpg)](https://www.youtube.com/watch?v=82SBUfMKw84)
 
 
 
@@ -9,6 +9,8 @@
 [![Watch the video](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/blue_print.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
 
 [![Watch the video](https://img.youtube.com/vi/5VYb3B1ETlk/maxresdefault.jpg)](https://www.youtube.com/watch?v=5VYb3B1ETlk)
+
+[![Watch the video](https://img.youtube.com/vi/y-r15vidaEw/maxresdefault.jpg)](https://youtu.be/y-r15vidaEw?si=686aZ9gZxjb2VNvy)
 
 <br>
 
