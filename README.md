@@ -21,7 +21,7 @@
 
 ⚖️ **A Reflection on My Educational & Career Journey**
 
-I believe that some individuals I encountered throughout my educational and career journey may have acted out of selfish interests, potentially at the expense of my growth and opportunities. 🌱 The environment in which I was born and raised did not provide me with the proper guidance, mentorship, or direction I needed to make informed educational and career decisions. 🎓💼
+I believe that some individuals I encountered throughout my educational and career journey may have acted out of selfish interests, potentially at the expense of my growth and opportunities. 🌱 **The environment in which I was born and raised did not provide me with the proper guidance, mentorship, or direction I needed to make informed educational and career decisions.** 🎓💼
 
 Despite these challenges, I remain determined to learn, grow, and build a better future for myself. 💪📚 My past circumstances do not define my future; my commitment to progress does. 🚀
 
