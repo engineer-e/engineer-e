@@ -1,5 +1,5 @@
 
-[![Watch the video](https://img.youtube.com/vi/y-r15vidaEw/maxresdefault.jpg)](https://www.youtube.com/watch?v=82SBUfMKw84)
+[![](https://i.pinimg.com/originals/60/81/c3/6081c37edddeb5acaa66ca687d673adb.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
 
 
 
