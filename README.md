@@ -1,12 +1,4 @@
 
-[![OpenJarvis AI](https://img.shields.io/badge/OPENJARVIS-AI%20AGENT%20FRAMEWORK-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/open-jarvis/OpenJarvis)  [![ANTMAN](https://img.shields.io/badge/RESEARCH-ANTMAN%3A_Adaptive_Multi--Agent_Navigation-4B0082?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.33326)   
-
-[![](https://i.pinimg.com/originals/60/81/c3/6081c37edddeb5acaa66ca687d673adb.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
-
-| [![Watch the video](https://img.youtube.com/vi/RD8Mx-lQEMg/hqdefault.jpg)](https://youtu.be/RD8Mx-lQEMg?si=htRY7MmXeOHK1thB)    | [![Watch the video](https://img.youtube.com/vi/ynyNcR05r_A/maxresdefault.jpg)](https://youtu.be/ynyNcR05r_A?si=QTONaISBJ5pbJwhY)    | [![Watch the video](https://img.youtube.com/vi/tMRIOOvEeg4/maxresdefault.jpg)](https://youtu.be/tMRIOOvEeg4?si=f7NgTYpOK_dI1pTd)    |  [![Watch the video](https://img.youtube.com/vi/BJKSRMgEndw/maxresdefault.jpg)](https://youtu.be/BJKSRMgEndw?si=P_EU8HV0FtIp4MrZ)   |
-| --- | --- | --- | --- |
-| [![Watch the video](https://img.youtube.com/vi/OL1oxoPc9R0/maxresdefault.jpg)](https://youtu.be/OL1oxoPc9R0?si=yxivu6zTkFUf-VSt) | [![Watch the video](https://img.youtube.com/vi/-LOmvVRbuIk/maxresdefault.jpg)](https://youtu.be/-LOmvVRbuIk?si=7jvLJ4S6wNMDtHtp) | [![Watch the video](https://img.youtube.com/vi/jE2GhxMDdAk/maxresdefault.jpg)](https://youtu.be/TENATkDzPeo?si=8-JueX0p3MFwUld5) | [![Watch the video](https://img.youtube.com/vi/w35ED-kjrQw/maxresdefault.jpg)](https://youtu.be/w35ED-kjrQw?si=owABFf7U0kFQ7ICH)  |
-
 <details>
  <summary> Some Person in My Educational & Career path could be criminal for selfish beneficial needs. Since, the region i born and grow, not guided properly in education & career.</summary>
 
@@ -50,6 +42,16 @@ I was not fortunate enough to receive the educational and career guidance needed
 🚀 **I am not searching for shortcuts or guaranteed publications. I am searching for the right guidance, an honest research environment, and an opportunity to develop the knowledge and skills required to contribute meaningful work to science and technology.**
 
 🌱 My background may have limited my access to opportunities, but it does not have to determine the limits of my future. With disciplined learning, trustworthy mentorship, and persistent effort, I hope to build a legitimate path into the global research community.
+
+
+[![OpenJarvis AI](https://img.shields.io/badge/OPENJARVIS-AI%20AGENT%20FRAMEWORK-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/open-jarvis/OpenJarvis)  [![ANTMAN](https://img.shields.io/badge/RESEARCH-ANTMAN%3A_Adaptive_Multi--Agent_Navigation-4B0082?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.33326)   
+
+[![](https://i.pinimg.com/originals/60/81/c3/6081c37edddeb5acaa66ca687d673adb.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
+
+| [![Watch the video](https://img.youtube.com/vi/RD8Mx-lQEMg/hqdefault.jpg)](https://youtu.be/RD8Mx-lQEMg?si=htRY7MmXeOHK1thB)    | [![Watch the video](https://img.youtube.com/vi/ynyNcR05r_A/maxresdefault.jpg)](https://youtu.be/ynyNcR05r_A?si=QTONaISBJ5pbJwhY)    | [![Watch the video](https://img.youtube.com/vi/tMRIOOvEeg4/maxresdefault.jpg)](https://youtu.be/tMRIOOvEeg4?si=f7NgTYpOK_dI1pTd)    |  [![Watch the video](https://img.youtube.com/vi/BJKSRMgEndw/maxresdefault.jpg)](https://youtu.be/BJKSRMgEndw?si=P_EU8HV0FtIp4MrZ)   |
+| --- | --- | --- | --- |
+| [![Watch the video](https://img.youtube.com/vi/OL1oxoPc9R0/maxresdefault.jpg)](https://youtu.be/OL1oxoPc9R0?si=yxivu6zTkFUf-VSt) | [![Watch the video](https://img.youtube.com/vi/-LOmvVRbuIk/maxresdefault.jpg)](https://youtu.be/-LOmvVRbuIk?si=7jvLJ4S6wNMDtHtp) | [![Watch the video](https://img.youtube.com/vi/jE2GhxMDdAk/maxresdefault.jpg)](https://youtu.be/TENATkDzPeo?si=8-JueX0p3MFwUld5) | [![Watch the video](https://img.youtube.com/vi/w35ED-kjrQw/maxresdefault.jpg)](https://youtu.be/w35ED-kjrQw?si=owABFf7U0kFQ7ICH)  |
+
 
 
 </details>
