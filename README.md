@@ -1,4 +1,6 @@
 
+[![OpenJarvis AI](https://img.shields.io/badge/OPENJARVIS-AI%20AGENT%20FRAMEWORK-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/open-jarvis/OpenJarvis)
+
 [![](https://i.pinimg.com/originals/60/81/c3/6081c37edddeb5acaa66ca687d673adb.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
 
 
