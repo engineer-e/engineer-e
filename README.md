@@ -1,5 +1,5 @@
 
-[![OpenJarvis AI](https://img.shields.io/badge/OPENJARVIS-AI%20AGENT%20FRAMEWORK-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/open-jarvis/OpenJarvis)    [![InteracTor](https://img.shields.io/badge/BIOINFORMATICS-InteracTor_AI-006B5B?style=for-the-badge)](https://www.biorxiv.org/content/10.1101/2025.04.10.648139v1) [![ANTMAN](https://img.shields.io/badge/RESEARCH-ANTMAN%3A_Adaptive_Multi--Agent_Navigation-4B0082?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.33326)
+[![OpenJarvis AI](https://img.shields.io/badge/OPENJARVIS-AI%20AGENT%20FRAMEWORK-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/open-jarvis/OpenJarvis)  [![ANTMAN](https://img.shields.io/badge/RESEARCH-ANTMAN%3A_Adaptive_Multi--Agent_Navigation-4B0082?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2609.33326)   
 
 [![](https://i.pinimg.com/originals/60/81/c3/6081c37edddeb5acaa66ca687d673adb.png)](https://www.youtube.com/watch?v=82SBUfMKw84)
 
