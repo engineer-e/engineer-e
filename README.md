@@ -1,6 +1,5 @@
 
 
-[![](https://github.com/engineer-work/engineer-work/blob/main/image/flying%20suit.png)](https://youtu.be/rVd5VH9SY1A?si=Tb_IyBIsP64kRbEn)
 
 
 <details>
@@ -66,7 +65,11 @@ I was not fortunate enough to receive the educational and career guidance needed
 
 <details>
  <Summary>👋 I am Gobal Krishnan V. I am doing this for learning purposes. 📚 <a href="https://engineer-work.github.io/Join-Company/"> <img src="https://img.shields.io/badge/Personal%20Profile-Thought%20Cortex-blue?logo=protondb&logoColor=white" alt="Personal Profile"> </a> <a href="https://www.youtube.com/@GobalKrishnanV-j2w"> <img src="https://img.shields.io/badge/YouTube-Gobal%20Krishnan%20V-FF0000?logo=youtube&logoColor=white" alt="YouTube"> </a> </Summary>
-<details>
+
+[![](https://github.com/engineer-work/engineer-work/blob/main/image/flying%20suit.png)](https://youtu.be/rVd5VH9SY1A?si=Tb_IyBIsP64kRbEn)
+
+
+ <details>
  <summary> <h1>Education Does Not Guarantee Lifetime Job Security</h1> </summary>
 
  | [![Watch the video](https://img.youtube.com/vi/xUkJqvd9Pkk/maxresdefault.jpg)](https://youtu.be/xUkJqvd9Pkk?si=skFVFAs86xTjynfz)| [![Watch the video](https://img.youtube.com/vi/pykcRAmT2X0/maxresdefault.jpg)](https://youtu.be/pykcRAmT2X0?si=RsB4j3jHKVvsJn0L) | [![Watch the video](https://img.youtube.com/vi/emjat6c24cE/maxresdefault.jpg)](https://youtu.be/emjat6c24cE?si=IDaX8W5EpnG8oesQ) | [![Watch the video](https://img.youtube.com/vi/tCsw72Mx28Y/maxresdefault.jpg)](https://youtu.be/tCsw72Mx28Y?si=eualN0HwAWVBismZ) | [![Watch the video](https://img.youtube.com/vi/QZbxpo3N5bY/maxresdefault.jpg)](https://youtu.be/QZbxpo3N5bY?si=8HeervTAc2WhXyvh) | [![Watch the video](https://img.youtube.com/vi/iIesVccB2Ss/maxresdefault.jpg)](https://youtu.be/iIesVccB2Ss?si=YQvIokTf3AYnR-YU)|
