@@ -1755,7 +1755,7 @@ Address: No: 937, Vasugi, L.I.G 2, 48th Street, 1st Main Road, Mathur M.M.D.A, C
 |3| [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch?utm_source=raschka&utm_medium=affiliate&utm_campaign=book_raschka2&a_aid=raschka&a_bid=4c3c5398&chan=mm_github) | [![Watch the video](https://img.youtube.com/vi/msp69FR5NZs/default.jpg)](https://youtube.com/playlist?list=PLfrHAQCRxtUs&si=BcaG9orPkyDxyC4z)  | |
 |4| [ Data Analysis with LLMs Text, tables, images and sound](https://www.manning.com/books/data-analysis-with-llms) | | |
 |5| [Ollama](https://ollama.com/), [Model Collection](https://github.com/engineer-e/Ollama-Model-Collection) | | |
-|6| [Google Agentic Design Pattern](https://www.amazon.in/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018) | [![Watch the video](https://img.youtube.com/vi/e2zIr_2JMbE/default.jpg)](https://youtu.be/e2zIr_2JMbE?si=f4bNazZ9z9BngL0C) | |
+|6| [Google Agentic Design Pattern](https://www.amazon.in/Agentic-Design-Patterns-Hands-Intelligent/dp/3032014018) | [![Watch the video](https://img.youtube.com/vi/e2zIr_2JMbE/default.jpg)](https://youtu.be/e2zIr_2JMbE?si=f4bNazZ9z9BngL0C) | [repo](https://github.com/engineer-e/Agent-Design-Google) |
 |7| [30 Agents Every AI Engineer Must Build: Build production-ready agent systems using proven architectures and patterns](https://www.packtpub.com/en-us/product/30-agents-every-ai-engineer-must-build-9781806109005) | | |
 
 ---
