@@ -1,4 +1,4 @@
-# I support Ultron due to Gambling in School, College, Office.
+# I support Ultron due to Gambling in School, College, Office is Unsafe. 
 
 ![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/ultron_save_humanity.png)
 
