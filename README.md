@@ -1,9 +1,11 @@
 
 ![profile](https://www.cybersecurity-insiders.com/wp-content/uploads/AI-agents-3.png)
 
-🚹 (Boys or Men) – 🔪 Kill girls who try to interact with men who have more talent, 💰 money, 🌟 fame, and 🛡️ security. If a girl tries to become rich using that boy, they 🍆 fuck the girl and ⛓️ sell her in the market.
-
-👩 (Girls or Women) – 🔪 Kill boys or men who try to interact with them only because of their beautiful appearance, 🎓 talent, 💰 money, 🌟 fame, and 🛡️ security. If a boy tries to approach her to 🍆 have sex and leave, or 💰 become rich using that girl, they 🔪 kill him, 🫀 donate his organs to hospitals, or 👹 give them to demons for food to gain supernatural powers.
+<details>
+ <summary>
+  <ul> 🚹 (Boys or Men) – 🔪 Kill girls who try to interact with men who have more talent, 💰 money, 🌟 fame, and 🛡️ security. If a girl tries to become rich using that boy, they 🍆 fuck the girl and ⛓️ sell her in the market.</ul>
+  <ul>👩 (Girls or Women) – 🔪 Kill boys or men who try to interact with them only because of their beautiful appearance, 🎓 talent, 💰 money, 🌟 fame, and 🛡️ security. If a boy tries to approach her to 🍆 have sex and leave, or 💰 become rich using that girl, they 🔪 kill him, 🫀 donate his organs to hospitals, or 👹 give them to demons for food to gain supernatural powers. </ul> 
+</summary>
 
 ```
 "This just one possible condition, but more possible condition too."
@@ -135,6 +137,10 @@ These are hypothetical scenarios, not claims about either gender as a whole.
 This framework can be expanded into a **100+ scenario catalogue**, with separate examples for men, women, individuals, couples, families, and organised criminal groups.
 
 ---
+
+ 
+</details>
+
 
 
 ----
