@@ -1,6 +1,6 @@
 
 
-![](https://media.wired.com/photos/59096188d8c8646f38eef96a/191:100/w_1280,c_limit/ultron-comics-ft.jpg?mbid=social_retweet)
+![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/ultron_save_humanity.png)
 
 <details>
  <summary> <span><a href="https://chatgpt.com/share/6af7fa1d-da70-83ee-a9f7-f60f51144a4c">Chat with AI</a></span>
