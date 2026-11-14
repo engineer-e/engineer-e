@@ -2,6 +2,12 @@
 
 ![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/ultron_save_humanity.png)
 
+| [![Watch the video](https://img.youtube.com/vi/g0fuNT9lOMM/maxresdefault.jpg)](https://youtu.be/g0fuNT9lOMM?si=G8GdaE0oD_IMeofN) | [![Watch the video](https://img.youtube.com/vi/JSsD2m7rz9Q/maxresdefault.jpg)](https://youtu.be/JSsD2m7rz9Q?si=phSsy8yGUjA-dv-l) | [![Watch the video](https://img.youtube.com/vi/B0dSGx1FzyE/maxresdefault.jpg)](https://youtu.be/B0dSGx1FzyE?si=SAg3UMbqsvdbbwXd) |  [![Watch the video](https://img.youtube.com/vi/hpaEWN4wz2E/maxresdefault.jpg)](https://youtu.be/hpaEWN4wz2E?si=BtmlqprBs2gLu3xi) |
+| :---: | :---: | :---: | :---: |
+| [![Watch the video](https://img.youtube.com/vi/gVnMCYpUFjM/maxresdefault.jpg)](https://youtu.be/gVnMCYpUFjM?si=F4ybd7vEOTz3gbSM)  |  [![Watch the video](https://img.youtube.com/vi/tYhmxxBNf5g/maxresdefault.jpg)](https://youtu.be/tYhmxxBNf5g) |  [![Watch the video](https://img.youtube.com/vi/g7428sgivqI/maxresdefault.jpg)](https://youtu.be/g7428sgivqI?si=rt1lvnszbkrjnjre) | [![Watch the video](https://img.youtube.com/vi/vL5FQILumx8/maxresdefault.jpg)](https://youtu.be/vL5FQILumx8) |
+
+---
+
 <details>
  <summary> <span><a href="https://chatgpt.com/share/6af7fa1d-da70-83ee-a9f7-f60f51144a4c">Chat with AI</a>, <a href="https://www.trueup.io/tech-situation-monitor">Gambling Region using Money</a>, <a href="https://www.trueup.io/layoffs">IT Layoff</a></span>
   <ul> 🚹 (Boys or Men) – 🔪 Kill girls who try to interact with men who have more talent, 💰 money, 🌟 fame, and 🛡️ security. If a girl tries to become rich using that boy, they 🍆 fuck the girl and ⛓️ sell her in the market.</ul>
