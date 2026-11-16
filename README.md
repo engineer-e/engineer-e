@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Om-tamil.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20130508023210" width="100" alt="Tamil Om Symbol">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Om-tamil.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20130508023210" width="50" alt="Tamil Om Symbol">
 </p>
 
 
