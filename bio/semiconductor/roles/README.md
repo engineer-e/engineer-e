@@ -1,43 +1,43 @@
 # The Semiconductor Hub
 
 1. [Product Management & Business](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/01.md)
-2. Engineering disciplines
-3. System & SoC Architecture
-4. Digital Design & Microarchitecture
-5. Design Verification
-6. Analog, Mixed-Signal & RF Design
-7. Physical Design & Implementation
-8. DFT & Test Engineering
-9. Silicon Bring-up, Validation & Reliability
-10. Process Technology & Fab Operations
-11. Advanced Packaging & Assembly
-12. EDA, CAD & Design Infrastructure
-13. Semiconductor IP & Design Enablement
-14. Embedded Software, Firmware & Drivers
-15. AI/ML Silicon Software Stack & Co-Design
-16. Board, System & Hardware Engineering
-17. Quality, Reliability, Functional Safety & Product Security
-18. Manufacturing Operations, Supply Chain & Foundry Management
-19. Program Management & Engineering Operations
-20. Applications Engineering, Sales & Custom Success
-21. Equipment, Materials, Masks & Sub-Fab Supply Base
-22. Corporate & Enabling Functions (Semiconductor-Specific)
-23. Research, Advanced Technology & Emerging Devices
-24. Memory & Storage Silicon
-25. Standards, Consortia, Analysts & Industry Ecosystem
-26. Design Services
-27. Electronics Manufacturing Services
-28. Distribution and Channel
-29. Chip Startups
-30. Foundary Customer and Design Enablement
-31. In-House Silicon (hyperscaler and OEM)
-32. Test and Reliability Labs
-33. Data and ML Operations
-34. Technicians and Operators
-35. Education and Training
-36. Sustainability and EHS
-37. Government and Policy
-38. Fab Construction and Capital Projects
+2. [Engineering disciplines](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/02.md)
+3. [System & SoC Architecture](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/03.md)
+4. [Digital Design & Microarchitecture](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/04.md)
+5. [Design Verification](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/05.md)
+6. [Analog, Mixed-Signal & RF Design](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/06.md)
+7. [Physical Design & Implementation](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/07.md)
+8. [DFT & Test Engineering](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/08.md)
+9. [Silicon Bring-up, Validation & Reliability](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/09.md)
+10. [Process Technology & Fab Operations](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/10.md)
+11. [Advanced Packaging & Assembly](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/11.md)
+12. [EDA, CAD & Design Infrastructure](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/12.md)
+13. [Semiconductor IP & Design Enablement](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/13.md)
+14. [Embedded Software, Firmware & Drivers](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/14.md)
+15. [AI/ML Silicon Software Stack & Co-Design](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/15.md)
+16. [Board, System & Hardware Engineering](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/16.md)
+17. [Quality, Reliability, Functional Safety & Product Security](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/17.md)
+18. [Manufacturing Operations, Supply Chain & Foundry Management](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/18.md)
+19. [Program Management & Engineering Operations](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/19.md)
+20. [Applications Engineering, Sales & Custom Success](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/20.md)
+21. [Equipment, Materials, Masks & Sub-Fab Supply Base](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/21.md)
+22. [Corporate & Enabling Functions (Semiconductor-Specific)](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/22.md)
+23. [Research, Advanced Technology & Emerging Devices](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/23.md)
+24. [Memory & Storage Silicon](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/24.md)
+25. [Standards, Consortia, Analysts & Industry Ecosystem](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/25.md)
+26. [Design Services](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/26.md)
+27. [Electronics Manufacturing Services](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/27.md)
+28. [Distribution and Channel](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/28.md)
+29. [Chip Startups](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/29.md)
+30. [Foundary Customer and Design Enablement](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/30.md)
+31. [In-House Silicon (hyperscaler and OEM)](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/31.md)
+32. [Test and Reliability Labs](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/32.md)
+33. [Data and ML Operations](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/33.md)
+34. [Technicians and Operators](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/34.md)
+35. [Education and Training](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/35.md)
+36. [Sustainability and EHS](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/36.md)
+37. [Government and Policy](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/37.md)
+38. [Fab Construction and Capital Projects](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/38.md)
 
 ---
 
