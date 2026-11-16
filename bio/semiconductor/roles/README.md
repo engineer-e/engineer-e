@@ -84,13 +84,25 @@
 
 # 11. Advanced Packaging & Assembly
 
+<img width="1240" height="609" alt="image" src="https://github.com/user-attachments/assets/cd8bc7ca-b599-4e3d-84cb-83411cd835ca" />
+
 # 12. EDA, CAD & Design Infrastructure
+
+<img width="1240" height="528" alt="image" src="https://github.com/user-attachments/assets/22110bc0-a2a9-4997-a9c9-804f817165e1" />
+
 
 # 13. Semiconductor IP & Design Enablement
 
+<img width="1240" height="474" alt="image" src="https://github.com/user-attachments/assets/dd611ff7-2b4f-42af-81bd-93a79570c862" />
+
 # 14. Embedded Software, Firmware & Drivers
 
+<img width="1240" height="663" alt="image" src="https://github.com/user-attachments/assets/22905ae6-fa65-4631-9f6d-d7398531b4bc" />
+
 # 15. AI/ML Silicon Software Stack & Co-Design
+
+<img width="1240" height="528" alt="image" src="https://github.com/user-attachments/assets/1004c131-2974-4cc2-af6c-c5292b9e0635" />
+
 
 # 16. Board, System & Hardware Engineering
 
