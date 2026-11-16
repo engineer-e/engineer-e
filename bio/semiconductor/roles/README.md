@@ -110,11 +110,21 @@
 
 # 17. Quality, Reliability, Functional Safety & Product Security
 
+<img width="1240" height="555" alt="image" src="https://github.com/user-attachments/assets/aa887e4e-12d0-4780-9eb4-042f883f562b" />
+
+
 # 18. Manufacturing Operations, Supply Chain & Foundry Management
+
+<img width="1240" height="582" alt="image" src="https://github.com/user-attachments/assets/93a641c3-fa56-4ab2-8dc0-90caf312762b" />
+
 
 # 19. Program Management & Engineering Operations
 
+<img width="1240" height="501" alt="image" src="https://github.com/user-attachments/assets/0a544eb1-89df-405e-beb9-9fac66abdf9a" />
+
 # 20. Applications Engineering, Sales & Custom Success
+
+<img width="1240" height="528" alt="image" src="https://github.com/user-attachments/assets/40b7cead-c515-4ecd-8f4d-c337aef932a4" />
 
 # 21. Equipment, Materials, Masks & Sub-Fab Supply Base
 
