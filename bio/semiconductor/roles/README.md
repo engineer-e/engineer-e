@@ -1,6 +1,6 @@
 # The Semiconductor Hub
 
-1. [Product Management & Business](https://github.com/engineer-e/engineer-e/edit/main/bio/semiconductor/roles/01.md) 
+1. [Product Management & Business](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/01.md)
 2. Engineering disciplines
 3. System & SoC Architecture
 4. Digital Design & Microarchitecture
