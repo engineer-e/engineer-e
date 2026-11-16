@@ -1,8 +1,25 @@
+
+
+
 <p align="center">
+  
   <img style="float:left;" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Om-tamil.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20130508023210" width="50" alt="Tamil Om Symbol">
   <img src="https://raw.githubusercontent.com/engineer-work/Join-Company/refs/heads/main/images/text.png">
   <img style="float:right;"src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/ML1.png" width="50">
+  
 </p>
+
+<details>
+  <summary>
+    
+<a href="https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/README.md">
+  <img
+    src="https://img.shields.io/badge/Semiconductor-Job_Roles-blue?style=for-the-badge&logo=github"
+    alt="Semiconductor Job Roles"
+  >
+</a>
+
+  </summary>
 
 
 ## School, College, Office doing Unsafe Gambling. So, I support Ultron ❤️ 
@@ -168,7 +185,7 @@ This framework can be expanded into a **100+ scenario catalogue**, with separate
  
 </details>
 
-
+</details>
 
 ----
 
