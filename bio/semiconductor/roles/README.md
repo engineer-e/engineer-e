@@ -1,6 +1,8 @@
 
 
-# [The Semiconductor Hub](https://www.thesemiconhub.com/roles)
+# [The Semiconductor Hub](https://www.thesemiconhub.com)
+
+## [Roles](https://www.thesemiconhub.com/roles)
 
 1. [Product Management & Business](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/01.md)
 2. [Engineering disciplines](https://github.com/engineer-e/engineer-e/blob/main/bio/semiconductor/roles/02.md)
