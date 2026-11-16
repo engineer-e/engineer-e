@@ -128,40 +128,75 @@
 
 # 21. Equipment, Materials, Masks & Sub-Fab Supply Base
 
+<img width="1240" height="717" alt="image" src="https://github.com/user-attachments/assets/eee72d5d-e630-466d-aafc-5a4c99ad2ddc" />
+
 # 22. Corporate & Enabling Functions (Semiconductor-Specific)
+
+<img width="1240" height="609" alt="image" src="https://github.com/user-attachments/assets/65c8f1ff-306a-4908-9b72-7be378c818a5" />
 
 # 23. Research, Advanced Technology & Emerging Devices
 
+<img width="1240" height="501" alt="image" src="https://github.com/user-attachments/assets/1ebb27b0-d558-4285-9f85-d69105295a57" />
+
 # 24. Memory & Storage Silicon
+
+<img width="1240" height="447" alt="image" src="https://github.com/user-attachments/assets/35ebaf50-c522-4218-bebb-ac8a4a29d023" />
 
 # 25. Standards, Consortia, Analysts & Industry Ecosystem
 
+<img width="1240" height="447" alt="image" src="https://github.com/user-attachments/assets/bea44cf2-7b67-4424-b584-3135c0e76a4a" />
+
 # 26. Design Services
+
+<img width="1240" height="230" alt="image" src="https://github.com/user-attachments/assets/77f7349e-0d29-4ef9-a78b-e966aff434f9" />
 
 # 27. Electronics Manufacturing Services
 
+<img width="1240" height="312" alt="image" src="https://github.com/user-attachments/assets/2d5c26fb-6eca-4ac3-9167-3fb0e07ef076" />
+
 # 28. Distribution and Channel
+
+<img width="1240" height="231" alt="image" src="https://github.com/user-attachments/assets/4b2ee4b8-5da1-42ae-8de7-2b74466cc221" />
 
 # 29. Chip Startups
 
+<img width="1240" height="258" alt="image" src="https://github.com/user-attachments/assets/533c6571-4a3c-4587-969f-3a5fac5eefbf" />
+
 # 30. Foundary Customer and Design Enablement
+
+<img width="1240" height="258" alt="image" src="https://github.com/user-attachments/assets/e8005d6a-a0c5-405a-a751-481520a7b203" />
 
 # 31. In-House Silicon (hyperscaler and OEM)
 
+<img width="1240" height="258" alt="image" src="https://github.com/user-attachments/assets/1e214d3c-49be-43cd-8972-b26682ec268f" />
+
 # 32. Test and Reliability Labs
+
+<img width="1240" height="258" alt="image" src="https://github.com/user-attachments/assets/9ef51f27-b8fc-4a25-b33d-7c3f44647107" />
 
 # 33. Data and ML Operations
 
+<img width="1240" height="285" alt="image" src="https://github.com/user-attachments/assets/4dc13f8a-761c-4455-b8e1-aea3ee19fb97" />
+
 # 34. Technicians and Operators
+
+<img width="1240" height="420" alt="image" src="https://github.com/user-attachments/assets/1b437b5b-aadf-482a-b60c-7f49d3990a2f" />
 
 # 35. Education and Training
 
+<img width="1240" height="258" alt="image" src="https://github.com/user-attachments/assets/82796e9c-f78e-4694-b45a-820f0ba6ac1c" />
+
 # 36. Sustainability and EHS
+
+<img width="1240" height="258" alt="image" src="https://github.com/user-attachments/assets/fc053f0b-eecf-4aae-97ac-df3961c4d8d8" />
 
 # 37. Government and Policy
 
+<img width="1240" height="312" alt="image" src="https://github.com/user-attachments/assets/7bb458a5-81bc-47ce-bfee-fec868250768" />
+
 # 38. Fab Construction and Capital Projects
 
+<img width="1240" height="231" alt="image" src="https://github.com/user-attachments/assets/ecd620b7-f1d1-4d04-a505-df106c93dc97" />
 
 
 
