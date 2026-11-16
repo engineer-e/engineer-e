@@ -41,11 +41,23 @@
 
 ---
 
+
+# 1. Product Management & Business
+
 <img width="1240" height="501" alt="image" src="https://github.com/user-attachments/assets/3be837db-7a78-4a08-8beb-a1dd5ef5f405" />
+
+# 2. Engineering disciplines
 
 <img width="1240" height="177" alt="image" src="https://github.com/user-attachments/assets/5e7f364b-7642-4c18-8259-1e912a19c97c" />
 
+# 3. System & SoC Architecture
+
 <img width="1240" height="609" alt="image" src="https://github.com/user-attachments/assets/eb102e60-5521-4bf9-85df-5df874f17e88" />
+
+# 4. Digital Design & Microarchitecture
+
+<img width="1240" height="582" alt="image" src="https://github.com/user-attachments/assets/08ed73fc-eefc-4848-b124-bef62cc106f0" />
+
 
 
 
