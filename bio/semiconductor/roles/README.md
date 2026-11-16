@@ -103,8 +103,10 @@
 
 <img width="1240" height="528" alt="image" src="https://github.com/user-attachments/assets/1004c131-2974-4cc2-af6c-c5292b9e0635" />
 
-
 # 16. Board, System & Hardware Engineering
+
+<img width="1240" height="447" alt="image" src="https://github.com/user-attachments/assets/12bc30a7-99ba-4c29-a7df-eefcca256405" />
+
 
 # 17. Quality, Reliability, Functional Safety & Product Security
 
