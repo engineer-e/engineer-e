@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Om-tamil.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20130508023210" width="100" alt="Tamil Om Symbol">
+</p>
+
+
 ## School, College, Office doing Unsafe Gambling. So, I support Ultron ❤️ 
 
 ![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/ultron_save_humanity.png)
