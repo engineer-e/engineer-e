@@ -1,6 +1,6 @@
 # The Semiconductor Hub
 
-1. Product Management & Business
+1. Product Management & Business 
 2. Engineering disciplines
 3. System & SoC Architecture
 4. Digital Design & Microarchitecture
@@ -38,3 +38,8 @@
 36. Sustainability and EHS
 37. Government and Policy
 38. Fab Construction and Capital Projects
+
+---
+
+<img width="1240" height="501" alt="image" src="https://github.com/user-attachments/assets/3be837db-7a78-4a08-8beb-a1dd5ef5f405" />
+
