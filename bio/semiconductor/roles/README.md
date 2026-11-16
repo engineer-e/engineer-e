@@ -58,6 +58,30 @@
 
 <img width="1240" height="582" alt="image" src="https://github.com/user-attachments/assets/08ed73fc-eefc-4848-b124-bef62cc106f0" />
 
+# 5. Design Verification
+
+<img width="1240" height="501" alt="image" src="https://github.com/user-attachments/assets/841765ce-af03-4fbe-a494-8cfb8500fe91" />
+
+# 6. Analog, Mixed-Signal & RF Design
+
+<img width="1240" height="663" alt="image" src="https://github.com/user-attachments/assets/23f742bb-b6b1-4e07-af6b-a598845635e8" />
+
+# 7. Physical Design & Implementation
+
+<img width="1240" height="501" alt="image" src="https://github.com/user-attachments/assets/99b1acb5-cba2-4643-9392-91561eaa8f86" />
+
+# 8. DFT & Test Engineering
+
+<img width="1240" height="500" alt="image" src="https://github.com/user-attachments/assets/ddaee391-34b3-409e-810a-8c2dc87875c0" />
+
+# 9. Silicon Bring-up, Validation & Reliability
+
+<img width="1240" height="474" alt="image" src="https://github.com/user-attachments/assets/c4653af2-16ad-492c-83a1-f8b5961ad675" />
+
+# 10. Process Technology & Fab Operations
+
+<img width="1240" height="744" alt="image" src="https://github.com/user-attachments/assets/95fb2d4a-9460-4aed-990f-bd8a9e908bc8" />
+
 
 
 
