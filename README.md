@@ -9,6 +9,10 @@
   
 </p>
 
+<div align="center">
+  <img src="https://github.com/engineer-e/engineer-e/blob/main/images/human_model_issue.png">
+</div>
+
 <details>
   <summary>
     
