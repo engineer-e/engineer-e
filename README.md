@@ -186,6 +186,8 @@ This framework can be expanded into a **100+ scenario catalogue**, with separate
  
 </details>
 
+[![Watch the video](https://img.youtube.com/vi/3V7Y_t907Hg/maxresdefault.jpg)](https://youtu.be/3V7Y_t907Hg?si=12sNMwOe2Codcbo3)
+
 </details>
 
 ----
