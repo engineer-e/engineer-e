@@ -1,6 +1,7 @@
 
 
-
+<details>
+  <summary>
 <p align="center">
   
   <img style="float:left;" src="https://raw.githubusercontent.com/engineer-work/engineer-work/refs/heads/main/image/Om-tamil.png" width="50" alt="Tamil Om Symbol">
@@ -8,12 +9,17 @@
   <img style="float:right;"src="https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/ML1.png" width="50">
   
 </p>
+    
+  </summary>
 
 <div align="center">
   <img src="https://github.com/engineer-e/engineer-e/blob/main/images/human_model_issue.png">
 </div>
 
 ![](https://raw.githubusercontent.com/engineer-e/engineer-e/refs/heads/main/images/History_of_Tamil_script.jpg)
+
+</details>
+
 
 <details>
   <summary>
