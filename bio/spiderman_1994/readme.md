@@ -91,5 +91,7 @@
 
 * **ௐ** — **ஓம் (Om / பிரணவம்)** என்பதற்கான தமிழ் பிரத்யேகக் குறியீடு.
 
+[Tamil_units_of_measurement](en.wikipedia.org/wiki/Tamil_units_of_measurement)
+
 ---
 </details>
