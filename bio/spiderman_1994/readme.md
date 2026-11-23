@@ -50,6 +50,8 @@
 <details>
   <summary>🚨☢️ தேர்த்துகள் (Tērttugaḷ) — பழந்தமிழ் நுண்ணிய அளவை ☢️🚨 </summary>
 
+[![Watch the video](https://img.youtube.com/vi/eyZEqSPeMwg/maxresdefault.jpg)](https://youtu.be/eyZEqSPeMwg?si=sAKATd8DBUTym6tJ)
+
   நீங்கள் கொடுத்துள்ள தமிழ் எழுத்துகள் மற்றும் குறியீடுகளை **கிரந்த / பிறமொழி எழுத்துகள்**, **தமிழ் எண் / பின்னக் குறிகள்**, மற்றும் **சிறப்புக் குறியீடுகள்** என மூன்று வகைகளாகப் பிரிக்கலாம்.
 
 ---
