@@ -31,6 +31,13 @@
   >
 </a>
 
+<a href="https://daily-activity-planner.ai.studio">
+  <img
+    src="https://img.shields.io/badge/Semiconductor-Daily_Activity_Planner-orange?style=for-the-badge&logo=github"
+    alt="Daily Activity Planner"
+  >
+</a>
+
   </summary>
 
 
